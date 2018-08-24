@@ -6,6 +6,7 @@ new:
 	echo "---"                                                  >  $$post_path; \
 	echo "date: `date +"%Y-%m-%d %H:%M:%S %z"`"                 >> $$post_path; \
 	echo "title: \"$$title\""                                   >> $$post_path; \
+	echo "url: \"/$$title_slug\""                               >> $$post_path; \
 	echo "tags: "                                               >> $$post_path; \
 	echo "---"                                                  >> $$post_path; \
 	echo " "                                                    >> $$post_path; \
