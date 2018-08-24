@@ -1,0 +1,5 @@
+baseURL: https://labs.tomasino.org
+title: Tomasino Labs
+disablePathToLower: true
+languageCode: en-us
+theme: "tale"

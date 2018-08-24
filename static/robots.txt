@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /disqus/
+
+Sitemap: https://labs.tomasino.org/sitemap.xml
