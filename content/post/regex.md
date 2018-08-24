@@ -1,4 +1,5 @@
 ---
+url: "/regex"
 date: 2014-05-21T00:00:00Z
 excerpt: A How-To guide on Regular Expressions, created for my development team and
   shared for your enjoyment.

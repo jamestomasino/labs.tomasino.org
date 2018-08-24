@@ -1,4 +1,5 @@
 ---
+url: "/obscure-text"
 date: 2011-02-23T00:00:00Z
 excerpt: Implementing a toy project to encode information using unicode characters
   with a similar visual style as English counterparts in order to fool basic net monitoring

@@ -1,4 +1,5 @@
 ---
+url: "/streaming-video-player"
 date: 2011-07-13T00:00:00Z
 excerpt: Creating a new Streaming Video Player to fix the glaring inconsistencies
   and missing functionality in the native AS3 component.

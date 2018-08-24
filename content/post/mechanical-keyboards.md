@@ -1,4 +1,5 @@
 ---
+url: "/mechanical-keyboards"
 comments: true
 date: 2016-11-05T22:57:52Z
 excerpt: Laugh at me as I stumble into the slippery slope of mechanical keyboards,

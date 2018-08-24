@@ -1,4 +1,5 @@
 ---
+url: "/dotfiles"
 comments: true
 date: 2016-11-12T19:41:16Z
 excerpt: Another update on my endless quest for the perfect shell personalization.

@@ -1,4 +1,5 @@
 ---
+url: "/a-quick-assignment-operation"
 date: 2011-05-11T00:00:00Z
 excerpt: A reference post for doing fast assignment operations using the logical OR
   operator.

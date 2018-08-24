@@ -1,4 +1,5 @@
 ---
+url: "/as3-one-step-image-upload"
 date: 2009-04-30T00:00:00Z
 excerpt: Implementing an experiment to handle uploading files into Flash in a single
   step.

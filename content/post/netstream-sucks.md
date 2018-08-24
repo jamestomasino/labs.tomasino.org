@@ -1,4 +1,5 @@
 ---
+url: "/netstream-sucks"
 date: 2011-07-08T00:00:00Z
 excerpt: The AS3 Netstream object is broken and inconsistent in several ways. This
   article outlines the creation of a replacement class which uniformly manages properties,

@@ -1,4 +1,5 @@
 ---
+url: "/as3-keycode-reader"
 date: 2011-03-01T00:00:00Z
 excerpt: A basic implementation of a keycode reader in Flash AS3 for fun and profit.
 tags: as3 charcode cheat-codes io-capture keyboard keycode konami nintendo

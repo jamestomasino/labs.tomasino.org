@@ -1,4 +1,5 @@
 ---
+url: "/air-tools-fools"
 date: 2011-02-23T00:00:00Z
 excerpt: A silly logo design to make fun of a company I've never heard of.
 tags: design friend joke logo non-professional

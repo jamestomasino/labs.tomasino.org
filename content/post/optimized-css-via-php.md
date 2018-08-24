@@ -1,4 +1,5 @@
 ---
+url: "/optimized-css-via-php"
 date: 2011-11-30T00:00:00Z
 excerpt: An experiment to create a basic CSS preprocessor and minifier using PHP.
 tags: css gzip minify php preprocess style

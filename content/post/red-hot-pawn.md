@@ -1,4 +1,5 @@
 ---
+url: "/red-hot-pawn"
 date: 2011-02-23T00:00:00Z
 excerpt: A toy project in AS3 to create a flaming pawn effect. Inspired by the chess
   website, Red Hot Pawn.

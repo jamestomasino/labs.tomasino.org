@@ -1,4 +1,5 @@
 ---
+url: "/introducing-vim"
 date: 2015-04-11T00:00:00Z
 excerpt: Learning the most powerful text editor in the world will change everything
 tags: vim text-editor

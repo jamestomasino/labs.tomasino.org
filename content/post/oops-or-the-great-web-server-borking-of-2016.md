@@ -1,4 +1,5 @@
 ---
+url: "/oops-or-the-great-web-server-borking-of-2016"
 date: 2016-10-09T13:48:40Z
 excerpt: I broke my web server in epic fashion and have been migrating most of my
   content to static sites hosted on AWS via S3.

@@ -1,4 +1,5 @@
 ---
+url: "/git-changelist"
 date: 2013-11-14T00:00:00Z
 excerpt: A git alias that shows a list of files modified after an abstract date.
 title: git changelist

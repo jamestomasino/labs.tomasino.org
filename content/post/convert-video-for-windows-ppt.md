@@ -1,4 +1,5 @@
 ---
+url: "/convert-video-for-windows-ppt"
 comments: true
 date: 2017-08-17T02:12:26Z
 excerpt: Overcoming the pains of video conversion for legacy PPT on Windows 7 with

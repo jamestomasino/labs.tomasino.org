@@ -1,4 +1,5 @@
 ---
+url: "/mac-background-hacks"
 date: 2012-02-01T00:00:00Z
 excerpt: Using quirks of OSX to play funny pranks on people in the office AKA The
   Crazy Monkey.

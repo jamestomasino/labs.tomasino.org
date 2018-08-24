@@ -1,4 +1,5 @@
 ---
+url: "/for-parents"
 comments: true
 date: 2015-04-09T00:00:00Z
 excerpt: Creating an infinite-scroll photo gallery in Python using the Flickr API.

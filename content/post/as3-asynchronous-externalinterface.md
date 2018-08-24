@@ -1,4 +1,5 @@
 ---
+url: "/as3-asynchronous-externalinterface"
 date: 2012-05-24T00:00:00Z
 excerpt: Enabling AS3 ExternalInterface calls asynchronously through pure awesomeness
   and alchemy, or maybe just leveraging JavaScript.

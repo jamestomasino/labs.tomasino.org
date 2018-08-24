@@ -1,4 +1,5 @@
 ---
+url: "/morse"
 date: 2014-10-12T00:00:00Z
 excerpt: Wearable devices should look to the past for input inspiration. MORSE code
   holds the key.

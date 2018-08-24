@@ -1,4 +1,5 @@
 ---
+url: "/seo-search-engine-obfuscation"
 date: 2011-02-24T00:00:00Z
 excerpt: A modest proposal for an ever-so-slightly evil interpretation of SEO that
   is already being leveraged by intelligence groups worldwide to be adopted by corporate

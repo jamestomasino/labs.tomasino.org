@@ -1,4 +1,5 @@
 ---
+url: "/interfaces"
 date: 2011-03-03T00:00:00Z
 excerpt: An overview of Interfaces for developers unfamiliar with the concept using
   Flash AS3 as an example.

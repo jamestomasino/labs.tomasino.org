@@ -1,4 +1,5 @@
 ---
+url: "/merry-ol-england"
 date: 2008-09-26T00:00:00Z
 excerpt: Traveling to Flash on the Beach in Brighton for the 2008 conference.
 title: Merry Ol' England

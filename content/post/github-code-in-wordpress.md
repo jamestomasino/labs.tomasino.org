@@ -1,4 +1,5 @@
 ---
+url: "/github-code-in-wordpress"
 date: 2011-10-26T00:00:00Z
 excerpt: Writing a plugin for WordPress to embed code from Github and automatically
   highlight syntax.

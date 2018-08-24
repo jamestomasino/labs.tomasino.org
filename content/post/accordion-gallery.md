@@ -1,4 +1,5 @@
 ---
+url: "/accordion-gallery"
 date: 2011-02-23T00:00:00Z
 excerpt: A component in Flash developed to create a visual accordion effect for images.
 tags: accordion as3 freelance image-gallery

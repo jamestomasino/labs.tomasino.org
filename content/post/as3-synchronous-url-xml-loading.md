@@ -1,4 +1,5 @@
 ---
+url: "/as3-synchronous-url-xml-loading"
 date: 2010-04-01T00:00:00Z
 excerpt: Forcing the synchronous loading of XML data in Flash AS3.
 tags: adobe as3 bug service synchronous xml

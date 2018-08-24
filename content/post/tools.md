@@ -1,4 +1,5 @@
 ---
+url: "/tools"
 date: 2014-09-01T00:00:00Z
 excerpt: Taking a tour of my favorite tools for productivity, programming, and all
   around awesomeness.

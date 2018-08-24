@@ -1,4 +1,5 @@
 ---
+url: "/vim-in-context"
 date: 2015-03-28T00:00:00Z
 excerpt: Creating project specific settings for vim to enable custom abbreviations
   and spelling in writing projects.

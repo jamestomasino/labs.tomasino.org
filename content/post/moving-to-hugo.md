@@ -1,4 +1,5 @@
 ---
+url: "/moving-to-hugo"
 date: 2018-08-24 16:04:10 -0400
 title: "Moving to Hugo"
 tags: hugo jekyll blog

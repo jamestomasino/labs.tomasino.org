@@ -1,4 +1,5 @@
 ---
+url: "/boilerplates"
 date: 2012-10-04T00:00:00Z
 excerpt: A web-development boilerplate using a number of ruby and bash tools.
 tags: javascript

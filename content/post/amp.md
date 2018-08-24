@@ -1,4 +1,5 @@
 ---
+url: "/amp"
 date: 2016-07-31T00:00:00Z
 excerpt: Integrating accelerated mobile pages into this blog for screaming fast performance.
   A weekend project.
