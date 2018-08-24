@@ -6,7 +6,7 @@ excerpt: Wearable devices should look to the past for input inspiration. MORSE c
 title: Morse
 ---
 
-<amp-img width="631" height="239" layout="responsive" src="//labs.tomasino.org/assets/images/morse.png" alt="Wearable Devices"></amp-img>
+<img width="631" height="239" layout="responsive" src="//labs.tomasino.org/assets/images/morse.png" alt="Wearable Devices"></img>
 
 With wearable devices on the rise, small screen and no-screen user experience
 is a hot topic. We've been witnessing powerhouses in industrial and technical

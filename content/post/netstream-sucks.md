@@ -8,7 +8,7 @@ tags: adobe as3 fail netstream streaming video
 title: NetStream Sucks
 ---
 
-<amp-img width="750" height="546" layout="responsive" src="//labs.tomasino.org/assets/images/bridge-from-nowhere.jpg" alt="Bridge"></amp-img>
+<img width="750" height="546" layout="responsive" src="//labs.tomasino.org/assets/images/bridge-from-nowhere.jpg" alt="Bridge"></img>
 ![Bridge](//labs.tomasino.org/assets/images/bridge-from-nowhere.jpg "Half Begun - Half Finished")
 
 I have to give Adobe a lot of credit for all the hard work they put in

@@ -6,7 +6,7 @@ tags: as3 charcode cheat-codes io-capture keyboard keycode konami nintendo
 title: AS3 KeyCode Reader
 ---
 
-<amp-img width="600" height="804" layout="responsive" src="//labs.tomasino.org/assets/images/keycode.jpg" alt="up up down down left right left right b a start"></amp-img>
+<img width="600" height="804" layout="responsive" src="//labs.tomasino.org/assets/images/keycode.jpg" alt="up up down down left right left right b a start"></img>
 
 [Up Up Down Down Left Right Left Right B A Start][]
 

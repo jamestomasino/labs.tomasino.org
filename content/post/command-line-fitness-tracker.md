@@ -130,14 +130,14 @@ complete -F _track track
 In addition to fitness tracking, I'm actively trying to rewrite my poor eating and exercise habits using what I've learned from [The Power of Habit][] by Charles Duhigg. I've established a keystone habit in my morning walk that is already doing wonders. That one little change, and the little wins that come with it, are empowering a much bigger shift in my behavior. I can't recommend this book enough.
 
 <div class="center">
-<amp-iframe
+<iframe
 	height="240"
 	width="120"
 	sandbox="allow-forms allow-modals allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
 	frameborder="0"
 	scrolling="no"
 	src="https://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=tomablog-20&marketplace=amazon&region=US&placement=081298160X&asins=081298160X&linkId=6fad0faf787146f77e6ead9d5f87b2e4&show_border=true&link_opens_in_new_window=true">
-</amp-iframe>
+</iframe>
 </div>
 
   [delicious pizza]: http://www.delorenzospizza.com/

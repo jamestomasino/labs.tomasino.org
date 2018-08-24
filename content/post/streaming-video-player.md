@@ -7,7 +7,7 @@ tags: as3 component netstream streaming video
 title: Streaming Video Player
 ---
 
-<amp-img width="750" height="486" layout="responsive" src="//labs.tomasino.org/assets/images/flash-video-player.jpg" alt="Flash Video Player"></amp-img>
+<img width="750" height="486" layout="responsive" src="//labs.tomasino.org/assets/images/flash-video-player.jpg" alt="Flash Video Player"></img>
 
 Well, as promised, it's time to reveal the video player I've built on
 top of [SimpleNetStream][]. I don't care for components in Flash; I

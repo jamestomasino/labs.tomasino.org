@@ -7,7 +7,7 @@ tags: design javascript
 title: Chess Ratings
 ---
 
-<amp-img width="524" height="485" layout="responsive" src="//labs.tomasino.org/assets/images/chess-rating.png" alt="Chess Ratings"></amp-img>
+<img width="524" height="485" layout="responsive" src="//labs.tomasino.org/assets/images/chess-rating.png" alt="Chess Ratings"></img>
 
 [See it in action][]
 

@@ -6,7 +6,7 @@ tags: as3 design project-management scroll-wheel time-management ux-design
 title: Time Management App
 ---
 
-<amp-img width="446" height="421" layout="responsive" src="//labs.tomasino.org/assets/images/timemanagement.jpg" alt="Time Management"></amp-img>
+<img width="446" height="421" layout="responsive" src="//labs.tomasino.org/assets/images/timemanagement.jpg" alt="Time Management"></img>
 
 While at [Empathy Lab][], I was used as a resource on a lot of different
 projects per week. Sometimes my project managers didn't realize how much

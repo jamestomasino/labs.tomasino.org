@@ -6,7 +6,7 @@ tags: blur depth-of-field filters graphics parallax
 title: Depth of Field
 ---
 
-<amp-img width="700" height="264" layout="responsive" src="//labs.tomasino.org/assets/images/depthoffield.jpg" alt="Depth of Field"></amp-img>
+<img width="700" height="264" layout="responsive" src="//labs.tomasino.org/assets/images/depthoffield.jpg" alt="Depth of Field"></img>
 
 Why doesn't anyone play with depth of field in flash games? Parallax
 movement is all over the place, so why not changing depth of field?

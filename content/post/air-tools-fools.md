@@ -6,7 +6,7 @@ tags: design friend joke logo non-professional
 title: Air Tools (Fools)
 ---
 
-<amp-img width="575" height="410" layout="responsive" src="//labs.tomasino.org/assets/images/airtools.png" alt="Air Fools"></amp-img>
+<img width="575" height="410" layout="responsive" src="//labs.tomasino.org/assets/images/airtools.png" alt="Air Fools"></img>
 
 This was a quick logo design for a friend. I'm sure there's a story
 behind it, but I'll be damned if I remember it. I really wanted to play

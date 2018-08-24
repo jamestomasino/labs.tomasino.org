@@ -8,7 +8,7 @@ tags: as3 cryptography regex string-manipulation
 title: Obscure Text
 ---
 
-<amp-img width="493" height="72" layout="responsive" src="//labs.tomasino.org/assets/images/obscuretext.jpg" alt="Obscure Text"></amp-img>
+<img width="493" height="72" layout="responsive" src="//labs.tomasino.org/assets/images/obscuretext.jpg" alt="Obscure Text"></img>
 
 I love instant messaging. I love it for keeping up with personal
 contacts and as a work tool. I keep in touch with old coworkers and

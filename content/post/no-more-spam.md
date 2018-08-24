@@ -7,7 +7,7 @@ tags: alias cron cronjob email forwarder gmail pop3 spam
 title: No More Spam
 ---
 
-<amp-img width="750" height="300" layout="responsive" src="//labs.tomasino.org/assets/images/spam.jpg" alt="Spam"></amp-img>
+<img width="750" height="300" layout="responsive" src="//labs.tomasino.org/assets/images/spam.jpg" alt="Spam"></img>
 
 In an effort to never, ever get a single bit of spam, I instituted a bit
 of a ridiculous solution. Here's what I did:

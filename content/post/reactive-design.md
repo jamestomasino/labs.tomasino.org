@@ -15,7 +15,7 @@ of development quickly and easily without adding unnecessary overhead
 into our clients' budgets. The world is looking pretty swell for
 responsive.
 
-<amp-img width="400" height="200" layout="responsive" src="//labs.tomasino.org/assets/images/color-wheel.jpg" alt="Color Wheel"></amp-img>
+<img width="400" height="200" layout="responsive" src="//labs.tomasino.org/assets/images/color-wheel.jpg" alt="Color Wheel"></img>
 
 But what about other aspects of automatic design change? Responsive
 design gives great thought to changes in layout based on size, but what

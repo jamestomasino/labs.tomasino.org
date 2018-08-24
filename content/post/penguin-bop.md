@@ -7,7 +7,7 @@ tags: animation as2 design game portfolio wii
 title: Penguin Bop
 ---
 
-<amp-img width="598" height="449" layout="responsive" src="//labs.tomasino.org/assets/images/penguinbop.jpg" alt="Penguin Bop"></amp-img>
+<img width="598" height="449" layout="responsive" src="//labs.tomasino.org/assets/images/penguinbop.jpg" alt="Penguin Bop"></img>
 
 This AS2 project was part of an application to [Moxie Interactive][]
 back in 2007. There was talk back then of designing Wii games in Flash,

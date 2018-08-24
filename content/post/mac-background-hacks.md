@@ -21,4 +21,4 @@ background becomes a crazy monkey for 5 seconds!
 
 Ok, so that was probably a waste of time.
 
-<amp-img width="750" height="503" layout="responsive" src="//labs.tomasino.org/assets/images/crazy-monkey.jpg" alt="Crazy Monkey"></amp-img>
+<img width="750" height="503" layout="responsive" src="//labs.tomasino.org/assets/images/crazy-monkey.jpg" alt="Crazy Monkey"></img>

@@ -7,7 +7,7 @@ tags: animation as3 bitmap empathy-lab transition
 title: Slice Transition
 ---
 
-<amp-img width="700" height="336" layout="responsive" src="//labs.tomasino.org/assets/images/slicetransition.jpg" alt="Slice Transition"></amp-img>
+<img width="700" height="336" layout="responsive" src="//labs.tomasino.org/assets/images/slicetransition.jpg" alt="Slice Transition"></img>
 
 While working at [Empathy Lab][] I had the opportunity to help redesign
 the company website. I guess that's a pretty common task, but it was

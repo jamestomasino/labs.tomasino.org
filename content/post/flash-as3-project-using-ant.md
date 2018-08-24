@@ -13,7 +13,7 @@ any of you who might be starting down this path.
 
 First, let me give you an overview of the file structure I'm using.
 
-<amp-img width="406" height="450" layout="responsive" src="//labs.tomasino.org/assets/images/ant-folder-structure.png" alt="Ant Folder Structure"></amp-img>
+<img width="406" height="450" layout="responsive" src="//labs.tomasino.org/assets/images/ant-folder-structure.png" alt="Ant Folder Structure"></img>
 
 My main folders are "ant", "build", "html-template", and "src". The
 "ant" folder contains properties and configuration specific to the ant

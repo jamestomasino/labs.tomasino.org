@@ -9,7 +9,7 @@ tags: advertising disinformation marketing search-engine-obfuscation search-engi
 title: SEO - Search Engine Obfuscation
 ---
 
-<amp-img width="750" height="500" layout="responsive" src="//labs.tomasino.org/assets/images/disinformation.jpg" alt="Disinformation"></amp-img>
+<img width="750" height="500" layout="responsive" src="//labs.tomasino.org/assets/images/disinformation.jpg" alt="Disinformation"></img>
 
 In an era when half the entities on the internet are screaming to be
 heard and the other half are trying to hide, we've done remarkably

@@ -7,7 +7,7 @@ tags: animation as3 chess component design fire grant-skinner
 title: Red Hot Pawn
 ---
 
-<amp-img width="465" height="395" layout="responsive" src="//labs.tomasino.org/assets/images/redhotpawn.jpg" alt="Red Hot Pawn"></amp-img>
+<img width="465" height="395" layout="responsive" src="//labs.tomasino.org/assets/images/redhotpawn.jpg" alt="Red Hot Pawn"></img>
 
 I play a lot of chess. In fact, I play so much, I almost accidentally
 capitalized the word "chess" a moment ago. Yup, I have a problem.

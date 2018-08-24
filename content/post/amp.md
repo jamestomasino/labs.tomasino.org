@@ -9,7 +9,7 @@ twitter: true
 youtube: true
 ---
 
-<amp-twitter width="375" height="330" layout="responsive" data-tweetid="759595551377719296"> </amp-twitter>
+<twitter width="375" height="330" layout="responsive" data-tweetid="759595551377719296"> </twitter>
 
 The [AMP][] (Accelerated Mobile Pages) project has been floating around in the periphery for about a year, taunting me. I knew it was supposed to speed up mobile browsing, and it had something to do with articles, but that was the extent of it. I'm spending more and more time at [work][] educating coworkers and clients on mobile best practices, but not knowing AMP was making me feel a little hypocritical. Earlier this week I decided it was the right time to take the plunge.
 
@@ -24,15 +24,15 @@ AMP speeds are cool, but it's not a drop-in fix for all your woes. There's some 
 
 2. Only certain CSS styles are allowed: no !important tags, limited pseudo selectors, minimal animation controls, etc. By this time I'd decided to try out AMP on a blog, so the danger here was pretty small. I don't do crazy stuff to display articles, after all. If I were approaching one of the big pharma sites I build at work, this could be a problem. If you're starting from scratch, reviewing these limitations should be done before you start designing to avoid pitfalls.
 
-3. A whole bunch of AMP specific script files are needed for each component you leverage. In this blog I'm using `amp-analytics`, `amp-youtube`, `amp-twitter`, `amp-social-share`, and `amp-font`, which each point to a CDN hosted JS file. Once those and the basic AMP script are in place, you'll need to write your markup in specific namespaced ways. For instance, to include the social share links at the bottom of this article, I did:
+3. A whole bunch of AMP specific script files are needed for each component you leverage. In this blog I'm using `analytics`, `youtube`, `twitter`, `social-share`, and `font`, which each point to a CDN hosted JS file. Once those and the basic AMP script are in place, you'll need to write your markup in specific namespaced ways. For instance, to include the social share links at the bottom of this article, I did:
 
 ``` html
 <section class="share">
-	<amp-social-share type="twitter" width="60" height="44"></amp-social-share>
-	<amp-social-share type="gplus" width="60" height="44"></amp-social-share>
-	<amp-social-share type="linkedin" width="60" height="44"></amp-social-share>
-	<amp-social-share type="pinterest" width="60" height="44"></amp-social-share>
-	<amp-social-share type="email" width="60" height="44"></amp-social-share>
+	<social-share type="twitter" width="60" height="44"></social-share>
+	<social-share type="gplus" width="60" height="44"></social-share>
+	<social-share type="linkedin" width="60" height="44"></social-share>
+	<social-share type="pinterest" width="60" height="44"></social-share>
+	<social-share type="email" width="60" height="44"></social-share>
 </section>
 ```
 
@@ -42,10 +42,10 @@ Is it worth it? Well, that's ultimately up to you. Have a look around this blog,
 
 Interested in trying it yourself? Have a look at the introduction video below and then pop over to the [project page][] for documentation, examples, and discussion.
 
-<amp-youtube
+<youtube
     data-videoid="lBTCB7yLs8Y"
     layout="responsive"
-    width="480" height="270"></amp-youtube>
+    width="480" height="270"></youtube>
 
 
   [AMP]: https://www.ampproject.org/

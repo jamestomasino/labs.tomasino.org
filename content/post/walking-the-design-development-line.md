@@ -6,7 +6,7 @@ tags: augmented-reality collaboration communication design development papervisi
 title: Walking the design / development line
 ---
 
-<amp-img width="500" height="383" layout="responsive" src="//labs.tomasino.org/assets/images/design-development.png" alt="Design vs Development"></amp-img>
+<img width="500" height="383" layout="responsive" src="//labs.tomasino.org/assets/images/design-development.png" alt="Design vs Development"></img>
 
 A friend recently asked me a really good question. He asked, "How much
 code should a designer know?" It's a common question and it doesn't have

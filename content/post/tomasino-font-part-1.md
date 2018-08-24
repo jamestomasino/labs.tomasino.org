@@ -7,7 +7,7 @@ tags: college design father font
 title: Tomasino Font (Part 1)
 ---
 
-<amp-img width="750" height="295" layout="responsive" src="//raw.githubusercontent.com/jamestomasino/Font/master/viscom.jpg" alt="Viscom Logo"></amp-img>
+<img width="750" height="295" layout="responsive" src="//raw.githubusercontent.com/jamestomasino/Font/master/viscom.jpg" alt="Viscom Logo"></img>
 
 In the early 70's, [my dad][] was a student at [Kent State
 University][]. You may be familiar with the school from a [little][]
@@ -38,7 +38,7 @@ basic, and some of the characters are just shoddily made. Still, it's a
 strong start. Take a look:
 
 ![Tomasino Font][]
-<amp-img width="750" height="281" layout="responsive" src="//raw.githubusercontent.com/jamestomasino/Font/master/tomasino.jpg" alt="Viscom Logo"></amp-img>
+<img width="750" height="281" layout="responsive" src="//raw.githubusercontent.com/jamestomasino/Font/master/tomasino.jpg" alt="Viscom Logo"></img>
 
 I intend on cleaning this version up a little bit (redrawing the Z,
 centering some things better, fixing some weights), but I'm going to

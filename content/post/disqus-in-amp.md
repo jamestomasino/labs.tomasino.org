@@ -10,7 +10,7 @@ title: Disqus in Amp
 As a follow up to my [previous post][] where I converted this blog to take advantage of the [AMP Project][], I've finally managed to reintegrate [comments][]. I wasn't expecting this to be nearly as difficult as it was, but a few barriers quickly popped up.
 
 - AMP doesn't allow 3rd party javascript
-- No `amp-comments` component yet created
+- No `comments` component yet created
 - IFrame support is tricky
 
 Ok, so it's hard. So what?
@@ -22,11 +22,11 @@ Ok, so it's hard. So what?
 I scoured [StackOverflow][] and dug around on the AMP forums for solutions. There were two camps of opinions:
 
 1. It can't be done since you can't have custom JS
-2. It can be done, probably, with the `amp-iframe` component
+2. It can be done, probably, with the `iframe` component
 
 Not surprisingly, I favored opinion #2!
 
-My first go-around I attempted to bypass the need for JavaScript on my side by embedding Disqus comments in the normal way, but in the `amp-iframe`. That blew up spectacularly. Next I tried taking the HTML output from a proper Disqus embed and shoving that into a Jekyll template and duct taping it into an IFrame. Somehow that magic didn't work out either.
+My first go-around I attempted to bypass the need for JavaScript on my side by embedding Disqus comments in the normal way, but in the `iframe`. That blew up spectacularly. Next I tried taking the HTML output from a proper Disqus embed and shoving that into a Jekyll template and duct taping it into an IFrame. Somehow that magic didn't work out either.
 
 Finally I found a breakthrough. One commenter on the AMP forums asked a question about domain challenges he was hitting while attempting to do exactly what I was doing. He dropped off the comment thread after a bit and I got suspicious. Why would he leave unless he figured it out?
 
@@ -36,11 +36,11 @@ I pulled out pieces and tweaked them to fit my needs. Here's the rundown of the 
 
 ### HTML Template changes
 
-First I needed to add the `amp-iframe` component. I only need it on posts, so I added a little Liquid test.
+First I needed to add the `iframe` component. I only need it on posts, so I added a little Liquid test.
 
 ``` html
 {{ "{%" }} if page.layout == 'post' %}
-<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+<script async custom-element="iframe" src="https://cdn.ampproject.org/v0/iframe-0.1.js"></script>
 {{ "{%" }} endif %}
 ```
 
@@ -139,14 +139,14 @@ For the last bit of HTML, I needed to actually add the IFrame code to my Post la
 
 ``` html
 <section class="post-comments" id="comments">
-	<amp-iframe
+	<iframe
 		height="300"
 		sandbox="allow-forms allow-modals allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
 		resizable
 		frameborder="0"
 		src="{{ "{{" }} page.url | prepend: '/disqus' | prepend: site.baseurl | prepend: site.alt_url }}">
 		<div overflow tabindex="0" role="button" aria-label="Read more">Read more!</div>
-	</amp-iframe>
+	</iframe>
 </section>
 ```
 
@@ -196,7 +196,7 @@ end
 
 With all this code in place (actually the code above is the final working version. The few tweaks described below were added in) I figured I was golden. I had the HTML content for the IFrames generating properly. I had my templates in place and Liquid pulling things through correctly. I opened up my site to test it out and... nothing.
 
-Here's where I caught up with Marco. Due to some quirks of `amp-iframe` (I will assume the reasoning is legitimate and wise being that I read the explanations and understood almost none of it) I was unable to have my IFrame load content from the same domain that was serving my AMP content. In not-so-many words, my IFrames can't be on labs.tomasino.org.
+Here's where I caught up with Marco. Due to some quirks of `iframe` (I will assume the reasoning is legitimate and wise being that I read the explanations and understood almost none of it) I was unable to have my IFrame load content from the same domain that was serving my AMP content. In not-so-many words, my IFrames can't be on labs.tomasino.org.
 
 I looked back at what Marco had done and there it was, he'd created another domain to host the generated IFrame html pages.
 
@@ -258,19 +258,19 @@ Due to an unforeseen string replacement snafu in the old method, the Disqus iden
 
 ## UPDATE 2017-01-22
 
-I've finally gotten around to self-hosting my comment iFrame at https://comments.tomasino.org. You can [view the source][] to grab my latest iteration, or point directly to my page. To use it in your own sites, you only have to construct the amp-iframe tag with a few query parameters. Here's my version:
+I've finally gotten around to self-hosting my comment iFrame at https://comments.tomasino.org. You can [view the source][] to grab my latest iteration, or point directly to my page. To use it in your own sites, you only have to construct the iframe tag with a few query parameters. Here's my version:
 
 
 ``` html
 <section class="post-comments" id="comments">
-	<amp-iframe
+	<iframe
 		height="300"
 		sandbox="allow-forms allow-modals allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
 		resizable
 		frameborder="0"
 		src="https://comments.tomasino.org?disqus_title={{ page.title | cgi_escape}}&url={{ page.url | prepend: site.baseurl | prepend: site.url | cgi_escape }}&disqus_name=https%3A%2F%2F{{ site.disqus_name }}.disqus.com%2Fembed.js">
 		<div overflow tabindex="0" role="button" aria-label="Read more">Read more!</div>
-	</amp-iframe>
+	</iframe>
 </section>
 ```
 
@@ -296,7 +296,7 @@ As long as you pass along `disqus_title` (title of your article), `url` (url of 
     "Webrender user on Disqus"
   [Dan Goldin]: https://twitter.com/dangoldin
     "Dan Goldin on Twitter"
-  [page on an s3 bucket]: https://s3.amazonaws.com/dangoldin.com/amp-disqus.html
+  [page on an s3 bucket]: https://s3.amazonaws.com/dangoldin.com/disqus.html
     "Dan Goldin's hosted s3 Disqus Amp interface"
   [view the source]: https://comments.tomasino.org/
     "View source of Comment iFrame"

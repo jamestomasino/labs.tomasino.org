@@ -7,7 +7,7 @@ tags: bash timetracker functions
 title: Time tracker in Bash
 ---
 
-<amp-img width="703" height="430" layout="responsive" src="//labs.tomasino.org/assets/images/ti-example.gif" alt="ti Example"></amp-img>
+<img width="703" height="430" layout="responsive" src="//labs.tomasino.org/assets/images/ti-example.gif" alt="ti Example"></img>
 
 Yesterday I put together an [extremely basic time tracker][] on the command line to compliment my [other command line function][]. There's not much to it, really. The basics can be found in the help:
 

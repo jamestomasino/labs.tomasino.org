@@ -35,7 +35,7 @@ to smithereens!
 
 Have a look:
 
-<amp-iframe width="500"
+<iframe width="500"
   title="Ascii-Art Alt Text"
   height="265"
   layout="responsive"
@@ -43,7 +43,7 @@ Have a look:
   allowfullscreen
   frameborder="0"
   src="https://codepen.io/jamestomasino/embed/gojmvL/?height=265&theme-id=0&default-tab=html,result&embed-version=2">
-  </amp-iframe>
+  </iframe>
 
 So obviously this is 100% against all best practices regarding accessibility.
 Screen readers will murder you for trying it, and you will immediately descend

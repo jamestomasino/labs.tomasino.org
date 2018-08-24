@@ -22,7 +22,7 @@ Well, I don't mind them once, but I don't like regular big hassles.
 So I set out to fix it. I knew there must be some way around the
 problem, and I had just enough patience to deal with that hassle once.
 
-<amp-img width="750" height="188" layout="responsive" src="//labs.tomasino.org/assets/images/chrome-cacheless.jpg" alt="Chrome Cacheless"></amp-img>
+<img width="750" height="188" layout="responsive" src="//labs.tomasino.org/assets/images/chrome-cacheless.jpg" alt="Chrome Cacheless"></img>
 
 Look what I came up with! See that, folks? No cache. Pretty awesome,
 right? Well, it's a little annoying to set up, but I think it'll be
@@ -66,7 +66,7 @@ the directory. From Finder you can do this by right-clicking and
 choosing "Show Package Contents". In terminal, just "cd" into the
 directory. Here's what it looks like inside Chrome:
 
-<amp-img width="750" height="198" layout="responsive" src="//labs.tomasino.org/assets/images/chrome-package.jpg" alt="Chrome Package"></amp-img>
+<img width="750" height="198" layout="responsive" src="//labs.tomasino.org/assets/images/chrome-package.jpg" alt="Chrome Package"></img>
 
 Well, almost. You'll notice your MacOS folder has only the "Google
 Chrome" file, not the little darling "chrome". That's because I wrote

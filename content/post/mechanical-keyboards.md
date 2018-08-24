@@ -13,9 +13,9 @@ href="http://amzn.to/2fHeO7T">CM Storm QuickFire Rapid with Cherry MX Blue
 Switches</a>. I'm typing on it right now and it's hard to describe the
 difference I'm feeling. This is how a keyboard should feel.
 
-<amp-img width="600" height="324" layout="responsive"
+<img width="600" height="324" layout="responsive"
 src="//labs.tomasino.org/assets/images/cmstorm.jpg" alt="CM Storm
-Quickfire Rapid"></amp-img>
+Quickfire Rapid"></img>
 
 For the past few years I've been using the <a
 href="http://amzn.to/2eqhrVN">TypeMatrix 2030</a>. It's a pretty neat idea
@@ -77,9 +77,9 @@ push the keys and don't have as noticeable a clicking noise. They're the
 middle-way of switches. I have a keyboard coming with browns in the next
 week or so called the Das Keyboard 4C. Have a look at this beauty:
 
-<amp-img width="725" height="383" layout="responsive"
+<img width="725" height="383" layout="responsive"
 src="//labs.tomasino.org/assets/images/daskeyboard.jpg" alt="Das Keyboard
-4C Ultimate"></amp-img>
+4C Ultimate"></img>
 
 This model doesn't use Cherry MX switches, but rather Greetech. Some folks
 are all up in arms about this, but the quality ratings on the Greetech
