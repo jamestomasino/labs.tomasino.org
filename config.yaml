@@ -4,3 +4,5 @@ disablePathToLower: true
 languageCode: en-us
 theme: "tale"
 pygmentsCodeFences: true
+params:
+  Author: James Tomasino
