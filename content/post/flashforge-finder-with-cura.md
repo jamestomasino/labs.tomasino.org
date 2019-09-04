@@ -61,29 +61,33 @@ TinkerCAD uses vs Cura. Once I fixed that I was pretty much there.
 
 ## Start Code
 
-    xgcode 1.0
-    ;start gcode
-    M140 S0
-    M104 S{material_print_temperature} T0
-    M104 S0 T1
-    M107
-    G90
-    G28
-    M132 X Y Z A B
-    G1 Z50.00 F400
-    G161 X Y F3300
-    M6 T0
-    M907 X100 Y100 Z40 A80 B20
-    M108 T0
-    G1 Z.20 F400
+```conf
+xgcode 1.0
+;start gcode
+M140 S0
+M104 S{material_print_temperature} T0
+M104 S0 T1
+M107
+G90
+G28
+M132 X Y Z A B
+G1 Z50.00 F400
+G161 X Y F3300
+M6 T0
+M907 X100 Y100 Z40 A80 B20
+M108 T0
+G1 Z.20 F400
+```
 
 ## End Code
 
-    M104 S0 T0
-    G28 X Y
-    M132 X Y Z A B
-    G91
-    M18
+```conf
+M104 S0 T0
+G28 X Y
+M132 X Y Z A B
+G91
+M18
+```
 
 You'll notice in the screenshot above I set my filament size to 1.75mm
 instead of the default in Cura. Finally, in my project settings I enabled

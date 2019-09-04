@@ -42,6 +42,7 @@ h3 {
 #list h2,
 #index h2 {
   margin-top: 0;
+  margin-bottom: 50px;
   border-bottom: 1px solid #ccc;
 }
 
@@ -85,7 +86,7 @@ a:hover {
 main {
   margin: 0 auto;
   max-width: 800px;
-  padding: 1px 20px 20px 50px;
+  padding: 1px 20px 20px 60px;
 }
 
 #back {
@@ -94,18 +95,23 @@ main {
   text-shadow: none;
   box-shadow: none;
   display: block;
-  position: absolute;
-  top: 80px;
+  position: fixed;
+  background: #000;
+  color: #fff;
+  left: 0;
+  top: 0;
+  height: 100%;
+  padding: 5px;
+  box-sizing: border-box;
 }
 
 #back::after {
   content: 'BACK';
   position: absolute;
   transform: rotate(90deg);
-  left: 37px;
-  top: 29px;
+  left: 45px;
+  top: 40px;
   transform-origin: 0 0;
-  font-weight: bold;
   font-size: 0.7em;
 }
 
@@ -152,8 +158,10 @@ figure {
 
 @media screen and (max-width: 600px) {
   #back {
-    position: static;
-    padding-left: 10px;
+    position: absolute;
+    padding-left: 30px;
+    height: 46px;
+    width: 100%;
   }
 
   #back::after {
@@ -163,6 +171,6 @@ figure {
   }
 
   main {
-    padding: 1px 20px 20px 20px;
+    padding: 40px 20px 20px 20px;
   }
 }
