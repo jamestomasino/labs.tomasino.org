@@ -8,7 +8,6 @@ tags:
 
 {{< figure src="/assets/images/flashforge-finder.gif" alt="FlashForge Finder" >}}
 
-
 I brought my 3D printer with us to
 [Iceland](https://blog.tomasino.org/tags/iceland). My rationale was it's
 expensive to ship small things here, and so being able to print my own
