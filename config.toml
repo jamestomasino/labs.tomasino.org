@@ -7,7 +7,7 @@ pygmentsCodeFences = true
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 [params]
     author = "James Tomasino"
-    description = "Where good ideas run short on time"
+    description = "good ideas short on time"
 [author]
     name = "James Tomasino"
 
