@@ -1,8 +1,10 @@
 {{ partial "header.html" . }}
 <header>
-	<a id="back" href="{{ .Site.BaseURL }}">➦</a>
+  <a id="back" href="{{ .Site.BaseURL }}">←</a>
 </header>
-<main class="h-feed">
+<main id="list" class="h-feed">
+  <h1>Tag Summary</h1>
+  <h2>{{ .Title }}</h2>
 {{ range .Data.Pages }}
 {{ partial "tagsummary.html" . }}
 {{ end }}

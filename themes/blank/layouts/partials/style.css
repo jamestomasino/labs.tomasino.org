@@ -12,11 +12,15 @@ h1 {
   margin-bottom: 0;
 }
 
-h1 a {
+h1 a,
+h2 a,
+h3 a {
   box-shadow: inset 0 -1px 0 0 #fff, inset 0 -3px 0 0 #debdde;
 }
 
-h1 a:hover {
+h1 a:hover,
+h2 a:hover,
+h3 a:hover {
   box-shadow: inset 0 -1px 0 0 #fff, inset 0 -3px 0 0 #780078;
 }
 
@@ -26,6 +30,24 @@ h2 {
 
 h3 {
   font-size: 20px;
+}
+
+#list h1,
+#index h1 {
+  font-size: 14px;
+  font-style: italic;
+  line-height: 1.2em;
+}
+
+#list h2,
+#index h2 {
+  margin-top: 0;
+  border-bottom: 1px solid #ccc;
+}
+
+#list h3,
+#index h3 {
+  margin-bottom: 0;
 }
 
 p {
@@ -63,7 +85,7 @@ a:hover {
 main {
   margin: 0 auto;
   max-width: 800px;
-  padding: 20px;
+  padding: 1px 20px 20px 50px;
 }
 
 #back {
@@ -73,7 +95,18 @@ main {
   box-shadow: none;
   display: block;
   position: absolute;
-  transform: scale(-1, 1);
+  top: 80px;
+}
+
+#back::after {
+  content: 'BACK';
+  position: absolute;
+  transform: rotate(90deg);
+  left: 37px;
+  top: 29px;
+  transform-origin: 0 0;
+  font-weight: bold;
+  font-size: 0.7em;
 }
 
 #index ul,
@@ -110,4 +143,26 @@ footer {
 
 figure {
   text-align: center;
+}
+
+.info {
+  border-bottom: 1px solid #ccc;
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  #back {
+    position: static;
+    padding-left: 10px;
+  }
+
+  #back::after {
+    content: 'BACK';
+    position: static;
+    transform: none;
+  }
+
+  main {
+    padding: 1px 20px 20px 20px;
+  }
 }
