@@ -4,7 +4,6 @@ comments: true
 date: 2016-09-11T22:23:25Z
 excerpt: Who needs fancy fitness trackers when you can do everything in the command
   line with Bash, like a crazy person?
-tags: fitness shell bash
 title: Command Line Fitness Tracker
 ---
 

@@ -1,9 +1,16 @@
 ---
 url: "/no-more-spam"
 date: 2011-11-08T00:00:00Z
-excerpt: My technique for organizing, obfuscating, and generally over-engineering
-  my email to avoid spam via aliases.
-tags: alias cron cronjob email forwarder gmail pop3 spam
+excerpt: My technique for organizing, obfuscating, and generally over-engineering my email to avoid spam via aliases.
+tags:
+  - alias
+  - cron
+  - cronjob
+  - email
+  - forwarder
+  - gmail
+  - pop3
+  - spam
 title: No More Spam
 ---
 

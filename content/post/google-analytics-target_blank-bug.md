@@ -3,7 +3,12 @@ url: "/google-analytics-target_blank-bug"
 date: 2011-11-09T00:00:00Z
 excerpt: Patching a bug in Google Analytics related to target blank with jQuery and
   namespaced functions.
-tags: google-analytics javascript jquery links tracking
+tags:
+  - google analytics
+  - javascript
+  - jquery
+  - links
+  - tracking
 title: Google Analytics target=_blank bug
 ---
 

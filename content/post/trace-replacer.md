@@ -3,7 +3,6 @@ url: "/trace-replacer"
 date: 2011-04-27T00:00:00Z
 excerpt: An AS3 class to wrap the Trace functionality with more context, formatting,
   and flexibility.
-tags: as3 debug error logging trace
 title: Trace Replacer
 ---
 

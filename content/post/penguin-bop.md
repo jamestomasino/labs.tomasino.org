@@ -1,9 +1,14 @@
 ---
 url: "/penguin-bop"
 date: 2011-02-23T00:00:00Z
-excerpt: A small project I created as a portfolio piece when applying for work at
-  an advertising company early in my career.
-tags: animation as2 design game portfolio wii
+excerpt: A small project I created as a portfolio piece when applying for work at an advertising company early in my career.
+tags:
+  - animation
+  - as2
+  - design
+  - game
+  - portfolio
+  - wii
 title: Penguin Bop
 ---
 

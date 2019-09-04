@@ -2,7 +2,12 @@
 url: "/javascript-class-template"
 date: 2011-11-10T00:00:00Z
 excerpt: A reference post for a JavaScript class template I'm using currently.
-tags: class code javascript pretty syntax template
+tags:
+  - class
+  - code
+  - javascript
+  - pretty syntax
+  - template
 title: JavaScript Class Template
 ---
 

@@ -4,7 +4,6 @@ date: 2011-07-08T00:00:00Z
 excerpt: The AS3 Netstream object is broken and inconsistent in several ways. This
   article outlines the creation of a replacement class which uniformly manages properties,
   methods, and events.
-tags: adobe as3 fail netstream streaming video
 title: NetStream Sucks
 ---
 

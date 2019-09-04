@@ -3,7 +3,6 @@ url: "/comments"
 comments: true
 date: 2017-12-18T11:24:28Z
 excerpt: I don't think comments and commenting systems are worth their social cost.
-tags: comments social development
 title: Comments
 ---
 

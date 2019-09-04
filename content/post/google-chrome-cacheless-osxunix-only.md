@@ -1,9 +1,16 @@
 ---
 url: "/google-chrome-cacheless-osxunix-only"
 date: 2011-09-02T00:00:00Z
-excerpt: A How-To guide to running Google Chrome in a permanently cacheless state
-  for development.
-tags: browsers cache cache-busting cacheless chrome google google-chrome osx
+excerpt: A How-To guide to running Google Chrome in a permanently cacheless state for development.
+tags:
+  - browsers
+  - cache
+  - cache busting
+  - cacheless
+  - chrome
+  - google
+  - google chrome
+  - osx
 title: Google Chrome Cacheless (OSX/Unix only)
 ---
 

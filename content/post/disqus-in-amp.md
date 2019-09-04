@@ -3,7 +3,6 @@ url: "/disqus-in-amp"
 comments: true
 date: 2016-08-25T12:30:11Z
 excerpt: Enabling comments in AMP pages
-tags: amp website html
 title: Disqus in Amp
 ---
 

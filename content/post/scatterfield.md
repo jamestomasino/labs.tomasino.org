@@ -1,9 +1,14 @@
 ---
 url: "/scatterfield"
 date: 2011-02-23T00:00:00Z
-excerpt: A loading screen designed to entertain young children by allowing them to
-  play with and pop bubbles.
-tags: as3 bubbles constraints hit-detection hittest math
+excerpt: A loading screen designed to entertain young children by allowing them to play with and pop bubbles.
+tags:
+  - as3
+  - bubbles
+  - constraints
+  - hit detection
+  - hittest
+  - math
 title: Scatterfield
 ---
 

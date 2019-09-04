@@ -2,9 +2,11 @@
 url: "/mechanical-keyboards"
 comments: true
 date: 2016-11-05T22:57:52Z
-excerpt: Laugh at me as I stumble into the slippery slope of mechanical keyboards,
-  custom keycaps, O-rings, and other typist nonsense.
-tags: keyboard mechanical-keyboard hardware
+excerpt: Laugh at me as I stumble into the slippery slope of mechanical keyboards, custom keycaps, O-rings, and other typist nonsense.
+tags:
+  - keyboard
+  - mechanical keyboard
+  - hardware
 title: Mechanical Keyboards
 ---
 

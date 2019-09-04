@@ -3,7 +3,10 @@ url: "/time-tracker-in-bash"
 comments: true
 date: 2016-09-18T11:01:18Z
 excerpt: I built a simple time tracker in Bash as a way to hone my command line skills.
-tags: bash timetracker functions
+tags:
+  - bash
+  - timetracker
+  - functions
 title: Time tracker in Bash
 ---
 

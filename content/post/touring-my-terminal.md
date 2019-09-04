@@ -3,7 +3,6 @@ url: "/touring-my-terminal"
 comments: true
 date: 2017-12-29T13:24:55Z
 excerpt: A quick walkthrough of my terminal setup across multiple systems
-tags: terminal cli
 title: Touring my terminal
 ---
 

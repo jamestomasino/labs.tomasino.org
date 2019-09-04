@@ -2,7 +2,10 @@
 url: "/flash-as3-project-using-ant"
 date: 2011-12-14T00:00:00Z
 excerpt: A How-To guide for creating rich AS3 projects using ANT rather than Flash.
-tags: actionscript javascript other
+tags:
+  - actionscript
+  - javascript
+  - other
 title: Flash AS3 Project using Ant
 ---
 

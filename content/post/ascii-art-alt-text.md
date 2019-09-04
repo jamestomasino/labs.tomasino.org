@@ -3,7 +3,11 @@ url: "/ascii-art-alt-text"
 comments: true
 date: 2018-01-15T15:57:28Z
 excerpt: Using alt text in horrible ways it should never be used
-tags: alt-text accessibility ascii
+tags:
+  - alt-text
+  - accessibility
+  - ascii
+  - ascii art
 title: Ascii Art Alt Text
 ---
 

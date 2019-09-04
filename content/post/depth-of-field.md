@@ -2,7 +2,12 @@
 url: "/depth-of-field"
 date: 2011-02-23T00:00:00Z
 excerpt: Implementing a faux depth of field in Flash using mouse controls.
-tags: blur depth-of-field filters graphics parallax
+tags:
+  - blur
+  - depth-of-field
+  - filters
+  - graphics
+  - parallax
 title: Depth of Field
 ---
 

@@ -1,9 +1,12 @@
 ---
 url: "/flash-as3-runtime-font-manager"
 date: 2009-07-16T00:00:00Z
-excerpt: Creating a library to handle the loading and management of fonts at runtime
-  in Flash AS3.
-tags: as3 font font-manager runtime
+excerpt: Creating a library to handle the loading and management of fonts at runtime in Flash AS3.
+tags:
+  - as3
+  - font
+  - font manager
+  - runtime
 title: Flash AS3 Runtime Font Manager
 ---
 

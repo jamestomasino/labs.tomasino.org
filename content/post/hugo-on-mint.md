@@ -4,7 +4,6 @@ comments: true
 date: 2017-08-25T09:20:49Z
 excerpt: Installing Hugo on Linux Mint (or Ubuntu) can lead to weird compile problems.
   Here's the quick way to fix it.
-tags: hugo mint linux static-site-generator
 title: Hugo on Mint
 ---
 

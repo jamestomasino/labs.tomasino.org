@@ -1,12 +1,11 @@
 ---
 url: "/amp"
 date: 2016-07-31T00:00:00Z
-excerpt: Integrating accelerated mobile pages into this blog for screaming fast performance.
-  A weekend project.
-tags: amp page-speed
+excerpt: Integrating accelerated mobile pages into this blog for screaming fast performance. A weekend project.
+tags:
+  - amp
+  - page-speed
 title: AMP
-twitter: true
-youtube: true
 ---
 
 <twitter width="375" height="330" layout="responsive" data-tweetid="759595551377719296"> </twitter>

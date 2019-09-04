@@ -1,9 +1,10 @@
 ---
 url: "/chess-ratings"
 date: 2013-07-12T00:00:00Z
-excerpt: A mathematical experiment in using the Chess ELO rating system for the comparison
-  of an abstract pool.
-tags: design javascript
+excerpt: A mathematical experiment in using the Chess ELO rating system for the comparison of an abstract pool.
+tags:
+  - design
+  - javascript
 title: Chess Ratings
 ---
 

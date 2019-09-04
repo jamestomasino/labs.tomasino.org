@@ -2,7 +2,10 @@
 url: "/moving-to-hugo"
 date: 2018-08-24 16:04:10 -0400
 title: "Moving to Hugo"
-tags: hugo jekyll blog
+tags:
+  - hugo
+  - jekyll
+  - blog
 ---
 
 It's been way too long since I've updated my labs blog, and that is sadly

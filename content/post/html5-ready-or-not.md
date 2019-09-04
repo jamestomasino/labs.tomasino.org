@@ -2,7 +2,10 @@
 url: "/html5-ready-or-not"
 date: 2012-02-01T00:00:00Z
 excerpt: A critical review of the current state of HTML5 in a post-Flash world.
-tags: actionscript javascript other
+tags:
+  - actionscript
+  - javascript
+  - other
 title: HTML5 - Ready or not?
 ---
 

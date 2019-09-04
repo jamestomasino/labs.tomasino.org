@@ -2,7 +2,12 @@
 url: "/flash-omniture-tracking"
 date: 2011-02-01T00:00:00Z
 excerpt: A How-To guide for implementing Omniture tracking in Flash AS3.
-tags: analytics as3 component omniture tracking
+tags:
+  - analytics
+  - as3
+  - component
+  - omniture
+  - tracking
 title: Flash Omniture Tracking
 ---
 

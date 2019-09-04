@@ -2,6 +2,7 @@ body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   line-height: 28px;
   font-weight: 500;
+  overflow-x: hidden;
 }
 
 h1 {
@@ -92,4 +93,17 @@ time {
 
 footer {
   margin-top: 25px;
+}
+
+.highlight {
+  font-family: monospace;
+  line-height: 1em;
+}
+
+.highlight pre {
+  padding: 10px;
+}
+
+figure {
+  text-align: center;
 }

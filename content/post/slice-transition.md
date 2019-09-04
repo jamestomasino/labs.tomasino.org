@@ -3,7 +3,6 @@ url: "/slice-transition"
 date: 2011-02-23T00:00:00Z
 excerpt: Implementing a visual transition that slices up dynamic visual content to
   flip tiles in Flash AS3.
-tags: animation as3 bitmap empathy-lab transition
 title: Slice Transition
 ---
 

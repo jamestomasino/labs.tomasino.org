@@ -2,7 +2,6 @@
 url: "/hotkey-management"
 date: 2011-03-08T00:00:00Z
 excerpt: Identifying a rich keyboard management system developed by DestroyToday.
-tags: as3 hotkey keyboard keypress signals
 title: Hotkey Management
 ---
 

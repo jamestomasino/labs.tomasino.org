@@ -2,7 +2,6 @@
 url: "/flash-as3-debug-logging"
 date: 2009-12-04T00:00:00Z
 excerpt: A How-To guide for debug logging in Flash AS3.
-tags: as3 debug logging
 title: Flash AS3 Debug Logging
 ---
 

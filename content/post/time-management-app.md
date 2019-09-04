@@ -2,7 +2,6 @@
 url: "/time-management-app"
 date: 2011-02-23T00:00:00Z
 excerpt: A toy project to visually depict time resourcing of projects.
-tags: as3 design project-management scroll-wheel time-management ux-design
 title: Time Management App
 ---
 

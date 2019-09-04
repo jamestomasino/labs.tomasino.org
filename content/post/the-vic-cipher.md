@@ -3,7 +3,6 @@ url: "/the-vic-cipher"
 date: 2011-08-20T00:00:00Z
 excerpt: An experiment to recreate the famous VIC cipher encoders and decoders using
   Flash AS3.
-tags: as3 cipher cold-war cryptography encode flash russian vic
 title: The VIC Cipher
 ---
 

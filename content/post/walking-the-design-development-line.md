@@ -2,7 +2,13 @@
 url: "/walking-the-design-development-line"
 date: 2011-02-24T00:00:00Z
 excerpt: Discussing the benefits of blending knowledge of development and design.
-tags: augmented-reality collaboration communication design development papervision-3d
+tags:
+  - augmented reality
+  - collaboration
+  - communication
+  - design
+  - development
+  - papervision-3d
 title: Walking the design / development line
 ---
 

@@ -1,9 +1,12 @@
 ---
 url: "/tomasino-font-part-1"
 date: 2011-04-28T00:00:00Z
-excerpt: Digitizing a font my father created manually in his college days as homage
-  and gift.
-tags: college design father font
+excerpt: Digitizing a font my father created manually in his college days as homage and gift.
+tags:
+  - college
+  - design
+  - father
+  - font
 title: Tomasino Font (Part 1)
 ---
 

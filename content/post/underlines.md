@@ -3,7 +3,10 @@ url: "/underlines"
 comments: true
 date: 2017-08-23T16:55:49Z
 excerpt: Making the perfect underlines that work on superscripts, like a boss
-tags: underline css html
+tags:
+  - underline
+  - css
+  - html
 title: Underlines
 ---
 

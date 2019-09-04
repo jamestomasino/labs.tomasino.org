@@ -1,10 +1,17 @@
 ---
 url: "/lat-long-distance"
 date: 2011-02-23T00:00:00Z
-excerpt: An experiment to implement major distance calculation formulae using latitude
-  and longitude, and comparing results.
-tags: cosine-law distance haversine latitude longitude math oblique-spheroid sphere
-  vincenty
+excerpt: An experiment to implement major distance calculation formulae using latitude and longitude, and comparing results.
+tags:
+  - cosine law
+  - distance
+  - haversine
+  - latitude
+  - longitude
+  - math
+  - oblique spheroid
+  - sphere
+  - vincenty
 title: Lat-Long Distance
 ---
 

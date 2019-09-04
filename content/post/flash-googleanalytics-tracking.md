@@ -2,7 +2,12 @@
 url: "/flash-googleanalytics-tracking"
 date: 2011-01-31T00:00:00Z
 excerpt: A How-To guide for implementing Google Analytics tracking in Flash AS3.
-tags: analytics as3 component google tracking
+tags:
+  - analytics
+  - as3
+  - component
+  - google
+  - tracking
 title: Flash Google Analytics Tracking
 ---
 

@@ -1,9 +1,13 @@
 ---
 url: "/elf-name-generator"
 date: 2011-02-23T00:00:00Z
-excerpt: Generating silly names in the elvish style based on the components given
-  in Tolkein's language notes.
-tags: names nerd regex string-manipulation xml
+excerpt: Generating silly names in the elvish style based on the components given in Tolkein's language notes.
+tags:
+  - names
+  - nerd
+  - regex
+  - string manipulation
+  - xml
 title: Elf Name Generator
 ---
 
