@@ -13,7 +13,7 @@ h1 {
 }
 
 h1 a {
-  box-shadow: inset 0 -1px 0 0 #fff, inset 0 -3px 0 0 #DEBDDE;
+  box-shadow: inset 0 -1px 0 0 #fff, inset 0 -3px 0 0 #debdde;
 }
 
 h1 a:hover {
@@ -52,11 +52,11 @@ a {
   color: #333;
   text-decoration: none;
   text-shadow: 1px 1px 0 #fff, -1px 1px 0 #fff, 2px 0 0 #fff, -2px 0 0 #fff;
-  box-shadow: inset 0 2px 0 0 #fff, inset 0 -1px 0 0 #DEBDDE;
+  box-shadow: inset 0 2px 0 0 #fff, inset 0 -1px 0 0 #debdde;
 }
 
 a:hover {
-  transition: box-shadow .3s;
+  transition: box-shadow 0.3s;
   box-shadow: inset 0 2px 0 0 #fff, inset 0 -1px 0 0 #780078;
 }
 
@@ -76,13 +76,17 @@ main {
   transform: scale(-1, 1);
 }
 
-#index ul, #index li, #tags, #tags li {
+#index ul,
+#index li,
+#tags,
+#tags li {
   display: inline-block;
   margin: 0;
   padding: 0 5px 0 0;
 }
 
-#index li a, #tags li a {
+#index li a,
+#tags li a {
   color: #888;
 }
 
