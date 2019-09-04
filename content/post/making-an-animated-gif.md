@@ -3,6 +3,9 @@ date: 2019-08-25 15:48:57 +0000
 title: "Making an animated gif"
 url: "/making-an-animated-gif"
 tags:
+  - cli
+  - gif
+  - ffmpeg
 ---
 
 In my [last post](/flashforge-finder-with-cura) I wanted to lead off with
