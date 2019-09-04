@@ -95,6 +95,4 @@ printer, though, and your mileage may vary.
 So, there it is: Cura settings that actually work with FlashForge Finder.
 Go forth and create!
 
-{{< youtube lIa_5JSBRjA >}}
-
-<!--  vim: set shiftwidth=4 tabstop=4 expandtab: -->
+{{< youtube "lIa_5JSBRjA" >}}
