@@ -1,3 +1,10 @@
+help:
+	@echo "Make targets:"
+	@echo "\tnew    - create a new post"
+	@echo "\tserve  - start hugo watcher and webserver"
+	@echo "\tbuild  - build hugo source"
+	@echo "\tdeploy - send built files to webserver"
+
 new:
 	@test -n "$(title)" || read -p "Enter a title for your post: " title; \
 	export title_slug=`echo $${title:-Untitled} | sed -E -e 's/[^[:alnum:]]/-/g' -e 's/^-+|-+$$//g' | tr -s '-' | tr A-Z a-z`; \
@@ -25,4 +32,4 @@ build:
 deploy: build
 	rsync -rvhe ssh --progress --delete ./public/ labs.tomasino.org:/var/www/labs.tomasino.org/
 
-.PHONY: new_post serve build deploy
+.PHONY: new serve build deploy help
