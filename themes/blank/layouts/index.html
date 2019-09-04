@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+<main id="index" class="h-feed">
+{{ range (where .Site.RegularPages "Type" "post") }}
+{{ partial "summary.html" . }}
+{{ end }}
+<footer>
+  <span>
+    &copy; <time datetime="{{ now }}">{{ now.Format "2006" }}</time> <a rel="me" href="https://tomasino.org">James Tomasino</a>.
+  </span>
+</footer>
+</main>
+</body>
+</html>
