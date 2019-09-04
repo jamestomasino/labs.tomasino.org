@@ -99,4 +99,4 @@ printer, though, and your mileage may vary.
 So, there it is: Cura settings that actually work with FlashForge Finder.
 Go forth and create!
 
-{{< youtube "lIa_5JSBRjA" >}}
+{{< peertube "toobnix.org" "f6853c15-39cf-4312-8182-6f77096b9b2a" >}}
