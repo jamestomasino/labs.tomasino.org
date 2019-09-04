@@ -5,6 +5,8 @@ date: 2016-09-11T22:23:25Z
 excerpt: Who needs fancy fitness trackers when you can do everything in the command
   line with Bash, like a crazy person?
 title: Command Line Fitness Tracker
+tags:
+  - cli
 ---
 
 I've been trying to get back on the fitness and healthy eating wagon lately after my last attempt fell apart because of [delicious pizza][]. I keep track of my dietary macros in MyFitnessPal, mainly because of the ease in looking up food. Beyond that one feature I really can't stand the experience in either the app or the website.

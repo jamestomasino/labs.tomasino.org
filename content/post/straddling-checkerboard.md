@@ -4,6 +4,8 @@ date: 2011-04-21T00:00:00Z
 excerpt: Exploring the early days of cryptography by recreating manual techniques
   using Flash AS3.
 title: Straddling Checkerboard
+tags:
+  - cryptography
 ---
 
 Back in the ancient days before computers and the interweb, the

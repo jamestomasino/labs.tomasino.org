@@ -4,6 +4,8 @@ date: 2011-02-23T00:00:00Z
 excerpt: Implementing a visual transition that slices up dynamic visual content to
   flip tiles in Flash AS3.
 title: Slice Transition
+tags:
+  - as3
 ---
 
 <img width="700" height="336" layout="responsive" src="//labs.tomasino.org/assets/images/slicetransition.jpg" alt="Slice Transition"></img>

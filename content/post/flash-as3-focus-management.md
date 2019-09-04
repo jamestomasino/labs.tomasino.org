@@ -3,6 +3,8 @@ url: "/flash-as3-focus-management"
 date: 2009-12-03T00:00:00Z
 excerpt: Managing tab order and focus of complex movieclips in Flash AS3.
 title: Flash AS3 Focus Management
+tags:
+  - as3
 ---
 
 I'm building a new project at work that's going to require me to be more

@@ -5,6 +5,8 @@ excerpt: The AS3 Netstream object is broken and inconsistent in several ways. Th
   article outlines the creation of a replacement class which uniformly manages properties,
   methods, and events.
 title: NetStream Sucks
+tags:
+  - as3
 ---
 
 <img width="750" height="546" layout="responsive" src="//labs.tomasino.org/assets/images/bridge-from-nowhere.jpg" alt="Bridge"></img>

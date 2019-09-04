@@ -4,6 +4,8 @@ date: 2012-02-01T00:00:00Z
 excerpt: Using quirks of OSX to play funny pranks on people in the office AKA The
   Crazy Monkey.
 title: Mac Background Hacks
+tags:
+  - funny
 ---
 
 OSX has an option in the Desktop Background section that allows you to

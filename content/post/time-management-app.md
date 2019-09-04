@@ -3,6 +3,8 @@ url: "/time-management-app"
 date: 2011-02-23T00:00:00Z
 excerpt: A toy project to visually depict time resourcing of projects.
 title: Time Management App
+tags:
+  - cli
 ---
 
 <img width="446" height="421" layout="responsive" src="//labs.tomasino.org/assets/images/timemanagement.jpg" alt="Time Management"></img>

@@ -3,6 +3,8 @@ url: "/open-source-science"
 date: 2014-03-25T00:00:00Z
 excerpt: A proposal for a Github-style platform for collaborative, open science.
 title: Open Source Science
+tags:
+  - science
 ---
 
 Mark this one down in the list of cool ideas I'll never follow through

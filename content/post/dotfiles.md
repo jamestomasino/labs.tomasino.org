@@ -4,6 +4,8 @@ comments: true
 date: 2016-11-12T19:41:16Z
 excerpt: Another update on my endless quest for the perfect shell personalization.
 title: dotfiles
+tags:
+  - cli
 ---
 
 I made a fairly major modification to my [dotfiles][] yesterday when

@@ -4,6 +4,8 @@ date: 2014-09-01T00:00:00Z
 excerpt: Taking a tour of my favorite tools for productivity, programming, and all
   around awesomeness.
 title: Tools
+tags:
+  - meta
 ---
 
 If you want to start a war between coders, just ask them to start describing

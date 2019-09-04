@@ -3,6 +3,8 @@ url: "/as3-duplicate-loaded-swf"
 date: 2010-04-20T00:00:00Z
 excerpt: A Flash AS3 class to duplicate dynamically loaded SWF content using ByteArray.
 title: AS3 Duplicate Loaded SWF
+tags:
+  - as3
 ---
 
 A really common problem that shows up in a lot of the Flash apps I build

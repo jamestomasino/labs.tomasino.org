@@ -4,6 +4,8 @@ comments: true
 date: 2016-08-25T12:30:11Z
 excerpt: Enabling comments in AMP pages
 title: Disqus in Amp
+tags:
+  - comments
 ---
 
 As a follow up to my [previous post][] where I converted this blog to take advantage of the [AMP Project][], I've finally managed to reintegrate [comments][]. I wasn't expecting this to be nearly as difficult as it was, but a few barriers quickly popped up.

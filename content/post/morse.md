@@ -4,6 +4,8 @@ date: 2014-10-12T00:00:00Z
 excerpt: Wearable devices should look to the past for input inspiration. MORSE code
   holds the key.
 title: Morse
+tags:
+  - ui
 ---
 
 <img width="631" height="239" layout="responsive" src="//labs.tomasino.org/assets/images/morse.png" alt="Wearable Devices"></img>

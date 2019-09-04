@@ -4,6 +4,8 @@ date: 2011-04-27T00:00:00Z
 excerpt: An AS3 class to wrap the Trace functionality with more context, formatting,
   and flexibility.
 title: Trace Replacer
+tags:
+  - as3
 ---
 
 In AS3, the most basic debugging tool is the trace() statement. You

@@ -3,6 +3,8 @@ url: "/hotkey-management"
 date: 2011-03-08T00:00:00Z
 excerpt: Identifying a rich keyboard management system developed by DestroyToday.
 title: Hotkey Management
+tags:
+  - as3
 ---
 
 In an earlier post I explained my approach to keycodes in AS3. If you're

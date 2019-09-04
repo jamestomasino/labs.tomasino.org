@@ -4,6 +4,10 @@ date: 2015-03-28T00:00:00Z
 excerpt: Creating project specific settings for vim to enable custom abbreviations
   and spelling in writing projects.
 title: Vim in Context
+tags:
+  - text editor
+  - vim
+  - cli
 ---
 
 I've mentioned [before](https://labs.tomasino.org/tools/) that I firmly love vim and use it for just about everything. Well, that's probably underselling it.

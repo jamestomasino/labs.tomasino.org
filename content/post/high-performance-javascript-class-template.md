@@ -3,6 +3,8 @@ url: "/high-performance-javascript-class-template"
 date: 2012-06-08T00:00:00Z
 excerpt: A reference post for a JavaScript class template as found in iScroll.
 title: High Performance JavaScript Class Template
+tags:
+  - javascript
 ---
 
 This is a post more for my own future reference than the rest of the

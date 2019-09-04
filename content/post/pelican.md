@@ -3,6 +3,8 @@ url: "/pelican"
 date: 2014-04-04T00:00:00Z
 excerpt: Transforming this labs blog into the Pelican static site generator.
 title: Pelican
+tags:
+  - meta
 ---
 
 This past weekend I finally shed my Wordpress blogs and moved into the world of static site publishing. This site, and my [personal blog](//blog.tomasino.org) are now built using [Pelican](//pelican.readthedocs.org/en/3.3.0/), a Python based static site generator.

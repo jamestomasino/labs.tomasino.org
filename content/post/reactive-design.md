@@ -3,6 +3,9 @@ url: "/reactive-design"
 date: 2012-08-10T00:00:00Z
 excerpt: Creating designs that react to dynamic content and adapt the user experience.
 title: Reactive Design
+tags:
+  - design
+  - ui
 ---
 
 [Responsive Web Design][] is a huge movement in the web development

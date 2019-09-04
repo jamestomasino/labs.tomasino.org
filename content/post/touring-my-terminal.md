@@ -4,6 +4,8 @@ comments: true
 date: 2017-12-29T13:24:55Z
 excerpt: A quick walkthrough of my terminal setup across multiple systems
 title: Touring my terminal
+tags:
+  - cli
 ---
 
 [![Terminal Asciicast](https://asciinema.org/a/bmRtmRZfdNhCKmy6PTdCQcJBB.png)](https://asciinema.org/a/bmRtmRZfdNhCKmy6PTdCQcJBB)

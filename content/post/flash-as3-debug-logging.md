@@ -3,6 +3,8 @@ url: "/flash-as3-debug-logging"
 date: 2009-12-04T00:00:00Z
 excerpt: A How-To guide for debug logging in Flash AS3.
 title: Flash AS3 Debug Logging
+tags:
+  - as3
 ---
 
 In my last post I mentioned that my TabManager class took advantage of
