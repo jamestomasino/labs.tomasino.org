@@ -105,7 +105,7 @@ for identity proof or authentication. It will fail. This is not
 a limit of technology, but a limit of philosophy.
 
 
-  [another Story]: https://interestingengineering.com/printed-masks-fool-airport-facial-recognition-technology-researchers-discovered)
+  [another story]: https://interestingengineering.com/printed-masks-fool-airport-facial-recognition-technology-researchers-discovered
     "Printed Masks Fool Airport Facial Recognition Technology, Researchers Discovered"
 
   [NIST Identity Guidelines]: https://pages.nist.gov/800-63-3/
