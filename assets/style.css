@@ -176,3 +176,39 @@ figure {
     padding: 40px 20px 20px 20px;
   }
 }
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background: #303030;
+		color:#c1c1c1;
+	}
+	a {
+		color: white;
+		text-shadow: 1px 1px 0 #303030, -1px 1px 0 #303030, 2px 0 0 #303030, -2px 0 0 #303030;
+		box-shadow: inset 0 1px 0 0 #303030, inset 0 -1px 0 0 #97ecec;
+	}
+	a:hover {
+		box-shadow: inset 0 1px 0 0 #303030, inset 0 -1px 0 0 cyan;
+	}
+	h1 a,
+	h2 a,
+	h3 a {
+		box-shadow: inset 0 -1px 0 0 #303030, inset 0 -3px 0 0 #97ecec;
+	}
+
+	h1 a:hover,
+	h2 a:hover,
+	h3 a:hover {
+		box-shadow: inset 0 -1px 0 0 #303030, inset 0 -3px 0 0 cyan;
+	}
+	#index li a,
+	#tags li a {
+		color: #888;
+	}
+	#back {
+		color: #fff;
+	}
+	time {
+		color: #888;
+	}
+}
