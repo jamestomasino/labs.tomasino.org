@@ -9,7 +9,9 @@
     <link rel="pingback" href="https://webmention.io/tomasino.org/xmlrpc" />
     {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
     {{ with .Site.Params.author }}<meta name="author" rel="author" class="p-author h-card" content="{{ . }}">{{ end }}
-    {{ range .AlternativeOutputFormats -}}{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}{{ end }}
+    {{- with .Site.GetPage "/" }}
+      {{ range .AlternativeOutputFormats -}}{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}{{ end }}
+    {{- end }}
     {{ with resources.Get "style.css" | minify }}<style>{{ .Content | safeCSS }}</style>{{ end }}
   </head>
   <body>
