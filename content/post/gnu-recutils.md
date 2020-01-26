@@ -16,10 +16,10 @@ powerful, ubiquitous, and human-centric. It was also the only
 option for computing for quite a while. It's no surprise that some
 of the most sophisticated tools are focused on it.
 
-One such tool is GNU Recutils, a set of tools and libraries to
-access human-editable, plain text databases called recfiles. Using
-plain text that is **primarily** human-readable as a database is
-just frankly cool as hell.
+One such package is GNU Recutils, a set of tools and libraries to access
+human-editable, plain text databases called recfiles. Using plain text
+that is **primarily** human-readable as a database is just frankly cool as
+hell.
 
 Recutils is a collection of tools, like `recins`, `recdel`, and
 `recsel` used to manage these recfiles/databases. They allow for
@@ -133,6 +133,8 @@ with awk, password-protected fields, and so on. The package is
 quite robust and well maintained by Jose E. Marchesi, who can be
 found in the #recutils room on irc.freenode.net.
 
+The [full documentation][] is seriously impressive. Check it out.
+
 I'll be adopting it into my tools immediately!
 
 _(yes, the offical package image is [two gay turtles][])_
@@ -140,5 +142,6 @@ _(yes, the offical package image is [two gay turtles][])_
   [unix philosophy]: https://en.wikipedia.org/wiki/Unix_philosophy
   [dbucklin's gopher post]: https://gopher.tildeverse.org/sdf.org/0/users/dbucklin/posts/maintenance.txt
   [two gay turtles]: https://www.gnu.org/software/recutils/faq.html#whyturtles
+  [full documentation]: https://www.gnu.org/software/recutils/manual/
 
 <!--  vim: set shiftwidth=4 tabstop=4 expandtab: -->
