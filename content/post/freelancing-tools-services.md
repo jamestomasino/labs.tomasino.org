@@ -88,8 +88,11 @@ for developing client work, hosting, or communicating.
   messages and forward them to my email. The quality is good, but
   occasionally I get drop-offs or have audio issues on long calls.
   As a result, I still have Skype as well.
+- [Pagekite](https://pagekite.net) ($36/year) - localhost tunneling
+  service. I use this wonderful project for tossing up staging
+  environments of my in-progress work for client reviews.
 
-**2019 Total:** $1498.71
+**2019 Total:** $1534.71
 
 I expect to shave around $100 off that in 2020. I'd love to be
 able to cancel EmailOnAcid, but as long as the marketing email
