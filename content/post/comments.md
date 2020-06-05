@@ -14,12 +14,6 @@ of my thinking is fairly limited to online media like blogs, social
 networks, and media sharing, but it may hold some truth beyond the digital
 boundaries as well.
 
-> Quick disclaimer: _I have Disqus comments enabled on this blog. I'm
-> aware that writing about the negative impact of comments is a strange
-> thing to do when I've got an open comment field below. "Do I contradict
-> myself? Very well then I contradict myself, (I am large, I contain
-> multitudes.)"_
-
 When you read something noteworthy online, what drives you to interact
 with it? I have identified a few triggers that are related to the original
 content and not to another comment:

@@ -40,7 +40,7 @@ is really rough. The weights aren't balanced, the kerning is really
 basic, and some of the characters are just shoddily made. Still, it's a
 strong start. Take a look:
 
-![Tomasino Font][]
+[Tomasino Font TTF](/assets/tomasino.ttf)
 <img width="750" height="281" layout="responsive" src="//raw.githubusercontent.com/jamestomasino/Font/master/tomasino.jpg" alt="Viscom Logo"></img>
 
 I intend on cleaning this version up a little bit (redrawing the Z,
