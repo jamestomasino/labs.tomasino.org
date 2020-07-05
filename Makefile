@@ -1,11 +1,10 @@
 help:
-	@echo "Make targets:"
-	@echo "\tnew    - create a new post"
-	@echo "\tserve  - start hugo watcher and webserver"
-	@echo "\tbuild  - build hugo source"
-	@echo "\tdeploy - send built files to webserver"
+	@echo "targets:"
+	@grep -E '^[a-zA-Z0-9_-]+:.*?## .*$$' $(MAKEFILE_LIST) \
+	| sed -n 's/^\(.*\): \(.*\)##\(.*\)/  \1|\3/p' \
+	| column -t  -s '|'
 
-new:
+new: ## create new post
 	@test -n "$(title)" || read -p "Enter a title for your post: " title; \
 	export title_slug=`echo $${title:-Untitled} | sed -E -e 's/[^[:alnum:]]/-/g' -e 's/^-+|-+$$//g' | tr -s '-' | tr A-Z a-z`; \
 	export post_path=content/post/$$title_slug.md; \
@@ -23,13 +22,13 @@ new:
 	echo "<!--  vim: set shiftwidth=4 tabstop=4 expandtab: -->" >> $$post_path; \
 	vim $$post_path
 
-serve:
+serve: ## start hugo watcher and webserver
 	hugo server
 
-build:
+build: ## build hugo source
 	hugo --gc --minify
 
-deploy: build
+deploy: build ## send built files to webserver
 	rsync -rvhe ssh --progress --delete ./public/ labs.tomasino.org:/var/www/labs.tomasino.org/
 
 .PHONY: new serve build deploy help
