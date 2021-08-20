@@ -50,7 +50,7 @@ QWERTY. The history in short is this: QWERTY was designed in the age of
 typewriters, when speed led to jams. The letters used most often were spaced
 apart to avoid these mechanical problems. Unfortunately, while we've outgrown
 these problems their patch-work solution has remained. QWERTY became the
-de-facto standard, and its proponents have promulgated through the ages.
+de facto standard, and its proponents have promulgated through the ages.
 
 Dvorak was created a bit more scientifically, with a focus on speed and
 conservation of movement. The most commonly used keys (in English) were placed
@@ -153,7 +153,7 @@ I have context to my activities, whether it be work or play. This is thanks to
 tmux. Like everything else, tmux customization is key.
 
 Here is my [tmux
-configuration](//github.com/jamestomasino/dotfiles/blob/master/bash/.tmux.conf).
+configuration](//github.com/jamestomasino/dotfiles-minimal/blob/master/.config/tmux/tmux.conf).
 It's a part of my dotfiles repo.
 
 ## vim

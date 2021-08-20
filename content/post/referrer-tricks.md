@@ -53,10 +53,10 @@ solves for it.
 
 1. The
    [Vary](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Vary)
-   header could be set based on referer. That should differentiate caching
-   based on our variable and solve things nicely. Both versions could be
-   cached over time and help speed things up without risking serving bad
-   content.
+   header could be set based on referrer. That should differentiate
+   caching based on our variable and solve things nicely. Both versions
+   could be cached over time and help speed things up without risking
+   serving bad content.
 
 2. [ETAGS](https://whatis.techtarget.com/definition/entity-tag-Etag),
 which I understand even less than normal caching stuff. Still, it

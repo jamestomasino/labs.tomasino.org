@@ -25,7 +25,7 @@ and had a built in mode switch to the dvorak layout. Dvorak is probably
 worth its own post on here some day.
 
 Anyway, I've known for a while that the TypeMatrix wasn't getting it done
-for me in regards to speed or accuracy. I do a lot of typing and I'd
+for me in regard to speed or accuracy. I do a lot of typing and I'd
 always favor working on anything of length on my work laptop rather than
 the PC at home because of that keyboard. Mechanical keyboards, on the
 other hand, are talked about in near mystical terms by coders and gamers.

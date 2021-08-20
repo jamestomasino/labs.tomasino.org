@@ -214,7 +214,7 @@ package org.tomasino.example.fontmanager
 This file gives an example of how to embed the Arial font into a swf.
 I've included both the regular and bold type faces here to show you that
 they can be stored with the same "fontName", which is pretty handy.
-Obviously, you can ommit one or the other, or include italic,
+Obviously, you can omit one or the other, or include italic,
 bold-italic, or whatever else by using the same method. Once you publish
 this, just put the swf into the location you defined in the Extension
 class. Oh, and by the way, U+0000-U+007E is the basic character set

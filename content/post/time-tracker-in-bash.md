@@ -12,7 +12,7 @@ title: Time tracker in Bash
 
 <img width="703" height="430" layout="responsive" src="//labs.tomasino.org/assets/images/ti-example.gif" alt="ti Example"></img>
 
-Yesterday I put together an [extremely basic time tracker][] on the command line to compliment my [other command line function][]. There's not much to it, really. The basics can be found in the help:
+Yesterday I put together an extremely basic time tracker on the command line to compliment my [other command line function][]. There's not much to it, really. The basics can be found in the help:
 
     ti - time tracker
 
@@ -250,7 +250,5 @@ complete -F _ti ti
 
 There's some awk work in there that I'm especially proud of!
 
-  [extremely basic time tracker]: https://github.com/jamestomasino/dotfiles/blob/master/bash/.functions/ti
-    "Command Line Time Tracker in Bash"
   [other command line function]: https://labs.tomasino.org/command-line-fitness-tracker/
     "Command Line Fitness Tracker"

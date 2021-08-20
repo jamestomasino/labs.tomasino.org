@@ -77,7 +77,7 @@ fonts you'll see in Powerline. Not every system I am on has the ability
 for me to install and use custom fonts. Instead I use some subtle color
 changes to create gradients. I think they look nice, don't you?
 
-I keep sessions for broad categories of activites, like "personal" and
+I keep sessions for broad categories of activities, like "personal" and
 "work" and "writing". I have some script I've written in Bash that make
 use of the session name, too. My [todo][] program is context-aware.
 
@@ -115,9 +115,9 @@ started, your best bet is either weechat or irssi. Both are great.
   [weechat]: https://weechat.org/
   [zsh]: http://ohmyz.sh/
   [FiraCode]: https://github.com/tonsky/FiraCode
-  [source]: https://github.com/jamestomasino/dotfiles/blob/master/bash/.functions/fe
+  [source]: https://github.com/jamestomasino/dotfiles-minimal/blob/master/.functions/fe.sh
   [tmux.conf]: https://github.com/jamestomasino/dotfiles/blob/master/tmux/.tmux.conf
-  [todo]: https://github.com/jamestomasino/dotfiles/blob/master/bash/.functions/todo
+  [todo]: https://tildegit.org/tomasino/todo
   [fzf]: https://github.com/junegunn/fzf
   [SDF]: http://sdf.org
 

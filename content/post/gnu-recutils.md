@@ -137,7 +137,7 @@ The [full documentation][] is seriously impressive. Check it out.
 
 I'll be adopting it into my tools immediately!
 
-_(yes, the offical package image is [two gay turtles][])_
+_(yes, the official package image is [two gay turtles][])_
 
   [unix philosophy]: https://en.wikipedia.org/wiki/Unix_philosophy
   [dbucklin's gopher post]: https://gopher.tildeverse.org/sdf.org/0/users/dbucklin/posts/maintenance.txt

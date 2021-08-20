@@ -57,7 +57,7 @@ Regex, like most symbolic languages, treats each character as if were a whole wo
 
 > Look for an optional pound sign followed by exactly six characters that can be lowercase or capital A through F, or a digit 0 through 9.
 
-This is a regular expression that matches a 24bit hexidecimal color value (think RGB). As you can see, writing the rules in regex was much simpler than doing so in English.
+This is a regular expression that matches a 24bit hexadecimal color value (think RGB). As you can see, writing the rules in regex was much simpler than doing so in English.
 
 Now, lets take our example and break it apart into its components to see what each one does.
 
@@ -282,7 +282,7 @@ In addition to these shortcut characters, there are a few special characters tha
 
 `\r` - Carriage Return.
 
-`\xFF` - A hexidecimal character represented by it's code.
+`\xFF` - A hexadecimal character represented by its code.
 
 `\\` - A backslash. You need to escape a backslash in order to test it because a single backslash is reserved for indicating the start of a special character. This rule follows for other special regex characters, such as: `.+*?^$[]{}()|/`
 
@@ -303,7 +303,7 @@ In a real world example from JavaScript, we have grabbed the css class names off
 
 	button button_2 draggable index_15
 
-We want to get the number off of the _button_2_ portion of this string. Lets start by searching for the first occurrance of one or more digits.
+We want to get the number off of the _button_2_ portion of this string. Lets start by searching for the first occurrence of one or more digits.
 
 	/\d+/
 	> 2

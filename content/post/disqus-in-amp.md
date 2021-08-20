@@ -153,7 +153,7 @@ For the last bit of HTML, I needed to actually add the IFrame code to my Post la
 
 ### Configuration
 
-I'm not hard-coding my Disqus user name into these scripts, so I had to add it to my configuration file.
+I'm not hard-coding my Disqus username into these scripts, so I had to add it to my configuration file.
 
 ``` yaml
 disqus_name: superlabsblog
@@ -253,7 +253,7 @@ Thanks [Webrender][]!
 
 ## UPDATE 2016-09-18
 
-Thanks to the fantastic [Dan Goldin][] I was able to remove the entire generation of amp comment iFrame pages and instead point to a single dynamic [page on an s3 bucket][]. Currently I'm "borrowing" his page, but I'll likely dupe it to my own s3 instance in the near future and see if I can improve it even more. It's my turn after all, right Dan?
+Thanks to the fantastic [Dan Goldin][] I was able to remove the entire generation of amp comment iFrame pages and instead point to a single dynamic page on an s3 bucket. Currently I'm "borrowing" his page, but I'll likely dupe it to my own s3 instance in the near future and see if I can improve it even more. It's my turn after all, right Dan?
 
 Due to an unforeseen string replacement snafu in the old method, the Disqus identifier for this page and only this page was screwed up. I'm attempting to migrate the comments over to this correct URL, but in the meantime comment history may be missing. I'm going to lock comments below until I can get it sorted out.
 
@@ -289,7 +289,7 @@ As long as you pass along `disqus_title` (title of your article), `url` (url of 
     "Marco Pfeiffer's Github Page"
   [Die Marco Zone]: https://www.marco.zone/
     "Die Marco Zone (German)"
-  [beast and a half]: http://amzn.to/2bS2JGX
+  [beast and a half]: https://www.amazon.com/Giraffe-Half-Shel-Silverstein/dp/0060256559
     "A Giraffe and a Half by Shel Silverstein"
   [on Github]: https://github.com/jamestomasino/labs.tomasino.org
     "Tomasino Labs on Github"
@@ -297,7 +297,5 @@ As long as you pass along `disqus_title` (title of your article), `url` (url of 
     "Webrender user on Disqus"
   [Dan Goldin]: https://twitter.com/dangoldin
     "Dan Goldin on Twitter"
-  [page on an s3 bucket]: https://s3.amazonaws.com/dangoldin.com/disqus.html
-    "Dan Goldin's hosted s3 Disqus Amp interface"
   [view the source]: https://comments.tomasino.org/
     "View source of Comment iFrame"
