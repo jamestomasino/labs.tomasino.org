@@ -1,6 +1,11 @@
 {{ partial "header.html" . }}
 <header>
-  <a id="back" href="{{ .Site.BaseURL }}">←</a>
+  <div class="back-button">
+    <a id="back" href="{{ .Site.BaseURL }}">BACK</a>
+  </div>
+  {{- with .Site.GetPage "/" }}
+    {{ range .AlternativeOutputFormats -}}{{ printf `<a class="feed" href="%s" /><img src="/assets/images/feed-icon.svg" alt="Feed"></a>` .Permalink | safeHTML }}{{ end }}
+  {{- end }}
 </header>
 <main id="list" class="h-feed">
   <h1>Tag Summary</h1>

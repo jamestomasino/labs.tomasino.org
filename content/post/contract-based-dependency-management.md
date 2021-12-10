@@ -23,7 +23,7 @@ compatibility for edge cases? What if the author simply doesn't feel it warrants
 This is not a theoretical possibility. It happens with some regularity across ecosystems. The codification of SemVer as
 a pattern for major/minor versioning is an attempt to minimize these discrepancies by putting rules in place for what
 changes constitute various version changes. These rules are not programmatic, but mental. They are rules for the author
-to consider and follow and therefore as predictable and reliable as any given programmer might be.
+to consider and follow and therefore as predictable and reliable as any given programmer might be, no more, no less.
 
 I envision a different model that could exist in place of these human-named version numbers. I envision a system to
 manage dependencies based upon the needs of code itself, leveraging essential programming tooling, and machine

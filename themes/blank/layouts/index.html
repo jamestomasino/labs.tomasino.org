@@ -1,4 +1,10 @@
 {{ partial "header.html" . }}
+<header>
+  <div>&nbsp;</div>
+  {{- with .Site.GetPage "/" }}
+    {{ range .AlternativeOutputFormats -}}{{ printf `<a class="feed" href="%s" /><img src="/assets/images/feed-icon.svg" alt="Feed"></a>` .Permalink | safeHTML }}{{ end }}
+  {{- end }}
+</header>
 <main id="index" class="h-feed">
 <h1>{{ .Site.Title }}</h1>
 <h2>{{ .Site.Params.description }}</h2>
