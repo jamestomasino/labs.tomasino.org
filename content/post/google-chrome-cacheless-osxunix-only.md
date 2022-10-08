@@ -15,7 +15,7 @@ title: Google Chrome Cacheless (OSX/Unix only)
 ---
 
 I do web development. I love [Chrome][]. What I don't love is that
-Chrome has [no simple way to disable the browser cache][]. It makes
+Chrome has no simple way to disable the browser cache. It makes
 using Chrome for my development tasks so frustrating that I usually end
 up cracking open Firefox (and crying). It's especially bad for Flash
 development because even where a SHIFT-Refresh would serve to pull new
@@ -118,8 +118,6 @@ Congratulations! I hope you enjoy your new cacheless browser. Everything
 will probably get wiped out and reset when you upgrade, so beware.
 
   [Chrome]: https://www.google.com/chrome "Chrome"
-  [no simple way to disable the browser cache]: https://www.google.com/support/forum/p/Chrome/thread?tid=34782d461575bcdf&hl=en
-    "Disable Browser Cache in Chrome"
   [/dev/null]: https://en.wikipedia.org/wiki//dev/null
     "Dev Null at Wikipedia"
   [launchd]: https://en.wikipedia.org/wiki/Launchd "LaunchD"

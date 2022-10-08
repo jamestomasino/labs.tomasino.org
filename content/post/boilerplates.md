@@ -22,7 +22,7 @@ account][Sass-Boilerplate]. Pull requests and issues welcome!
 There is an extensive README file with installation instructions and a
 few helpful usage guides. It has a few dependencies: [ruby][],
 [rubygems][], [bundler][], [command-line-tools][] ([OSX only][]),
-[LiveReload][] browser plugin (if you want to use LiveReload). All of
+LiveReload browser plugin (if you want to use LiveReload). All of
 that is written up and linked over on github. Try it out and let me know
 what you think!
 
@@ -39,7 +39,6 @@ that site as well!
   [command-line-tools]: https://connect.apple.com/ "Command Line Tools"
   [OSX only]: https://stackoverflow.com/questions/9329243/xcode-4-4-command-line-tools
     "StackOverflow article on installing command line tools"
-  [LiveReload]: https://livereload.com/ "LiveReload"
   [tomasino.org]: https://tomasino.org/ "tomasino (dot) org"
   [source over on github]: https://github.com/jamestomasino/tomasino.org
     "tomasino (dot) org source - github"

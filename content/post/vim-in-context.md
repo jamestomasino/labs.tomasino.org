@@ -58,7 +58,7 @@ let &spellfile = s:spellfileurl
 
 ### Solution #2 - local project abbreviations
 
-The native vim abbreviation tools are robust, but a bit wordy. Tim Pope's [Vim-Abolish](https://github.com/tpope/vim-abolish') plugin comes to the rescue here. It's really a collection of three separate features, but one of them does exactly what I want. Here's my setup:
+The native vim abbreviation tools are robust, but a bit wordy. Tim Pope's [Vim-Abolish](https://github.com/tpope/vim-abolish) plugin comes to the rescue here. It's really a collection of three separate features, but one of them does exactly what I want. Here's my setup:
 
 ``` vim
 "Abolish Setup in this project

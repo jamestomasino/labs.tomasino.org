@@ -20,7 +20,7 @@ digit-based (non-carrying) addition & subtraction, [straddling
 checkerboards][while back], and various types of [transpositions][].
 
 If you want to know all about this amazing feat of code-making, here's
-the full story from the CIA: [link.][]
+the full story from the CIA: (page removed)
 
 Before I continue, I need to put a special thanks out to "raincomplex"
 over at everything2.com whose [extremely detailed post][] really enabled
@@ -86,8 +86,6 @@ libraries for the encoding can be found at my GIT repository [here][2].
     "Lagged Fibonacci Generator"
   [transpositions]: https://en.wikipedia.org/wiki/Transposition_cipher
     "Transposition Cipher"
-  [link.]: https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi/vol5no4/html/v05i4a09p_0001.htm
-    "VIC Cipher at CIA.gov"
   [extremely detailed post]: https://everything2.com/user/raincomplex/writeups/VIC+cipher
     "VIC Cipher"
   [here]: https://www.sickworks.com/tools/DateChooser/

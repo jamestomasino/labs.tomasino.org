@@ -12,7 +12,7 @@ title: Tomasino Font (Part 1)
 
 <img width="750" height="295" layout="responsive" src="https://raw.githubusercontent.com/jamestomasino/Font/master/viscom.jpg" alt="Viscom Logo"></img>
 
-In the early 70's, [my dad][] was a student at [Kent State
+In the early 70's, my dad was a student at [Kent State
 University][]. You may be familiar with the school from a [little][]
 [incident][] [that][] [happened][] during the Vietnam War. During his
 time there as an art student, he designed a logo for the Visual
@@ -55,8 +55,6 @@ Who knows when I'll have the time to finish it all, so I thought I'd
 better share what I made so far. Look forward to seeing part 2 of this
 post someday in the distant future.
 
-  [my dad]: https://www.linkedin.com/pub/mike-tomasino/7/b69/571
-    "Mike Tomasino"
   [Kent State University]: https://www.kent.edu/ "Kent State University"
   [little]: https://ce-wiki.wikispaces.com/file/view/kent_state_massacre.jpg/189697076/kent_state_massacre.jpg
     "Kent State Shooting"
