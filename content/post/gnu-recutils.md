@@ -8,7 +8,7 @@ tags:
   - database
 ---
 
-{{< figure src="/assets/images/gnu-recutils.png" caption="Fred and George, Turtles in love">}}
+{{< figure src="https://labs.tomasino.org/assets/images/gnu-recutils.png" caption="Fred and George, Turtles in love">}}
 
 There are hundreds of cool command line tools that have been made
 over the years built on the [unix philosophy][]. Plain text is
