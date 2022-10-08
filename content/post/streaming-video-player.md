@@ -86,13 +86,13 @@ SimpleNetStream, as well as my logging package. You can pick up the
 
 Or just [grab this file's source from GitHub][]
 
-  [SimpleNetStream]: //labs.tomasino.org/netstream-sucks/
+  [SimpleNetStream]: https://labs.tomasino.org/netstream-sucks/
     "SimpleNetStream"
   [obfuscated]: http://whitewolf.wikia.com/wiki/Obfuscate_(VTM)
     "Obfuscate"
-  [in this post]: //www.brooksandrus.com/blog/2008/11/05/3-years-later-netstream-still-sucks/
+  [in this post]: https://www.brooksandrus.com/blog/2008/11/05/3-years-later-netstream-still-sucks/
     "3 Years Later NetStream Still Sucks"
-  [whole repository over at GitHub.]: //github.com/jamestomasino/tomasino
+  [whole repository over at GitHub.]: https://github.com/jamestomasino/tomasino
     "GitHub - Tomasino"
-  [grab this file's source from GitHub]: //github.com/jamestomasino/tomasino/blob/master/org/tomasino/video/StreamingVideoPlayer.as
+  [grab this file's source from GitHub]: https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/video/StreamingVideoPlayer.as
     "StreamingVideoPlayer"

@@ -55,14 +55,14 @@ codes.
 
 [Source & Example][]
 
-  [substitution]: //en.wikipedia.org/wiki/Substitution_cipher
+  [substitution]: https://en.wikipedia.org/wiki/Substitution_cipher
     "Substitution Cipher"
-  [transposition]: //en.wikipedia.org/wiki/Transposition_cipher
+  [transposition]: https://en.wikipedia.org/wiki/Transposition_cipher
     "Transposition Cipher"
-  [olyalphabetic substitution]: //en.wikipedia.org/wiki/Polyalphabetic_substitution
+  [olyalphabetic substitution]: https://en.wikipedia.org/wiki/Polyalphabetic_substitution
     "Polyalphabetic Substitution"
-  [Straddling Checkerboard]: //en.wikipedia.org/wiki/Straddling_checkerboard
+  [Straddling Checkerboard]: https://en.wikipedia.org/wiki/Straddling_checkerboard
     "Straddling Checkerboard"
-  [VIC cipher]: //en.wikipedia.org/wiki/VIC_cipher "VIC cipher"
-  [Source & Example]: //github.com/jamestomasino/straddlingcheckerboard/
+  [VIC cipher]: https://en.wikipedia.org/wiki/VIC_cipher "VIC cipher"
+  [Source & Example]: https://github.com/jamestomasino/straddlingcheckerboard/
     "Source & Example"

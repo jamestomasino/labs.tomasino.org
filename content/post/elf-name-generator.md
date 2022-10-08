@@ -28,5 +28,5 @@ should make "adele" not "adeele", and now it does!
 
 Nerds, [click here for Source & Project][].
 
-  [click here for Source & Project]: //github.com/jamestomasino/elvishnames/
+  [click here for Source & Project]: https://github.com/jamestomasino/elvishnames/
     "Elf Name Generator"

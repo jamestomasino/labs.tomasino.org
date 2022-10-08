@@ -35,5 +35,5 @@ was my personal favorite. It could use a bit of optimization, but for
 
 [Source & Project][]
 
-  [Source & Project]: //github.com/jamestomasino/scatterfield/
+  [Source & Project]: https://github.com/jamestomasino/scatterfield/
     "Source & Project"

@@ -30,16 +30,16 @@ Oh, and as an example, [tomasino.org][] was recently rebuilt using the
 boilerplate. Feel free to dive in to the [source over on github][] for
 that site as well!
 
-  [HTML5 Boilerplate]: //html5boilerplate.com/ "HTML5 Boilerplate"
-  [Sass-Boilerplate]: //github.com/jamestomasino/sass-boilerplate
+  [HTML5 Boilerplate]: https://html5boilerplate.com/ "HTML5 Boilerplate"
+  [Sass-Boilerplate]: https://github.com/jamestomasino/sass-boilerplate
     "Sass-Boilerplate"
-  [ruby]: //www.ruby-lang.org/en/ "Ruby"
-  [rubygems]: //rubygems.org/ "Ruby Gems"
-  [bundler]: //gembundler.com/ "Bundler"
-  [command-line-tools]: //connect.apple.com/ "Command Line Tools"
-  [OSX only]: //stackoverflow.com/questions/9329243/xcode-4-4-command-line-tools
+  [ruby]: https://www.ruby-lang.org/en/ "Ruby"
+  [rubygems]: https://rubygems.org/ "Ruby Gems"
+  [bundler]: https://gembundler.com/ "Bundler"
+  [command-line-tools]: https://connect.apple.com/ "Command Line Tools"
+  [OSX only]: https://stackoverflow.com/questions/9329243/xcode-4-4-command-line-tools
     "StackOverflow article on installing command line tools"
-  [LiveReload]: //livereload.com/ "LiveReload"
-  [tomasino.org]: //tomasino.org/ "tomasino (dot) org"
-  [source over on github]: //github.com/jamestomasino/tomasino.org
+  [LiveReload]: https://livereload.com/ "LiveReload"
+  [tomasino.org]: https://tomasino.org/ "tomasino (dot) org"
+  [source over on github]: https://github.com/jamestomasino/tomasino.org
     "tomasino (dot) org source - github"

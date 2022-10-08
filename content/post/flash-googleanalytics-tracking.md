@@ -81,4 +81,4 @@ or shoutout or anything, though I always welcome comments and feedback.
 Find it useful, think of a better way to do things, have a bone to pick,
 feel I'm dissin' your rapper homies, the comment box is below.
 
-  [Omniture]: //www.omniture.com/en/
+  [Omniture]: https://www.omniture.com/en/

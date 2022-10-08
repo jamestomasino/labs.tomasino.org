@@ -114,7 +114,7 @@ answer the questions asked instead of going off on nerd-rants. Oh well!
 
 Enjoy, comment, share, modify, whatever. Have a blast.
 
-  [multi-part form post]: //code.google.com/p/in-spirit/wiki/MultipartURLLoader
-  [Flash dude]: //inspirit.ru/
-  [back in the day]: //en.wikipedia.org/wiki/Naval_Nuclear_Power_Training_Command
-  [Availability class]: //github.com/jamestomasino/tomasino/blob/master/org/tomasino/external/Availability.as
+  [multi-part form post]: https://code.google.com/p/in-spirit/wiki/MultipartURLLoader
+  [Flash dude]: https://inspirit.ru/
+  [back in the day]: https://en.wikipedia.org/wiki/Naval_Nuclear_Power_Training_Command
+  [Availability class]: https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/external/Availability.as

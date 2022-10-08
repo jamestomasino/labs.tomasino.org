@@ -61,8 +61,8 @@ and what's important to the other person. Communication is fundamental
 to collaboration, and collaboration is fundamental to success.
 
 
-  [Papervision 3D]: //blog.papervision3d.org/ "Papervison 3D"
-  [Carlos Ulloa Matesanz]: //noventaynueve.wordpress.com/
+  [Papervision 3D]: https://blog.papervision3d.org/ "Papervison 3D"
+  [Carlos Ulloa Matesanz]: https://noventaynueve.wordpress.com/
     "Carlos Ulloa Matesanz"
-  [Augmented Reality Toolkit]: //www.hitl.washington.edu/artoolkit/
+  [Augmented Reality Toolkit]: https://www.hitl.washington.edu/artoolkit/
     "ARToolkit"

@@ -40,7 +40,7 @@ is really rough. The weights aren't balanced, the kerning is really
 basic, and some of the characters are just shoddily made. Still, it's a
 strong start. Take a look:
 
-[Tomasino Font TTF](/assets/tomasino.ttf)
+[Tomasino Font TTF](https://labs.tomasino.org/assets/tomasino.ttf)
 <img width="750" height="281" layout="responsive" src="https://raw.githubusercontent.com/jamestomasino/Font/master/tomasino.jpg" alt="Viscom Logo"></img>
 
 I intend on cleaning this version up a little bit (redrawing the Z,
@@ -55,16 +55,16 @@ Who knows when I'll have the time to finish it all, so I thought I'd
 better share what I made so far. Look forward to seeing part 2 of this
 post someday in the distant future.
 
-  [my dad]: //www.linkedin.com/pub/mike-tomasino/7/b69/571
+  [my dad]: https://www.linkedin.com/pub/mike-tomasino/7/b69/571
     "Mike Tomasino"
-  [Kent State University]: //www.kent.edu/ "Kent State University"
-  [little]: //ce-wiki.wikispaces.com/file/view/kent_state_massacre.jpg/189697076/kent_state_massacre.jpg
+  [Kent State University]: https://www.kent.edu/ "Kent State University"
+  [little]: https://ce-wiki.wikispaces.com/file/view/kent_state_massacre.jpg/189697076/kent_state_massacre.jpg
     "Kent State Shooting"
-  [incident]: //en.wikipedia.org/wiki/Kent_State_shootings
+  [incident]: https://en.wikipedia.org/wiki/Kent_State_shootings
     "Kent State Shootings"
-  [that]: //www.youtube.com/watch?v=a6irfBMm48g
+  [that]: https://www.youtube.com/watch?v=a6irfBMm48g
     "Kent State Shootings"
-  [happened]: //www.usatoday.com/news/nation/2010-05-03-kent-state_N.htm
+  [happened]: https://www.usatoday.com/news/nation/2010-05-03-kent-state_N.htm
     "Kent State Shootings"
-  [rapidographs]: //en.wikipedia.org/wiki/Technical_pen
+  [rapidographs]: https://en.wikipedia.org/wiki/Technical_pen
     "rapidograph"

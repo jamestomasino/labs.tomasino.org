@@ -95,6 +95,6 @@ smarty.*
 to get the latest version of this code from my [github
 repository][].*
 
-  [Shape]: //livedocs.adobe.com/flash/9.0/ActionScriptLangRefV3/flash/display/Shape.html
-  [the Flash Bug Tracker]: //bugs.adobe.com/jira/browse/FP-3536
-  [github repository]: //github.com/jamestomasino/tomasino/blob/master/org/tomasino/display/DuplicateLoader.as
+  [Shape]: https://livedocs.adobe.com/flash/9.0/ActionScriptLangRefV3/flash/display/Shape.html
+  [the Flash Bug Tracker]: https://bugs.adobe.com/jira/browse/FP-3536
+  [github repository]: https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/display/DuplicateLoader.as

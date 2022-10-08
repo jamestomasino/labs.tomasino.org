@@ -91,13 +91,13 @@ comments in the code.
 By the way, in case you want to implement the Konami Code yourself,
 here's the character array: [38, 38, 40, 40, 37, 39, 37, 39, 66, 65, 13]
 
-  [Up Up Down Down Left Right Left Right B A Start]: //en.wikipedia.org/wiki/Konami_Code
+  [Up Up Down Down Left Right Left Right B A Start]: https://en.wikipedia.org/wiki/Konami_Code
     "Konami Code"
-  [Contra]: //en.wikipedia.org/wiki/Contra_(video_game) "Contra"
-  [NES]: //en.wikipedia.org/wiki/Nintendo_Entertainment_System
+  [Contra]: https://en.wikipedia.org/wiki/Contra_(video_game) "Contra"
+  [NES]: https://en.wikipedia.org/wiki/Nintendo_Entertainment_System
     "NES"
-  [ASCII]: //en.wikipedia.org/wiki/ASCII "ASCII"
-  [Dvorak keymap]: //en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
+  [ASCII]: https://en.wikipedia.org/wiki/ASCII "ASCII"
+  [Dvorak keymap]: https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
     "Dvorak Simplified Keyboard"
-  [Source & Example]: //github.com/jamestomasino/keycodereader/
+  [Source & Example]: https://github.com/jamestomasino/keycodereader/
     "Source & Example"

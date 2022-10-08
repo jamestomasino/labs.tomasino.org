@@ -48,6 +48,6 @@ CSS file:
 It may not be as robust as [Google Minify][] (though I'm stealing pieces
 of it), but it's tiny and mine. Victory!
 
-  [really cool little blog post]: //www.catswhocode.com/blog/3-ways-to-compress-css-files-using-php
+  [really cool little blog post]: https://www.catswhocode.com/blog/3-ways-to-compress-css-files-using-php
     "3 ways to compress CSS"
-  [Google Minify]: //code.google.com/p/minify/ "Google Minify"
+  [Google Minify]: https://code.google.com/p/minify/ "Google Minify"

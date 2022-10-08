@@ -21,6 +21,6 @@ wheel functionality in there!
 
 [Source & Project][]
 
-  [Empathy Lab]: //www.empathylab.com "Empathy Lab"
-  [Source & Project]: //github.com/jamestomasino/timemanagement/
+  [Empathy Lab]: https://www.empathylab.com "Empathy Lab"
+  [Source & Project]: https://github.com/jamestomasino/timemanagement/
     "Source & Project"

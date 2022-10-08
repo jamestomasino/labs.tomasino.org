@@ -80,4 +80,4 @@ In a similar solution to the dictionary, I'm using the location of the `.lvimrc`
 The best part of all of this is that my `.lvimrc` file and my project dictionary files are part of my git repository now. When I clone the project down on another machine, as long as my [vim setup is the same](https://github.com/jamestomasino/dotfiles), so is my writing environment.
 
 
-  [Spelling]: //labs.tomasino.org/assets/images/spelling.png
+  [Spelling]: https://labs.tomasino.org/assets/images/spelling.png

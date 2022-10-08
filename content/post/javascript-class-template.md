@@ -48,6 +48,6 @@ Finally, everything is wrapped in a function to preserve scope.
 
 [You can grab the latest version of this template from GitHub.][]
 
-  [Dave Hamp]: //www.davidhamp.net "David Hamp"
-  [You can grab the latest version of this template from GitHub.]: //github.com/jamestomasino/Javascript-Class-Templates/blob/master/Encapsulated.js
+  [Dave Hamp]: https://www.davidhamp.net "David Hamp"
+  [You can grab the latest version of this template from GitHub.]: https://github.com/jamestomasino/Javascript-Class-Templates/blob/master/Encapsulated.js
     "Encapsulated JavaScript Class Template"

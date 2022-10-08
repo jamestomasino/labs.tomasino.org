@@ -136,5 +136,5 @@ I have other ideas too. I don't mind sharing the wealth if you've got
 the experience and all I have is an idea. Better than nothing, right?
 
 
-  [disinformation]: //en.wikipedia.org/wiki/Disinformation
+  [disinformation]: https://en.wikipedia.org/wiki/Disinformation
     "Disinformation"

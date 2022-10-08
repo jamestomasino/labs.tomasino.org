@@ -104,7 +104,7 @@ love to know about it. Thanks.*
 *Make sure to grab the
 latest code from my [github repository][].*
 
-  [it rolls over your neighbor's dog]: //www.youtube.com/watch?v=tky6iAHv-hs
-  [TabManager]: //blog.tomasino.org/?p=608
-  [LogBook]: //blog.digitalbackcountry.com/2008/03/comcasts-logbook-air-application/
-  [github repository]: //github.com/jamestomasino/tomasino/tree/master/org/tomasino/logging
+  [it rolls over your neighbor's dog]: https://www.youtube.com/watch?v=tky6iAHv-hs
+  [TabManager]: https://blog.tomasino.org/?p=608
+  [LogBook]: https://blog.digitalbackcountry.com/2008/03/comcasts-logbook-air-application/
+  [github repository]: https://github.com/jamestomasino/tomasino/tree/master/org/tomasino/logging

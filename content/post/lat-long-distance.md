@@ -42,10 +42,10 @@ I can use some love.
 
 [Source & Example][]
 
-  [Cosine Law]: //en.wikipedia.org/wiki/Law_of_cosines "Cosine Law"
-  [Haversine formula]: //en.wikipedia.org/wiki/Haversine_formula
+  [Cosine Law]: https://en.wikipedia.org/wiki/Law_of_cosines "Cosine Law"
+  [Haversine formula]: https://en.wikipedia.org/wiki/Haversine_formula
     "Haversine Formula"
-  [Vincenty's Formula]: //en.wikipedia.org/wiki/Vincenty's_formulae
+  [Vincenty's Formula]: https://en.wikipedia.org/wiki/Vincenty's_formulae
     "Vincenty's Formula"
-  [Source & Example]: //github.com/jamestomasino/latlondist/
+  [Source & Example]: https://github.com/jamestomasino/latlondist/
     "Source & Example"

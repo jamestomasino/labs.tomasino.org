@@ -80,19 +80,19 @@ Now, get encoding. Leave me some coded comments on this post. :)
 All the source for this lab project can be found [here][1]. All the
 libraries for the encoding can be found at my GIT repository [here][2].
 
-  [while back]: //labs.tomasino.org/straddling-checkerboard/
+  [while back]: https://labs.tomasino.org/straddling-checkerboard/
     "Straddling Checkerboard"
-  [lagged fibonacci generators]: //en.wikipedia.org/wiki/Lagged_Fibonacci_generator
+  [lagged fibonacci generators]: https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator
     "Lagged Fibonacci Generator"
-  [transpositions]: //en.wikipedia.org/wiki/Transposition_cipher
+  [transpositions]: https://en.wikipedia.org/wiki/Transposition_cipher
     "Transposition Cipher"
-  [link.]: //www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi/vol5no4/html/v05i4a09p_0001.htm
+  [link.]: https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi/vol5no4/html/v05i4a09p_0001.htm
     "VIC Cipher at CIA.gov"
-  [extremely detailed post]: //everything2.com/user/raincomplex/writeups/VIC+cipher
+  [extremely detailed post]: https://everything2.com/user/raincomplex/writeups/VIC+cipher
     "VIC Cipher"
-  [here]: //www.sickworks.com/tools/DateChooser/
+  [here]: https://www.sickworks.com/tools/DateChooser/
     "Sickworks' AS3 Date Chooser"
-  [1]: //github.com/jamestomasino/vic
+  [1]: https://github.com/jamestomasino/vic
     "VIC Cipher Lab Project"
-  [2]: //github.com/jamestomasino/tomasino/tree/master/org/tomasino/encoding
+  [2]: https://github.com/jamestomasino/tomasino/tree/master/org/tomasino/encoding
     "Encoding Package"

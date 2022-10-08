@@ -111,8 +111,8 @@ ant, so if you're on a Windows box, you [might want to google that][].
 Please, grab [the project][] and play around with it. Let me know if you
 have any suggestions or questions.
 
-  [Ant Folder Structure]: //labs.tomasino.org/assets/images/ant-folder-structure.png
-  [CSS optimizer]: //labs.tomasino.org/optimized-css-via-php/
-  [ant-contrib]: //ant-contrib.sourceforge.net/
-  [might want to google that]: //bit.ly/t6TLZo
-  [the project]: //github.com/jamestomasino/ANTExample
+  [Ant Folder Structure]: https://labs.tomasino.org/assets/images/ant-folder-structure.png
+  [CSS optimizer]: https://labs.tomasino.org/optimized-css-via-php/
+  [ant-contrib]: https://ant-contrib.sourceforge.net/
+  [might want to google that]: https://bit.ly/t6TLZo
+  [the project]: https://github.com/jamestomasino/ANTExample

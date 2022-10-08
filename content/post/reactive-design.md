@@ -115,12 +115,12 @@ used?
 
 As always, the source can be found [over on github][].
 
-  [Responsive Web Design]: //en.wikipedia.org/wiki/Responsive_Web_Design
+  [Responsive Web Design]: https://en.wikipedia.org/wiki/Responsive_Web_Design
     "Responsive Web Design"
-  [See this link for a working example.]: //github.com/jamestomasino/Reactive-Color
+  [See this link for a working example.]: https://github.com/jamestomasino/Reactive-Color
     "Reactive Color Example"
-  [many great tools online]: //kuler.adobe.com "Kuler"
-  [looks a lot harder than it is]: //en.wikipedia.org/wiki/HSL_and_HSV#Converting_to_RGB
+  [many great tools online]: https://kuler.adobe.com "Kuler"
+  [looks a lot harder than it is]: https://en.wikipedia.org/wiki/HSL_and_HSV#Converting_to_RGB
     "HSV and HSL to RGB"
-  [over on github]: //github.com/jamestomasino/Reactive-Color
+  [over on github]: https://github.com/jamestomasino/Reactive-Color
     "Github: Reactive Color"

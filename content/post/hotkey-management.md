@@ -14,6 +14,6 @@ solution, take a look at [destroytoday's][] [Hotkey][] project on
 the event listening easier. I may make some modifications to my own
 keycode reader based on the very smart way he built his.
 
-  [destroytoday's]: //destroytoday.com/blog/ "Destroy Today"
-  [Hotkey]: //github.com/destroytoday/destroy-hotkey "Hotkey"
-  [github]: //github.com "Github"
+  [destroytoday's]: https://destroytoday.com/blog/ "Destroy Today"
+  [Hotkey]: https://github.com/destroytoday/destroy-hotkey "Hotkey"
+  [github]: https://github.com "Github"

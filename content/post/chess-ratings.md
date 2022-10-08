@@ -45,17 +45,17 @@ followed the instructions on their FAQ (mostly).
 Why don't you go try it out! And if you're interested in my algorithms
 and junk, here's the [main code].
 
-  [Chess Rating]: //labs.tomasino.org/assets/images/chess-rating.png
-  [See it in action]: //github.com/jamestomasino/chessrating/
-  [where I work]: //gsw-w.com "GSW Worldwide"
-  [geekery]: //www.gotmead.com/ "Got Mead?"
-  [fantasy sports]: //deadspin.com/5865635/fantasy-curling-is-a-real-thing-and-it-is-glorious
+  [Chess Rating]: https://labs.tomasino.org/assets/images/chess-rating.png
+  [See it in action]: https://github.com/jamestomasino/chessrating/
+  [where I work]: https://gsw-w.com "GSW Worldwide"
+  [geekery]: https://www.gotmead.com/ "Got Mead?"
+  [fantasy sports]: https://deadspin.com/5865635/fantasy-curling-is-a-real-thing-and-it-is-glorious
     "Fantasy Curling"
-  [ELO rating system]: //en.wikipedia.org/wiki/Elo_rating_system
+  [ELO rating system]: https://en.wikipedia.org/wiki/Elo_rating_system
     "ELO Rating System"
-  [sport]: //www.chess.com/article/view/is-chess-a-sport
+  [sport]: https://www.chess.com/article/view/is-chess-a-sport
     "Is Chess a Sport?"
-  [I built it]: //github.com/jamestomasino/chessrating/
+  [I built it]: https://github.com/jamestomasino/chessrating/
     "Chess Ratings"
-  [RedHotPawn.com]: //RedHotPawn.com "Red Hot Pawn"
-  [main code]: //github.com/jamestomasino/chessrating/blob/master/sjs/main.js
+  [RedHotPawn.com]: https://RedHotPawn.com "Red Hot Pawn"
+  [main code]: https://github.com/jamestomasino/chessrating/blob/master/sjs/main.js

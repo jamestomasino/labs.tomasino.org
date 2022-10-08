@@ -48,7 +48,7 @@ not at all.
 [caniuse.com][] - This site goes into more depth. Feature by feature it
 shows which browsers and versions are supported fully or partially.
 
-  [here]: //away3d.com/ "Away 3D"
-  [1]: //www.youtube.com/watch?v=szaXvTsoeVs "Stage3D Demo"
-  [html5please.us]: //html5please.us "html5please"
-  [caniuse.com]: //caniuse.com/#cats=HTML5 "CanIUse"
+  [here]: https://away3d.com/ "Away 3D"
+  [1]: https://www.youtube.com/watch?v=szaXvTsoeVs "Stage3D Demo"
+  [html5please.us]: https://html5please.us "html5please"
+  [caniuse.com]: https://caniuse.com/#cats=HTML5 "CanIUse"

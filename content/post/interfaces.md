@@ -141,19 +141,19 @@ That's the gist of interfaces. I hope you find it helpful. Remember, if
 you don't use them that doesn't make you horrible. They're just another
 tool, one that isn't incredibly important in AS3 development.
 
-  [Wikipedia says about Interfaces]: //en.wikipedia.org/wiki/Interface_(computing)#Software_interfaces_in_object_oriented_languages
+  [Wikipedia says about Interfaces]: https://en.wikipedia.org/wiki/Interface_(computing)#Software_interfaces_in_object_oriented_languages
     "Interfaces at Wikipedia"
-  [object-oriented]: //en.wikipedia.org/wiki/Object-oriented
+  [object-oriented]: https://en.wikipedia.org/wiki/Object-oriented
     "Object-oriented"
-  [abstract type]: //en.wikipedia.org/wiki/Abstract_data_type
+  [abstract type]: https://en.wikipedia.org/wiki/Abstract_data_type
     "Abstract data type"
-  [methods]: //en.wikipedia.org/wiki/Method_(computer_science)
+  [methods]: https://en.wikipedia.org/wiki/Method_(computer_science)
     "Method (computer science)"
-  [class]: //en.wikipedia.org/wiki/Class_(computer_science)
+  [class]: https://en.wikipedia.org/wiki/Class_(computer_science)
     "Class (computer science)"
-  [Loose Coupling]: //en.wikipedia.org/wiki/Loose_coupling
+  [Loose Coupling]: https://en.wikipedia.org/wiki/Loose_coupling
     "Loose Coupling"
-  [Google Analytics]: //labs.tomasino.org/flash-googleanalytics-tracking/
+  [Google Analytics]: https://labs.tomasino.org/flash-googleanalytics-tracking/
     "Google Analytics"
-  [Omniture]: //labs.tomasino.org/flash-omniture-tracking/
+  [Omniture]: https://labs.tomasino.org/flash-omniture-tracking/
     "Omniture"

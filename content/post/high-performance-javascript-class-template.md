@@ -21,8 +21,8 @@ top.
 
 [You can grab the latest version of this template from GitHub][].
 
-  [standard JavaScript class template]: //labs.tomasino.org/javascript-class-template/
+  [standard JavaScript class template]: https://labs.tomasino.org/javascript-class-template/
     "Encapsulated JavaScript Class Template"
-  [iScroll]: //github.com/cubiq/iscroll "iScroll"
-  [You can grab the latest version of this template from GitHub]: //github.com/jamestomasino/Javascript-Class-Templates/blob/master/HighPerformance.js
+  [iScroll]: https://github.com/cubiq/iscroll "iScroll"
+  [You can grab the latest version of this template from GitHub]: https://github.com/jamestomasino/Javascript-Class-Templates/blob/master/HighPerformance.js
     "High Performance JavaScript Class Template"

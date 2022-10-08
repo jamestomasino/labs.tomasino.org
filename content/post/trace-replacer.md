@@ -67,8 +67,8 @@ class does and a whole lot more.
 [Parsing Stack Traces in AS3][] - A very thorough parser that does a
 much faster job than mine by using regular expressions.
 
-  [grep]: //en.wikipedia.org/wiki/Grep
-  [my github repository]: //github.com/jamestomasino/tomasino/blob/master/org/tomasino/utils/Debug.as
-  [My Flash AS3 Logger]: //labs.tomasino.org/flash-as3-debug-logging/
-  [Tracer.as]: //web.archive.org/web/20101012180525///blog.unionstudio.net/2010/04/tracer-as-will-turn-you-into-an-error-crushing-debugging-juggernaut/
-  [Parsing Stack Traces in AS3]: //www.actionscript-flash-guru.com/blog/18-parse-file-package-function-name-from-stack-trace-in-actionscript-as3
+  [grep]: https://en.wikipedia.org/wiki/Grep
+  [my github repository]: https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/utils/Debug.as
+  [My Flash AS3 Logger]: https://labs.tomasino.org/flash-as3-debug-logging/
+  [Tracer.as]: https://web.archive.org/web/20101012180525///blog.unionstudio.net/2010/04/tracer-as-will-turn-you-into-an-error-crushing-debugging-juggernaut/
+  [Parsing Stack Traces in AS3]: https://www.actionscript-flash-guru.com/blog/18-parse-file-package-function-name-from-stack-trace-in-actionscript-as3

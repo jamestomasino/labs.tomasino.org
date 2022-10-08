@@ -74,4 +74,4 @@ example project will be updated shortly as well.
 to get the latest version of this code from my [github
 repository][].
 
-  [github repository]: //github.com/jamestomasino/tomasino/blob/master/org/tomasino/accessibility/TabManager.as
+  [github repository]: https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/accessibility/TabManager.as

@@ -25,6 +25,6 @@ knows how long Empathy Lab will use it on their site, though.
 
 [Source & Example][]
 
-  [Empathy Lab]: //www.empathylab.com "Empathy Lab"
-  [Source & Example]: //github.com/jamestomasino/slicetransition/
+  [Empathy Lab]: https://www.empathylab.com "Empathy Lab"
+  [Source & Example]: https://github.com/jamestomasino/slicetransition/
     "Source & Example"

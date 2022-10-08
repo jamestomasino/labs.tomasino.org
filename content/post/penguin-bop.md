@@ -29,7 +29,7 @@ And yes, that's my voice squawking.
 
 [Source & Project][]
 
-  [Moxie Interactive]: //www.moxieinteractive.com
+  [Moxie Interactive]: https://www.moxieinteractive.com
     "Moxie Interactive"
-  [Source & Project]: //github.com/jamestomasino/penguinbop/
+  [Source & Project]: https://github.com/jamestomasino/penguinbop/
     "Source & Project"

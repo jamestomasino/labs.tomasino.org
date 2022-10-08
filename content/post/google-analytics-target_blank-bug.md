@@ -54,4 +54,4 @@ function google_analytics_trackoutbound (e) {
 
 Comments, as always, are welcome!
 
-  [jQuery]: //jquery.com/ "jQuery"
+  [jQuery]: https://jquery.com/ "jQuery"

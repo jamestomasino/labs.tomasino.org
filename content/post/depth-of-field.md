@@ -30,5 +30,5 @@ steal it, run with it. Let me know if you make anything cool.
 
 [Source and Example][]
 
-  [Source and Example]: //github.com/jamestomasino/depthoffield/
+  [Source and Example]: https://github.com/jamestomasino/depthoffield/
     "Depth of Field"

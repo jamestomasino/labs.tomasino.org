@@ -33,4 +33,4 @@ pop over to Paris. We'll see how it goes.
 I wish every job had opportunities like this. I hope I get to see some
 churches.
 
-  [Flash on the Beach]: //www.flashonthebeach.com
+  [Flash on the Beach]: https://www.flashonthebeach.com

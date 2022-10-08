@@ -36,5 +36,5 @@ Ipsum filler text.
 [Source & Project][]
 
 
-  [Source & Project]: //github.com/jamestomasino/obscuretext/
+  [Source & Project]: https://github.com/jamestomasino/obscuretext/
     "Source & Project"

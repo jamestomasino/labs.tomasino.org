@@ -232,5 +232,5 @@ answer or clarify things for you.
 to get the latest version of this code from my [github
 repository][].*
 
-  [BulkLoader]: //code.google.com/p/bulk-loader/
-  [github repository]: //github.com/jamestomasino/tomasino/blob/master/org/tomasino/fonts/FontManager.as
+  [BulkLoader]: https://code.google.com/p/bulk-loader/
+  [github repository]: https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/fonts/FontManager.as

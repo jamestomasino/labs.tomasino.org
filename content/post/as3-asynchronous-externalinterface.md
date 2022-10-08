@@ -66,6 +66,6 @@ though, the traces will appear instantly, before the first alert has
 time to fire.
 The full example code can be [found over on github][]. Enjoy!
 
-  [may have mentioned before]: //labs.tomasino.org/as3-synchronous-url-xml-loading/
-  [have a FlashLog.txt file set up]: //livedocs.adobe.com/flex/3/html/logging_04.html
-  [found over on github]: //github.com/jamestomasino/AsyncExternalInterface
+  [may have mentioned before]: https://labs.tomasino.org/as3-synchronous-url-xml-loading/
+  [have a FlashLog.txt file set up]: https://livedocs.adobe.com/flex/3/html/logging_04.html
+  [found over on github]: https://github.com/jamestomasino/AsyncExternalInterface

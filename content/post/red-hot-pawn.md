@@ -32,10 +32,10 @@ interface for it.
 
 [Source & Example][]
 
-  [1]: //www.redhotpawn.com "Red Hot Pawn"
-  [Chess@Work]: //www.chessatwork.com "Chess@Work"
-  [smoke & fire generator]: //gskinner.com/blog/archives/2007/11/fire_effect_com.html
+  [1]: https://www.redhotpawn.com "Red Hot Pawn"
+  [Chess@Work]: https://www.chessatwork.com "Chess@Work"
+  [smoke & fire generator]: https://gskinner.com/blog/archives/2007/11/fire_effect_com.html
     "Fire Effect Component"
-  [Grant Skinner]: //gskinner.com/blog "Grant Skinner"
-  [Source & Example]: //github.com/jamestomasino/redhotpawn/
+  [Grant Skinner]: https://gskinner.com/blog "Grant Skinner"
+  [Source & Example]: https://github.com/jamestomasino/redhotpawn/
     "Source & Example"

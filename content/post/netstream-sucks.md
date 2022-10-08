@@ -71,7 +71,7 @@ dealing with the NetStream object, I fixed those too. Take a look at the
 [NetConstants][] class!
 
 
-  [Download SimpleNetStream Source]: //github.com/jamestomasino/tomasino/blob/master/org/tomasino/net/SimpleNetStream.as
+  [Download SimpleNetStream Source]: https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/net/SimpleNetStream.as
     "Download SimpleNetStream Source"
-  [NetConstants]: //github.com/jamestomasino/tomasino/blob/master/org/tomasino/net/vo/NetConstants.as
+  [NetConstants]: https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/net/vo/NetConstants.as
     "NetConstants"

@@ -20,5 +20,5 @@ helpful.
 
 [Source & Example][]
 
-  [Source & Example]: //github.com/jamestomasino/accgallery/
+  [Source & Example]: https://github.com/jamestomasino/accgallery/
     "Source & Example"

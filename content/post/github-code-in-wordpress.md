@@ -49,8 +49,8 @@ to display GitHub Code Viewer. (Takes a bow).
 
 [Github_Code_Viewer.php](https://github.com/jamestomasino/wp_GitHub_Code_Viewer/blob/master/GitHub_Code_Viewer.php)
 
-  [GitHub Code Viewer]: //github.com/spf13/wp_GitHub_Code_Viewer
-  [Steve Francia]: //spf13.com/
-  [spf13-vim]: //github.com/spf13/spf13-vim
-  [vim]: //www.vim.org
-  [SyntaxHighlighter Evolved]: //wordpress.org/extend/plugins/syntaxhighlighter/
+  [GitHub Code Viewer]: https://github.com/spf13/wp_GitHub_Code_Viewer
+  [Steve Francia]: https://spf13.com/
+  [spf13-vim]: https://github.com/spf13/spf13-vim
+  [vim]: https://www.vim.org
+  [SyntaxHighlighter Evolved]: https://wordpress.org/extend/plugins/syntaxhighlighter/
