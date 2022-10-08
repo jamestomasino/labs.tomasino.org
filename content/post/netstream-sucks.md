@@ -9,7 +9,7 @@ tags:
   - as3
 ---
 
-<img width="750" height="546" layout="responsive" src="//labs.tomasino.org/assets/images/bridge-from-nowhere.jpg" alt="Bridge"></img>
+<img width="750" height="546" layout="responsive" src="https://labs.tomasino.org/assets/images/bridge-from-nowhere.jpg" alt="Bridge"></img>
 ![Bridge](//labs.tomasino.org/assets/images/bridge-from-nowhere.jpg "Half Begun - Half Finished")
 
 I have to give Adobe a lot of credit for all the hard work they put in

@@ -8,7 +8,7 @@ tags:
   - ui
 ---
 
-<img width="631" height="239" layout="responsive" src="//labs.tomasino.org/assets/images/morse.png" alt="Wearable Devices"></img>
+<img width="631" height="239" layout="responsive" src="https://labs.tomasino.org/assets/images/morse.png" alt="Wearable Devices"></img>
 
 With wearable devices on the rise, small screen and no-screen user experience
 is a hot topic. We've been witnessing powerhouses in industrial and technical

@@ -11,7 +11,7 @@ tags:
 title: Elf Name Generator
 ---
 
-<img width="517" height="402" layout="responsive" src="//labs.tomasino.org/assets/images/elfnamegenerator.jpg" alt="Elf Name Generator"></img>
+<img width="517" height="402" layout="responsive" src="https://labs.tomasino.org/assets/images/elfnamegenerator.jpg" alt="Elf Name Generator"></img>
 
 This might be the nerdiest of all lab projects, but hey, I'm a big nerd.
 Wanna make somethin' of it? :)

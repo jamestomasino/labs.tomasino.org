@@ -16,7 +16,7 @@ Switches</a>. I'm typing on it right now and it's hard to describe the
 difference I'm feeling. This is how a keyboard should feel.
 
 <img width="600" height="324" layout="responsive"
-src="//labs.tomasino.org/assets/images/cmstorm.jpg" alt="CM Storm
+src="https://labs.tomasino.org/assets/images/cmstorm.jpg" alt="CM Storm
 Quickfire Rapid"></img>
 
 For the past few years I've been using the <a
@@ -80,7 +80,7 @@ middle-way of switches. I have a keyboard coming with browns in the next
 week or so called the Das Keyboard 4C. Have a look at this beauty:
 
 <img width="725" height="383" layout="responsive"
-src="//labs.tomasino.org/assets/images/daskeyboard.jpg" alt="Das Keyboard
+src="https://labs.tomasino.org/assets/images/daskeyboard.jpg" alt="Das Keyboard
 4C Ultimate"></img>
 
 This model doesn't use Cherry MX switches, but rather Greetech. Some folks

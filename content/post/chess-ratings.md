@@ -8,7 +8,7 @@ tags:
 title: Chess Ratings
 ---
 
-<img width="524" height="485" layout="responsive" src="//labs.tomasino.org/assets/images/chess-rating.png" alt="Chess Ratings"></img>
+<img width="524" height="485" layout="responsive" src="https://labs.tomasino.org/assets/images/chess-rating.png" alt="Chess Ratings"></img>
 
 [See it in action][]
 

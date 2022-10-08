@@ -94,7 +94,7 @@ ported through a hodgepodge of stacks and countries. Maybe starting anew
 could be a good thing?
 
 <img width="580" height="300" layout="responsive"
-src="//labs.tomasino.org/assets/images/aws.png" alt="AWS"></img>
+src="https://labs.tomasino.org/assets/images/aws.png" alt="AWS"></img>
 
 ## The Rebuild
 

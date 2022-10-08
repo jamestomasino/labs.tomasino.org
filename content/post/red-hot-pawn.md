@@ -13,7 +13,7 @@ tags:
 title: Red Hot Pawn
 ---
 
-<img width="465" height="395" layout="responsive" src="//labs.tomasino.org/assets/images/redhotpawn.jpg" alt="Red Hot Pawn"></img>
+<img width="465" height="395" layout="responsive" src="https://labs.tomasino.org/assets/images/redhotpawn.jpg" alt="Red Hot Pawn"></img>
 
 I play a lot of chess. In fact, I play so much, I almost accidentally
 capitalized the word "chess" a moment ago. Yup, I have a problem.

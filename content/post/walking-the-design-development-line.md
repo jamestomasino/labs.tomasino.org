@@ -12,7 +12,7 @@ tags:
 title: Walking the design / development line
 ---
 
-<img width="500" height="383" layout="responsive" src="//labs.tomasino.org/assets/images/design-development.png" alt="Design vs Development"></img>
+<img width="500" height="383" layout="responsive" src="https://labs.tomasino.org/assets/images/design-development.png" alt="Design vs Development"></img>
 
 A friend recently asked me a really good question. He asked, "How much
 code should a designer know?" It's a common question and it doesn't have
