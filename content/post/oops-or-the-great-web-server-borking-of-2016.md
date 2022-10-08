@@ -49,7 +49,7 @@ sudo reboot
 Sadly, that would be the last command ever issued to my lovely little VM.
 
 <img width="599" height="480" layout="responsive"
-src="//labs.tomasino.org/assets/images/system-failure.gif" alt="System
+src="https://labs.tomasino.org/assets/images/system-failure.gif" alt="System
 Failure"></img>
 
 The box didn't come back up cleanly. The ssh daemon wasn't running so

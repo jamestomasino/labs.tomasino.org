@@ -8,7 +8,7 @@ tags:
   - ffmpeg
 ---
 
-In my [last post](/flashforge-finder-with-cura) I wanted to lead off with
+In my [last post](https://labs.tomasino.org/flashforge-finder-with-cura) I wanted to lead off with
 a short animation of the 3D printer in action. I had a video I shot on my
 phone that looked nice, so I downloaded it and started looking at ffmpeg
 options. Eventually I stitched together a few snippets from others with

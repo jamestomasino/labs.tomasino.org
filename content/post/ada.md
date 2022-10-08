@@ -8,7 +8,7 @@ tags:
   - learning
 ---
 
-![Ada Lovelace](//labs.tomasino.org/assets/images/ada-lovelace.jpg)
+![Ada Lovelace](https://labs.tomasino.org/assets/images/ada-lovelace.jpg)
 
 In college I had some brief exposure to the programming language,
 [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)). At the

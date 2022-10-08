@@ -2,7 +2,7 @@
 <header>
   <div>&nbsp;</div>
   {{- with .Site.GetPage "/" }}
-    {{ range .AlternativeOutputFormats -}}{{ printf `<a class="feed" href="%s" /><img src="/assets/images/feed-icon.svg" alt="Feed"></a>` .Permalink | safeHTML }}{{ end }}
+    {{ range .AlternativeOutputFormats -}}{{ printf `<a class="feed" href="%s" /><img src="https://labs.tomasino.org/assets/images/feed-icon.svg" alt="Feed"></a>` .Permalink | safeHTML }}{{ end }}
   {{- end }}
 </header>
 <main id="index" class="h-feed">

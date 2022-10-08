@@ -25,7 +25,7 @@ These weren't insurmountable, but they did take some effort to solve that I thou
 
 Take the spelling dictionary for example. I have thousands of words that I've created from the gibberish of my mind and weaseled into my novel. I don't want these words to show up in my blog posts, code, emails, or anything else without vim highlighting the misspellings and making suggestions. I don't want to muddy up my whole environment with that spelling dictionary.
 
-<img width="617" height="155" layout="responsive" src="//labs.tomasino.org/assets/images/spelling.png" alt="Spelling"></img>
+<img width="617" height="155" layout="responsive" src="https//labs.tomasino.org/assets/images/spelling.png" alt="Spelling"></img>
 
 On the other side of that argument, by default the spelling dictionaries in vim are stored in your `~/.vim/` directory on the system you're working on. This means that if I use the full ubiquity of vim--AKA use it on multiple systems--then my dictionary won't be everywhere. Not a good solve.
 

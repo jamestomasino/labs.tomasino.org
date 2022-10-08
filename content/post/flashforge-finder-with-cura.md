@@ -6,7 +6,7 @@ tags:
   - 3D Printing
 ---
 
-{{< figure src="/assets/images/flashforge-finder.gif" alt="FlashForge Finder" >}}
+{{< figure src="https://labs.tomasino.org/assets/images/flashforge-finder.gif" alt="FlashForge Finder" >}}
 
 I brought my 3D printer with us to
 [Iceland](https://blog.tomasino.org/tags/iceland). My rationale was it's
@@ -27,7 +27,7 @@ all, it seems much easier than trying to get the other software to run
 under Wine.
 
 
-{{< figure src="/assets/images/flashforge-finder-settings.png" alt="FlashForge Finder Settings" >}}
+{{< figure src="https://labs.tomasino.org/assets/images/flashforge-finder-settings.png" alt="FlashForge Finder Settings" >}}
 
 There are a few forum postings with people requesting the settings to use
 FlashForge Finder in Cura as a manual printer, but I couldn't find any
@@ -49,7 +49,7 @@ directly from TinkerCAD for the FlashForge Finder. This set off the alarm
 bells. If it can print to my printer, it MUST know the G-code to use.
 
 
-{{< figure src="/assets/images/flashforge-finder-settings-full.png" alt="FlashForge Finder Settings" >}}
+{{< figure src="https://labs.tomasino.org/assets/images/flashforge-finder-settings-full.png" alt="FlashForge Finder Settings" >}}
 
 I grabbed the start and end codes from TinkerCAD and it almost worked,
 honestly. Unfortunately I kept facing a weird issue where it would print

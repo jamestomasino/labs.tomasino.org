@@ -35,7 +35,7 @@ build it.
 build. In the process I discovered a few additional features that were
 needed and implemented them as well.
 
-{{< figure src="/assets/images/seaturtle.png" alt="Sea Turtle Crochet Pattern" >}}
+{{< figure src="https://labs.tomasino.org/assets/images/seaturtle.png" alt="Sea Turtle Crochet Pattern" >}}
 
 Dealing with the colors was the biggest challenge. In my first iteration
 I cheated a bit by reading the pixel value directly in the center of each
@@ -111,7 +111,7 @@ It was about this point that I realized two things:
    block through the list of dominant colors. Click-to-Fix!
 2. If I hid the grid lines, this is a really cool way to make pixel art!
 
-{{< figure src="/assets/images/heart.png" alt="PixelArt Heart" >}}
+{{< figure src="https://labs.tomasino.org/assets/images/heart.png" alt="PixelArt Heart" >}}
 
 If you are a crocheter or knitter,
 [check it out](https://jamestomasino.github.io/stitchy) and let me know

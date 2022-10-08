@@ -29,7 +29,7 @@ Well, I don't mind them once, but I don't like regular big hassles.
 So I set out to fix it. I knew there must be some way around the
 problem, and I had just enough patience to deal with that hassle once.
 
-<img width="750" height="188" layout="responsive" src="//labs.tomasino.org/assets/images/chrome-cacheless.jpg" alt="Chrome Cacheless"></img>
+<img width="750" height="188" layout="responsive" src="https://labs.tomasino.org/assets/images/chrome-cacheless.jpg" alt="Chrome Cacheless"></img>
 
 Look what I came up with! See that, folks? No cache. Pretty awesome,
 right? Well, it's a little annoying to set up, but I think it'll be
@@ -73,7 +73,7 @@ the directory. From Finder you can do this by right-clicking and
 choosing "Show Package Contents". In terminal, just "cd" into the
 directory. Here's what it looks like inside Chrome:
 
-<img width="750" height="198" layout="responsive" src="//labs.tomasino.org/assets/images/chrome-package.jpg" alt="Chrome Package"></img>
+<img width="750" height="198" layout="responsive" src="https://labs.tomasino.org/assets/images/chrome-package.jpg" alt="Chrome Package"></img>
 
 Well, almost. You'll notice your MacOS folder has only the "Google
 Chrome" file, not the little darling "chrome". That's because I wrote
@@ -117,10 +117,10 @@ contents to be thorough: ~/Library/Caches/Google/Chrome and
 Congratulations! I hope you enjoy your new cacheless browser. Everything
 will probably get wiped out and reset when you upgrade, so beware.
 
-  [Chrome]: //www.google.com/chrome "Chrome"
-  [no simple way to disable the browser cache]: //www.google.com/support/forum/p/Chrome/thread?tid=34782d461575bcdf&hl=en
+  [Chrome]: https://www.google.com/chrome "Chrome"
+  [no simple way to disable the browser cache]: https://www.google.com/support/forum/p/Chrome/thread?tid=34782d461575bcdf&hl=en
     "Disable Browser Cache in Chrome"
-  [/dev/null]: //en.wikipedia.org/wiki//dev/null
+  [/dev/null]: https://en.wikipedia.org/wiki//dev/null
     "Dev Null at Wikipedia"
-  [launchd]: //en.wikipedia.org/wiki/Launchd "LaunchD"
-  [your favorite text editor]: //www.vim.org/ "vim"
+  [launchd]: https://en.wikipedia.org/wiki/Launchd "LaunchD"
+  [your favorite text editor]: https://www.vim.org/ "vim"

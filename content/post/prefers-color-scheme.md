@@ -7,7 +7,7 @@ tags:
   - css
 ---
 
-{{< figure src="/assets/images/prefers-color-scheme.png" caption="Color Scheme Options">}}
+{{< figure src="https://labs.tomasino.org/assets/images/prefers-color-scheme.png" caption="Color Scheme Options">}}
 
 I finally got around to implementing [prefers-color-scheme][] themes on
 this blog, and [my personal one][]. I really love this new CSS feature and
