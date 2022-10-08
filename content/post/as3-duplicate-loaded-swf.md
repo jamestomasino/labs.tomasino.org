@@ -38,7 +38,7 @@ it, and then as you need an instance, it processes that ByteArray
 through a Loader and voila, presto-chango, MovieClip! Simple right? Lets
 take a look.
 
-[DuplicateLoader](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/display/DuplicateLoader.as)
+[DuplicateLoader](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/display/DuplicateLoader.as)
 
 There are two main segments to the class. The first is the load() method
 that grabs your external content and loads it up into the ByteArray

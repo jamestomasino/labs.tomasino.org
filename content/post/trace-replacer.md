@@ -24,7 +24,7 @@ totally automatic?
 
 TADA!!!
 
-[Debug.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/utils/Debug.as)
+[Debug.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/utils/Debug.as)
 
 The new and improved Debug class is just what you need. Import it into
 your project, and it's a one-line solution to all the world's problems

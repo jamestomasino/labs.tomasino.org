@@ -64,7 +64,7 @@ ExternalInterface. My JavaScript chops, while not great, are better than
 my experience with socket connections. Thus the following utility class
 was born:
 
-[SynchronousLoader](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/net/SynchronousLoader.as)
+[SynchronousLoader](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/net/SynchronousLoader.as)
 
 Lets take a closer look at what I'm doing here. First, I'm utilizing
 ExternalInterface to call a JavaScript function that I have hard-coded

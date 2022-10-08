@@ -35,7 +35,7 @@ Below is the class I came up with for my first draft. It uses a couple
 other utility classes I've built in the past (included in the ZIP
 below).
 
-[TabManager.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/accessibility/TabManager.as)
+[TabManager.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/accessibility/TabManager.as)
 
 All-in-all, though, I think it's a pretty solid start at a good tab
 management system.

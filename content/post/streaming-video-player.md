@@ -20,7 +20,7 @@ Inevitably, I need to do something with that bloody NetStream object
 directly. It's frustrating! Also, it's kinda huge, and not in a good
 way. So, without further ado, here's the StreamingVideoPlayer class.
 
-[StreamingVideoPlayer.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/video/StreamingVideoPlayer.as)
+[StreamingVideoPlayer.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/video/StreamingVideoPlayer.as)
 
 Now lets look at how it works:
 

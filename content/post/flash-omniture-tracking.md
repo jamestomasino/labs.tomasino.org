@@ -52,7 +52,7 @@ event listeners for you. At this point the class is technically active
 and monitoring for tracking events, but before it can process them,
 we'll need to set up the site-wide settings.
 
-[OmnitureTracker.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/tracking/omniture/OmnitureTracker.as)
+[OmnitureTracker.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/tracking/omniture/OmnitureTracker.as)
 
 **Step 2: OmnitureSettings -**
 As soon as you've instantiated the OmnitureTracker, a settings property
@@ -71,7 +71,7 @@ these properties as soon as I instantiate OmnitureTracker and just
 before I add it to the display list. This way, if something needs
 tracked right away, you'll be fully configured and ready to go ahead.
 
-[OmnitureSettings.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/tracking/omniture/OmnitureSettings.as)
+[OmnitureSettings.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/tracking/omniture/OmnitureSettings.as)
 
 **Step 3: OmnitureEvent -**
 Now we're ready to track things. Any tracking you need to do, whether
@@ -84,7 +84,7 @@ alternative way to reach the OmnitureTracker. To make this easier,
 OmnitureTracker instances have a public method called track() that take
 an OmnitureEvent as a parameter. See how helpful I am? You're welcome.
 
-[OmnitureEvent.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/tracking/omniture/OmnitureEvent.as)
+[OmnitureEvent.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/tracking/omniture/OmnitureEvent.as)
 
 **Step 4: OmnitureTrackData -**
 So you know how to send out tracking data, but how do you actually tell
@@ -133,7 +133,7 @@ TYPE_EXIT_LINK value, linkName, linkURL, and linkWindow, will handle
 the navigation for you automagically after the tracking is complete.
 Handy!
 
-[OmnitureTrackData.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/tracking/omniture/OmnitureTrackData.as)
+[OmnitureTrackData.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/tracking/omniture/OmnitureTrackData.as)
 
 **Step 5: OmnitureProduct -**
 The OmnitureProduct class is a little tricky. To be honest, I haven't
@@ -143,7 +143,7 @@ so I can only assume it works properly. Sad as it is, we developers
 rarely get to even see the data on the reporting side. Would this
 process be easier if that weren't the case, you betcha.
 
-[OmnitureProduct.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/tracking/omniture/OmnitureProduct.as)
+[OmnitureProduct.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/tracking/omniture/OmnitureProduct.as)
 
 A final word or two: When you are doing your development and testing, be
 sure to use a unique channel name at the very least. If possible, have a

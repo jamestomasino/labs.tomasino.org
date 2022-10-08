@@ -20,7 +20,7 @@ I'm a developer and a developer solves problems. Here was a very simple issue:
 
 >My parents need a very simple interface to see pictures of my son. They only care about pictures of him, not my entire collection. They may look at these pictures on their phones or on the computer. The site should update automatically and involve as little work as possible by me to maintain it.
 
-That's not a hard solve when you get right down to it. What I decided to do was pull in my photos of my son from Flickr using their API and display the results in a single column infinite-scrolling website. For videos, I host my content on Vimeo, which I feel has a much better quality than YouTube and sees far fewer comment trolls. [Here](//wit.tomasino.org) is the final site.
+That's not a hard solve when you get right down to it. What I decided to do was pull in my photos of my son from Flickr using their API and display the results in a single column infinite-scrolling website. For videos, I host my content on Vimeo, which I feel has a much better quality than YouTube and sees far fewer comment trolls. [Here](https://wit.tomasino.org) is the final site.
 
 Toggling between pictures and videos is done with the icon in the top left corner. Each page follows the same rules: responsive display of content, scrolling to see more. Finally, in the header of the home page I added a tiny bit of JavaScript to display my boy's current age in either weeks, months, or years (appropriately for his total age).
 

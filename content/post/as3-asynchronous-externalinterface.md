@@ -21,7 +21,7 @@ an asynchronous method.
 
 The first part of this method is the AS3 class, AsyncExternalInterface:
 
-[AsyncExternalInterface](//github.com/jamestomasino/AsyncExternalInterface/blob/master/org/tomasino/external/AsyncExternalInterface.as)
+[AsyncExternalInterface](https://github.com/jamestomasino/AsyncExternalInterface/blob/master/org/tomasino/external/AsyncExternalInterface.as)
 
 This class first tests whether ExternalInterface is available at all,
 and then whether the necessary JavaScript class is on the page. If the
@@ -30,7 +30,7 @@ normally. If everything is in place, then your calls will be passed down
 to the CallStack JavaScript class.
 Here's CallStack.js:
 
-[CallStack](//github.com/jamestomasino/AsyncExternalInterface/blob/master/js/CallStack.js)
+[CallStack](https://github.com/jamestomasino/AsyncExternalInterface/blob/master/js/CallStack.js)
 
 This class acts like a Singleton where you get the instance via the
 CallStack method made available in window. This means that when you
@@ -53,7 +53,7 @@ empty, it doesn't waste any time polling an interval.
 
 Finally, it's time to put the files together into an HTML wrapper.
 
-[index.html](//github.com/jamestomasino/AsyncExternalInterface/blob/master/index.html)
+[index.html](https://github.com/jamestomasino/AsyncExternalInterface/blob/master/index.html)
 
 For our test, Flash is calling "testFunction" four times. The first
 three have sequential parameters, and the last has no parameters. If you

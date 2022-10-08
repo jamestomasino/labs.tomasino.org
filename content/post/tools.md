@@ -43,7 +43,7 @@ your own collection. If you have questions or comments, lets *Disqus*.
 ## Dvorak Simplified Keyboard
 
 The [Dvorak Simplified
-Keyboard](//en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard) is the first
+Keyboard](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard) is the first
 fundamental difference in my computer interface. For those unfamiliar, the
 Dvorak key-map rose in response to the outdated keyboard layout at the time,
 QWERTY. The history in short is this: QWERTY was designed in the age of
@@ -74,7 +74,7 @@ else requires me to hunt and peck.
 ## Mac/UNIX
 
 At the heart of my operating systems is the [UNIX
-philosophy](//en.wikipedia.org/wiki/Unix_philosophy), a tiny piece of
+philosophy](https://en.wikipedia.org/wiki/Unix_philosophy), a tiny piece of
 wisdom:
 
 > Even though the UNIX system introduces a number of innovative programs and
@@ -117,7 +117,7 @@ Running OSX or Debian or Ubuntu or whatever is great, but there's a lot of
 customization that can be done to make things more personal. The first step of
 that is your dotfiles.
 
-These are my [dotfiles](//github.com/jamestomasino/dotfiles).
+These are my [dotfiles](https://github.com/jamestomasino/dotfiles).
 
 I define my environments, common aliases, and even some helper functions. Git
 settings and shortcuts and my vim (coming soon) customization. I'm very proud
@@ -128,7 +128,7 @@ of my dotfiles, from the organization and installation to my prompt.
 The other half of my working OS is my collection of binfiles that I carry with
 me from machine to machine.
 
-This is my [bin](//github.com/jamestomasino/bin) repo. They tie in to my
+This is my [bin](https://github.com/jamestomasino/bin) repo. They tie in to my
 dotfiles quite closely. Some of these are handy things I use all the time, and
 others are extremely specific tasks I do for work that should never, ever be
 run unless you know what you're doing. It's like a fun minefield. Enjoy!
@@ -153,17 +153,17 @@ I have context to my activities, whether it be work or play. This is thanks to
 tmux. Like everything else, tmux customization is key.
 
 Here is my [tmux
-configuration](//github.com/jamestomasino/dotfiles-minimal/blob/master/.config/tmux/tmux.conf).
+configuration](https://github.com/jamestomasino/dotfiles-minimal/blob/master/.config/tmux/tmux.conf).
 It's a part of my dotfiles repo.
 
 ## vim
 
 Finally we come to the most important part of my tool box,
-[vim](//www.vim.org/). If arguing developer tools can start a war, arguing
+[vim](https://www.vim.org/). If arguing developer tools can start a war, arguing
 with a vim (or emacs) user must signal the end of days.
 
 If you don't know what vim is, shame on you. Also, go read
-[this](//www.vim.org/6k/features.en.txt) explanation in six kilobytes. I
+[this](https://www.vim.org/6k/features.en.txt) explanation in six kilobytes. I
 couldn't possibly do a better job than that.
 
 Suffice it to say, vim is what makes my system work. The reason I can develop
@@ -175,7 +175,7 @@ emacs. Seriously... not gonna fight you guys).
 
 I code in vim. I author in vim. I take notes in vim. I've done presentations in
 vim. I rebind my keys in first person shooters based on the HJKL navigation in
-vim. I play [vimgolf](//vimgolf.com). I've gotten on the high score board
+vim. I play [vimgolf](https://vimgolf.com). I've gotten on the high score board
 for it too.
 
 The best thing I can say for vim is that it makes my desires transparent. I
@@ -191,12 +191,12 @@ favor and master vim. I'm serious, it will change your life.
 You can do pretty much anything in vim out of the box, but if you want to
 simplify some things or don't want to code it yourself, there's probably a
 great plugin that someone has made already to help you. I'd recommend hitting
-up [VimAwesome](//vimawesome.com/) to see what's popular. I'll call out a
+up [VimAwesome](https://vimawesome.com/) to see what's popular. I'll call out a
 few of my favorites below as well.
 
-- [YouCompleteMe](//github.com/Valloric/YouCompleteMe)
-- [ctrl-p](//github.com/kien/ctrlp.vim)
-- [vim-airline](//github.com/bling/vim-airline) - I also use the fonts for this plugin in my tmux configuration. Double-win.
-- [And many, many MOAR](//github.com/jamestomasino/dotfiles/blob/fbda7eed231c3b39aaf4a949603af9aa37cbc835/vim/.vimrc.bundles#L21-L50)
+- [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
+- [ctrl-p](https://github.com/kien/ctrlp.vim)
+- [vim-airline](https://github.com/bling/vim-airline) - I also use the fonts for this plugin in my tmux configuration. Double-win.
+- [And many, many MOAR](https://github.com/jamestomasino/dotfiles/blob/fbda7eed231c3b39aaf4a949603af9aa37cbc835/vim/.vimrc.bundles#L21-L50)
 
 :wq

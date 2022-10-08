@@ -31,7 +31,7 @@ implementation he'd done for a web-game that he wanted to add cheat
 codes into. I've written a few versions of my own since then, but this
 latest is the simplest and most flexible.
 
-[KeyCodeReader.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/io/KeyCodeReader.as)
+[KeyCodeReader.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/io/KeyCodeReader.as)
 
 My KeyCodeReader class is the workhorse here. When you add it to an
 application, you create an instance and pass it a reference to the
@@ -66,7 +66,7 @@ key property that holds the matched code array. You can use this array
 for any fancy switching to figure out what you want to do next. Here's
 the Event class:
 
-[KeyCodeEvent](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/events/KeyCodeEvent.as)
+[KeyCodeEvent](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/events/KeyCodeEvent.as)
 
 In the linked folder I've created a sample project with an implemented
 KeyCodeReader class and a couple simple match codes. It is also a

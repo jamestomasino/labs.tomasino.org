@@ -34,19 +34,19 @@ quickly as ingenuity spread virally across the medium. That's why I believe the
 real challenge to wearables is not in the size of their screen, but rather in
 the size of their input.
 
-RSVP, or [rapid serial visual presentation](//www.youtube.com/watch?v=i5fmIDdVN5M),
+RSVP, or [rapid serial visual presentation](https://www.youtube.com/watch?v=i5fmIDdVN5M),
 gives users an alternate way of taking in text that is at once futuristic and
 suddenly familiar. By flashing one word quickly in place of another, our eyes
 pick up the flow of a sentence, paragraph, and so on automatically but without
 wasting all the time tracking from one place on a screen to another. RSVP has
-been around for years, but gained internet fame when [Spritz](//spritzinc.com)
+been around for years, but gained internet fame when [Spritz](https://spritzinc.com)
 introduced their demo a few months ago. Already their technology has found its
 way into smart watches, handheld applications and web plugins. Familiarity and
 ease-of-use combine quickly before our eyes as one of the key challenges of the
 small screen is tackled.
 
 What then of input, though? Where are our tiny keyboards? Microsoft [is
-trying](//research.microsoft.com/en-us/um/redmond/projects/analogkeyboard/)
+trying](https://research.microsoft.com/en-us/um/redmond/projects/analogkeyboard/)
 pretty much anything they can think of at this point. We've had incredibly
 smart folks working on how to turn handwriting into text since the 80s (and
 maybe earlier). Will this finally be the push that makes it happen? Perhaps
@@ -61,11 +61,11 @@ certainty, but there's one part of the puzzle I find incredibly frustrating.
 Our best and brightest seem to feel that introducing a new interface or even a
 comepletely new input style is not a big deal for end users, and yet they
 ignore altogether one alternate input method that we've been using successfully
-for over a hundred years. [Morse Code](//en.wikipedia.org/wiki/Morse_code).
+for over a hundred years. [Morse Code](https://en.wikipedia.org/wiki/Morse_code).
 
 Dots and dashes. Tap and longer tap. The method is there, easy to use, and
 blindingly fast with the meagerest of
-[practice](//www.youtube.com/watch?v=M_icJLmsFNU). So maybe it's a bit
+[practice](https://www.youtube.com/watch?v=M_icJLmsFNU). So maybe it's a bit
 more intimidating than writing out each letter with your fingernail, but
 remember we don't need to listen to it anymore, just input. The small screen
 and RSVP style feedback can show us the results in plain text. We just need to

@@ -40,7 +40,7 @@ too difficult to re-author the batch loading algorithm to cut out the
 dependency. If someone else wants to tackle this, I'd be happy to use
 it.
 
-[FontManager.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/fonts/FontManager.as)
+[FontManager.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/fonts/FontManager.as)
 
 This seems like a good place to talk about the work-flow of the
 FontManager. When we implement this code into our project, we're

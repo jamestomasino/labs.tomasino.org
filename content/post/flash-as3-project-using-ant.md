@@ -28,7 +28,7 @@ In this example, I'm working with an extremely basic Flash document.
 Since we're compiling with Ant and not Flash or Flex, we don't need an
 FLA or an MXML, we just need an AS file. Here's mine:
 
-[Example.as](//github.com/jamestomasino/ANTExample/blob/master/src/org/tomasino/projects/antexample/Example.as)
+[Example.as](https://github.com/jamestomasino/ANTExample/blob/master/src/org/tomasino/projects/antexample/Example.as)
 
 The "html-template" folder will have its contents and structure copied
 into "build" when we run the Ant script later on. I started using this
@@ -38,7 +38,7 @@ processing on it with the Ant script later on, only including certain
 files in certain situations. For now, I'm just copying what I need,
 including the index file. Here it is:
 
-[index.html](//github.com/jamestomasino/ANTExample/blob/master/html-template/index.html)
+[index.html](https://github.com/jamestomasino/ANTExample/blob/master/html-template/index.html)
 
 You might notice that I'm using the [CSS optimizer][] from an [earlier
 post][CSS optimizer]. I've also included a callback method in my
@@ -54,18 +54,18 @@ the heart of the project. To run it, drop to terminal, change directory
 to the folder and type "ant". It will run the "compile" target by
 default. Let's take a look:
 
-[build.xml](//github.com/jamestomasino/ANTExample/blob/master/build.xml)
+[build.xml](https://github.com/jamestomasino/ANTExample/blob/master/build.xml)
 
 **build.properties** file defines
 the common properties in the project.
 
-[build.properties](//github.com/jamestomasino/ANTExample/blob/master/ant/build.properties)
+[build.properties](https://github.com/jamestomasino/ANTExample/blob/master/ant/build.properties)
 
 **local.properties** file defines
 the local properties that override defaults. These are used to dictate
 the developer-specific paths.
 
-[local.properties](//github.com/jamestomasino/ANTExample/blob/master/ant/local.properties)
+[local.properties](https://github.com/jamestomasino/ANTExample/blob/master/ant/local.properties)
 
 The targets are listed in order of dependency for ease of use. The
 "compile" target depends on "make_swf" which depends on

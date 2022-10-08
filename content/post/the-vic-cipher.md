@@ -47,7 +47,7 @@ You can type anything you want, but only letters, numbers, and the
 period (full stop) characters will be saved. (That's flash below, not an
 image. You can try it right here!)
 
-[Vic Cipher Source](//github.com/jamestomasino/Vic)
+[Vic Cipher Source](https://github.com/jamestomasino/Vic)
 
 ~~In the latest versions of
 Flash, Adobe has removed the Date Chooser component. As a result, and

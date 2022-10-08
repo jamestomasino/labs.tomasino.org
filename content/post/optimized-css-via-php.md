@@ -28,7 +28,7 @@ files. I wanted three important things:
 I found most of what I needed in a [really cool little blog post][](post removed), but
 it needed a lot of surgery. Take a look.
 
-[styles.css.php](//github.com/jamestomasino/ToDo/blob/master/html-template/css/styles.css.php)
+[styles.css.php](https://github.com/jamestomasino/ToDo/blob/master/html-template/css/styles.css.php)
 
 I set my compression up with ob_gzhandler, and do a little magic with
 the headers. Cache expires in a day, which I think is plenty often

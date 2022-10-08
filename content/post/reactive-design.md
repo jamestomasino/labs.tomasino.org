@@ -60,15 +60,15 @@ math ourselves. You can probably skip past most of this unless you're
 into color math. It's pretty neat stuff, but [looks a lot harder than it
 is][].
 
-[Color.class.js](//github.com/jamestomasino/Reactive-Color/blob/master/org/incrediberry/display/Color.class.js)
+[Color.class.js](https://github.com/jamestomasino/Reactive-Color/blob/master/org/incrediberry/display/Color.class.js)
 
 Now that I have the helper methods in place, lets look at the HTML.
 
-[index.html](//github.com/jamestomasino/Reactive-Color/blob/master/index.html)
+[index.html](https://github.com/jamestomasino/Reactive-Color/blob/master/index.html)
 
 And finally the JavaScript that will actually do the test logic.
 
-[scripts.js](//github.com/jamestomasino/Reactive-Color/blob/master/scripts.js)
+[scripts.js](https://github.com/jamestomasino/Reactive-Color/blob/master/scripts.js)
 
 The first function, getAverageRGB, uses html5's canvas object to pull
 out color information from the image. I'm really not confident in doing

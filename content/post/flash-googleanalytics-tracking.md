@@ -59,7 +59,7 @@ of about 200ms does the job just as well and is all but invisible to the
 end user. Take your pick, gut my class, force it to do amazing things I
 never thought possible. Enjoy!
 
-[GoogleAnalytics.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/tracking/google/GoogleAnalytics.as)
+[GoogleAnalytics.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/tracking/google/GoogleAnalytics.as)
 
 All that Availability talk in the previous class probably got a little
 annoying. It's really there to handle testing environment problems that
@@ -74,7 +74,7 @@ static var \_availability:Boolean = ExternalInterface.available;".
 You'll need to fix the imports as well, but you're an actionscript
 rockstar, so I don't need to cover that.
 
-[Availability.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/external/Availability.as)
+[Availability.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/external/Availability.as)
 
 As always, my code's free to use and distribute. I don't need a credit
 or shoutout or anything, though I always welcome comments and feedback.

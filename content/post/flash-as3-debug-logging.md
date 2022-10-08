@@ -43,7 +43,7 @@ some simple error checking, and then pass those to the active Consoles.
 As a singleton, there's only ever one instance of Log, which keeps
 things nice and organized.
 
-[Log.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/logging/Log.as)
+[Log.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/logging/Log.as)
 
 The "Logger" class is your workhorse. This is the class that gets
 instantiated in each class of your project. Each Logger gets passed
@@ -56,7 +56,7 @@ debugger with specific levels of importance. With some configuration of
 the Log class, you can filter out these messages by level, string or
 regular expression (how fancy!).
 
-[Logger.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/logging/Logger.as)
+[Logger.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/logging/Logger.as)
 
 Finally there are the Consoles. The Consoles are the classes that get
 the debug information and present it back to you in some way. By
@@ -74,11 +74,11 @@ LocalConnection data, parses it, and displays it within a really pretty
 DataGrid. It also has some great searching and filtering options. I
 highly recommend it.
 
-[IConsole.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/logging/IConsole.as)
+[IConsole.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/logging/IConsole.as)
 
-[TraceConsole.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/logging/TraceConsole.as)
+[TraceConsole.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/logging/TraceConsole.as)
 
-[LogBookConsole.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/logging/LogBookConsole.as)
+[LogBookConsole.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/logging/LogBookConsole.as)
 
 In a normal implementation, all that is necessary to use the basic
 logging system is to import Logger into one of your classes, instantiate

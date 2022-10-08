@@ -10,7 +10,7 @@ tags:
 ---
 
 <img width="750" height="546" layout="responsive" src="https://labs.tomasino.org/assets/images/bridge-from-nowhere.jpg" alt="Bridge"></img>
-![Bridge](//labs.tomasino.org/assets/images/bridge-from-nowhere.jpg "Half Begun - Half Finished")
+![Bridge](https://labs.tomasino.org/assets/images/bridge-from-nowhere.jpg "Half Begun - Half Finished")
 
 I have to give Adobe a lot of credit for all the hard work they put in
 to make AS3 the great language that it is. They took an awful,
@@ -34,7 +34,7 @@ Well, now that I've complained, I guess I better get off by butt and do
 something about it, right? Fine. I introduce to you a nifty class I
 affectionately call SimpleNetStream.
 
-[SimpleNetStream.as](//github.com/jamestomasino/tomasino/blob/master/org/tomasino/net/SimpleNetStream.as)
+[SimpleNetStream.as](https://github.com/jamestomasino/tomasino/blob/master/org/tomasino/net/SimpleNetStream.as)
 
 There's a whole package of dependencies on this class, now, but don't
 worry yourself too much. For the most part you won't need to touch any

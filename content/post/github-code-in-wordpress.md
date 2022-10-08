@@ -47,7 +47,7 @@ code to GitHub Code Viewer displayed in my blog via GitHub Code Viewer.
 But before that, I'll ALSO show you the code to use GitHub Code Viewer
 to display GitHub Code Viewer. (Takes a bow).
 
-[Github_Code_Viewer.php](//github.com/jamestomasino/wp_GitHub_Code_Viewer/blob/master/GitHub_Code_Viewer.php)
+[Github_Code_Viewer.php](https://github.com/jamestomasino/wp_GitHub_Code_Viewer/blob/master/GitHub_Code_Viewer.php)
 
   [GitHub Code Viewer]: //github.com/spf13/wp_GitHub_Code_Viewer
   [Steve Francia]: //spf13.com/
