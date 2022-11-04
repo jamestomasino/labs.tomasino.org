@@ -14,6 +14,7 @@ new: ## create new post
 	echo "title: \"$$title\""                                   >> $$post_path; \
 	echo "url: \"/$$title_slug\""                               >> $$post_path; \
 	echo "tags: "                                               >> $$post_path; \
+	echo "  - meta "                                            >> $$post_path; \
 	echo "---"                                                  >> $$post_path; \
 	echo " "                                                    >> $$post_path; \
 	echo " "                                                    >> $$post_path; \
@@ -23,7 +24,7 @@ new: ## create new post
 	vim $$post_path
 
 serve: ## start hugo watcher and webserver
-	hugo server
+	hugo server -D
 
 build: ## build hugo source
 	hugo --gc --minify
