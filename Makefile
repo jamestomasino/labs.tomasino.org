@@ -1,3 +1,7 @@
+INDEX_FILES != find public/ -name 'index.html'
+SIG_FILES := $(INDEX_FILES:%.html=%.html.asc)
+GPG_FINGERPRINT="4E0FEB0E09DDD7DF"
+
 help:
 	@echo "targets:"
 	@grep -E '^[a-zA-Z0-9_-]+:.*?## .*$$' $(MAKEFILE_LIST) \
@@ -29,7 +33,12 @@ serve: ## start hugo watcher and webserver
 build: ## build hugo source
 	hugo --gc --minify
 
-deploy: build ## send built files to webserver
+sign: $(SIG_FILES) ## gpg sign blog content
+
+public/%.html.asc: public/%.html
+	gpg --batch --yes --local-user $(GPG_FINGERPRINT) --armor --detach-sign $<
+
+deploy: build $(SIG_FILES) ## send built files to webserver
 	rsync -rvhe ssh --progress --delete ./public/ labs.tomasino.org:/var/www/labs.tomasino.org/
 
-.PHONY: new serve build deploy help
+.PHONY: new serve build deploy help sign
