@@ -24,7 +24,7 @@ new: ## create new post
 	echo " "                                                    >> $$post_path; \
 	echo " "                                                    >> $$post_path; \
 	echo " "                                                    >> $$post_path; \
-	echo "<!--  vim: set shiftwidth=4 tabstop=4 expandtab: -->" >> $$post_path; \
+	echo "<!--  vim: set shiftwidth=4 tabstop=4 tw=80 expandtab: -->" >> $$post_path; \
 	vim $$post_path
 
 serve: ## start hugo watcher and webserver
