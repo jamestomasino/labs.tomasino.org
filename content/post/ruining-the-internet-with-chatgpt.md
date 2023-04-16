@@ -8,7 +8,7 @@ tags:
   - recipes
 ---
 
-<img width="512" height="512" layout="responsive" src="https://labs.tomasino.org/assets/images/recipesrecipes.jpg" alt="Recipes Recipes Recipes"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/recipesrecipes.jpg" caption="Recipes Recipes Recipes" >}}
 
 I had a ~~terrible~~ marvelous idea today! As everyone knows, recipe blogs are
 the absolute worst. You need to [scroll through endless
