@@ -38,7 +38,7 @@ sign: $(SIG_FILES) ## gpg sign blog content
 public/%.html.asc: public/%.html
 	gpg --batch --yes --local-user $(GPG_FINGERPRINT) --armor --detach-sign $<
 
-deploy: build $(SIG_FILES) ## send built files to webserver
+deploy: $(SIG_FILES) ## send built files to webserver
 	rsync -rvhe ssh --progress --delete ./public/ labs.tomasino.org:/var/www/labs.tomasino.org/
 
 .PHONY: new serve build deploy help sign
