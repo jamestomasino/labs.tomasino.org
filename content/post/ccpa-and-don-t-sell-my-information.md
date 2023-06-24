@@ -32,8 +32,6 @@ their digital information. What rights?
 
 ## Who is required to comply?
 
-The only organizations subject to CCPA are for-profit companies doing business in California that collect consumers' personal data and do the following:
-
 Only for-profit companies doing business in California or with California
 residents which do at least one of the following:
 
@@ -82,17 +80,16 @@ In fact, some of the brainpower involved in that effort helped GPC get going.
 This time the work was spearheaded by the Electronic Frontier Foundation (EFF)
 and Duck Duck Go and has a [public
 specification](https://privacycg.github.io/gpc-spec/). But most importantly it
-has legislation backing it's requirement. California clearly sees it as
-fundamental to the implementation of its act. Colorado and Connecticut mention
-it by name in their laws which should come out in 2024 and 2025 respectively.
+has legislation backing it. California clearly sees it as fundamental to the
+implementation of its act. Colorado and Connecticut mention it by name in their
+laws which should come out in 2024 and 2025 respectively.
 
 ## Growing regulation
 
 The CCPA allows for California to enact and expand regulations to implement the
-act. Those rules have been shifting slightly since its launch, and in the
-November 2022 draft regulation updates some new considerations were added. We're
-seeing these come into effect soon, with enforcement scheduled for January of
-2024.
+act. Those rules have been shifting slightly since its launch, and the November
+2022 draft regulation saw some major updates. We're seeing these come into
+effect soon with enforcement scheduled for January of 2024.
 
 ### What's included?
 
