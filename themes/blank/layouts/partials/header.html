@@ -12,6 +12,11 @@
     {{- with .Site.GetPage "/" }}
       {{ range .AlternativeOutputFormats -}}{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}{{ end }}
     {{- end }}
+    {{ if .Params.og_image }}
+      <meta property="og:image" content="https://labs.tomasino.org{{ .Params.og_image | relURL }}"/>
+    {{ else }}
+      <meta property="og:image" content="https://labs.tomasino.org{{ .Site.Params.og_image | relURL }}"/>
+    {{ end }}
     {{ with resources.Get "style.css" | minify }}<style>{{ .Content | safeCSS }}</style>{{ end }}
   </head>
   <body>

@@ -2,6 +2,7 @@
 date: 2023-06-23 22:45:34 +0000
 title: "CCPA and Don't Sell My Information"
 url: "/ccpa-and-don-t-sell-my-information"
+og_image: "/assets/images/ccpa.jpg"
 tags:
   - CCPA
   - cookies

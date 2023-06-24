@@ -8,6 +8,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
 [params]
     author = "James Tomasino"
     description = "good ideas short on time"
+    og_image = "/assets/images/labs.jpg"
 [author]
     name = "James Tomasino"
 
