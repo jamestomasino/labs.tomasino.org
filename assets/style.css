@@ -186,12 +186,12 @@ header {
 
 #index li a,
 #tags li a {
-	color: #888;
+	color: #5b5b5b;
 }
 
 time {
 	margin-right: 5px;
-	color: #888;
+	color: #5b5b5b;
 }
 
 footer {
