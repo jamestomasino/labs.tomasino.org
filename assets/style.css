@@ -10,6 +10,7 @@ h1 {
 	line-height: 1.5em;
 	font-weight: bold;
 	margin-bottom: 0;
+	color: #000;
 }
 
 h1 a,
@@ -28,12 +29,15 @@ h2 {
 	font-size: 18px;
 }
 main h2 {
-	font-size: 27px;
+	font-size: 32px;
 	font-style: italic;
+	padding-top: 1rem;
 }
 
 h3 {
-	font-size: 24px;
+	font-size: 26px;
+	font-weight: bold;
+	padding-top: 1rem;
 }
 
 #list h1,
@@ -92,12 +96,12 @@ a {
 	font-weight: 600;
 	text-decoration: none;
 	text-shadow: 1px 1px 0 #fff, -1px 1px 0 #fff, 2px 0 0 #fff, -2px 0 0 #fff;
-	box-shadow: inset 0 2px 0 0 #fff, inset 0 -1px 0 0 #debdde;
+	box-shadow: inset 0 2px 0 0 #fff, inset 0 -2px 0 0 #debdde;
 }
 
 a:hover {
 	transition: box-shadow 0.3s;
-	box-shadow: inset 0 2px 0 0 #fff, inset 0 -1px 0 0 #780078;
+	box-shadow: inset 0 2px 0 0 #fff, inset 0 -3px 0 0 #780078;
 }
 
 main {
@@ -112,7 +116,7 @@ header {
 	justify-content: space-between;
 	align-items: center;
 	position: fixed;
-	background: rgba(0,0,0,0.5);
+	background: rgba(0,0,0,0.1);
 	color: #fff;
 	left: 0;
 	top: 0;
@@ -156,6 +160,7 @@ header {
 	top: 0;
 	transform-origin: left bottom;
 	font-size: 0.7em;
+	color: #59006b;
 }
 
 .feed {
@@ -253,20 +258,25 @@ figure {
 @media (prefers-color-scheme: dark) {
 	body {
 		background: #303030;
-		color:#c1c1c1;
+		color: #ddd;
 		font-weight: 400;
+	}
+	h1 {
+		color: #fff;
+	}
+	h2 {
+		color: #eee;
 	}
 	h3 {
-		font-weight: 400;
 	}
 	a {
-		color: white;
+		color: #e4ffff;
 		text-shadow: 1px 1px 0 #303030, -1px 1px 0 #303030, 2px 0 0 #303030, -2px 0 0 #303030;
-		transition: box-shadow 0.7s;
-		box-shadow: 0 0 0 0 #303030, 0 1px 0 0 #97ecec;
+		transition: box-shadow 0.3s;
+		box-shadow: 0 0 0 0 #303030, 0 2px 0 0 #97ecec;
 	}
 	a:hover {
-		box-shadow: 0 0 0 0 #303030, 0 3px 0 0 aqua;
+		box-shadow: 0 0 0 0 #303030, 0 4px 0 0 aqua;
 	}
 
 	.p-category:hover {
@@ -277,22 +287,25 @@ figure {
 	h2 a,
 	h3 a {
 		transition: box-shadow 0.7s;
-		box-shadow: 0 0 0 0 #303030, 0 1px 0 0 #97ecec;
+		box-shadow: 0 0 0 0 #303030, 0 2px 0 0 #97ecec;
 	}
 
 	h1 a:hover,
 	h2 a:hover,
 	h3 a:hover {
-		box-shadow: 0 0 0 0 #303030, 0 3px 0 0 aqua;
+		box-shadow: 0 0 0 0 #303030, 0 4px 0 0 aqua;
 	}
 	#index li a,
 	#tags li a {
-		color: #888;
+		color: #a2a2a2;
 	}
 	#back {
 		color: #fff;
 	}
+	#back::before {
+		color: #fff;
+	}
 	time {
-		color: #888;
+		color: #a2a2a2;
 	}
 }
