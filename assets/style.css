@@ -42,13 +42,14 @@ h3 {
 
 #list h1,
 #index h1 {
-	font-size: 24px;
+	font-size: 40px;
 	font-style: italic;
 	line-height: 1.5em;
 }
 
 #list h2,
 #index h2 {
+	font-size: 18px;
 	margin-top: 0;
 	margin-bottom: 50px;
 	border-bottom: 1px solid #ccc;
@@ -100,7 +101,6 @@ a {
 }
 
 a:hover {
-	transition: box-shadow 0.3s;
 	box-shadow: inset 0 2px 0 0 #fff, inset 0 -3px 0 0 #780078;
 }
 
@@ -272,7 +272,6 @@ figure {
 	a {
 		color: #e4ffff;
 		text-shadow: 1px 1px 0 #303030, -1px 1px 0 #303030, 2px 0 0 #303030, -2px 0 0 #303030;
-		transition: box-shadow 0.3s;
 		box-shadow: 0 0 0 0 #303030, 0 2px 0 0 #97ecec;
 	}
 	a:hover {
@@ -286,7 +285,6 @@ figure {
 	h1 a,
 	h2 a,
 	h3 a {
-		transition: box-shadow 0.7s;
 		box-shadow: 0 0 0 0 #303030, 0 2px 0 0 #97ecec;
 	}
 
