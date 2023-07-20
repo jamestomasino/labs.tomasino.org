@@ -51,7 +51,7 @@ triggers.
 Also included is a sample link event trigger showing how to add a check for the
 GPC and/or DNT signals before firing.
 
-You can [download this sample GTM Container here](https://labs.tomasino.org/assets/gcp-and-dnt-gtm-container.json)
+You can [download this sample GTM Container here](https://labs.tomasino.org/assets/gpc-and-dnt-gtm-container.json)
 and import it into your own GTM workspace.
 
 This solution should theoretically cover you for business use in the US against
