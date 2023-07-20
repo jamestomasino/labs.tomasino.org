@@ -1,0 +1,253 @@
+{
+    "exportFormatVersion": 2,
+    "exportTime": "2023-07-20 16:20:52",
+    "containerVersion": {
+        "path": "accounts/6136126748/containers/135437200/versions/0",
+        "accountId": "6136126748",
+        "containerId": "135437200",
+        "containerVersionId": "0",
+        "container": {
+            "path": "accounts/6136126748/containers/135437200",
+            "accountId": "6136126748",
+            "containerId": "135437200",
+            "name": "tomasino.org",
+            "publicId": "GTM-T9LSN87G",
+            "usageContext": [
+                "WEB"
+            ],
+            "fingerprint": "1689869119039",
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6136126748/containers/135437200/workspaces?apiLink=container",
+            "features": {
+                "supportUserPermissions": true,
+                "supportEnvironments": true,
+                "supportWorkspaces": true,
+                "supportGtagConfigs": false,
+                "supportBuiltInVariables": true,
+                "supportClients": false,
+                "supportFolders": true,
+                "supportTags": true,
+                "supportTemplates": true,
+                "supportTriggers": true,
+                "supportVariables": true,
+                "supportVersions": true,
+                "supportZones": true,
+                "supportTransformations": false
+            },
+            "tagIds": [
+                "GTM-T9LSN87G"
+            ]
+        },
+        "trigger": [
+            {
+                "accountId": "6136126748",
+                "containerId": "135437200",
+                "triggerId": "6",
+                "name": "DOM Ready (GPC & DNT)",
+                "type": "DOM_READY",
+                "filter": [
+                    {
+                        "type": "EQUALS",
+                        "parameter": [
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg0",
+                                "value": "{{GPC & DNT}}"
+                            },
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg1",
+                                "value": "1"
+                            },
+                            {
+                                "type": "BOOLEAN",
+                                "key": "negate",
+                                "value": "true"
+                            }
+                        ]
+                    }
+                ],
+                "fingerprint": "1689869685415"
+            },
+            {
+                "accountId": "6136126748",
+                "containerId": "135437200",
+                "triggerId": "7",
+                "name": "DOM Ready (GPC)",
+                "type": "DOM_READY",
+                "filter": [
+                    {
+                        "type": "EQUALS",
+                        "parameter": [
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg0",
+                                "value": "{{GPC}}"
+                            },
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg1",
+                                "value": "1"
+                            },
+                            {
+                                "type": "BOOLEAN",
+                                "key": "negate",
+                                "value": "true"
+                            }
+                        ]
+                    }
+                ],
+                "fingerprint": "1689869703943"
+            },
+            {
+                "accountId": "6136126748",
+                "containerId": "135437200",
+                "triggerId": "8",
+                "name": "DOM Ready (DNT)",
+                "type": "DOM_READY",
+                "filter": [
+                    {
+                        "type": "EQUALS",
+                        "parameter": [
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg0",
+                                "value": "{{DNT}}"
+                            },
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg1",
+                                "value": "1"
+                            },
+                            {
+                                "type": "BOOLEAN",
+                                "key": "negate",
+                                "value": "true"
+                            }
+                        ]
+                    }
+                ],
+                "fingerprint": "1689869725891"
+            },
+            {
+                "accountId": "6136126748",
+                "containerId": "135437200",
+                "triggerId": "9",
+                "name": "Sample Click (GPC & DNT)",
+                "type": "LINK_CLICK",
+                "filter": [
+                    {
+                        "type": "EQUALS",
+                        "parameter": [
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg0",
+                                "value": "{{GPC & DNT}}"
+                            },
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg1",
+                                "value": "1"
+                            },
+                            {
+                                "type": "BOOLEAN",
+                                "key": "negate",
+                                "value": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CONTAINS",
+                        "parameter": [
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg0",
+                                "value": "{{Click URL}}"
+                            },
+                            {
+                                "type": "TEMPLATE",
+                                "key": "arg1",
+                                "value": "thank-you.html"
+                            }
+                        ]
+                    }
+                ],
+                "waitForTags": {
+                    "type": "BOOLEAN",
+                    "value": "false"
+                },
+                "checkValidation": {
+                    "type": "BOOLEAN",
+                    "value": "false"
+                },
+                "waitForTagsTimeout": {
+                    "type": "TEMPLATE",
+                    "value": "2000"
+                },
+                "uniqueTriggerId": {
+                    "type": "TEMPLATE"
+                },
+                "fingerprint": "1689869859004"
+            }
+        ],
+        "variable": [
+            {
+                "accountId": "6136126748",
+                "containerId": "135437200",
+                "variableId": "3",
+                "name": "DNT",
+                "type": "jsm",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "javascript",
+                        "value": "function () {\n if (navigator.doNotTrack == \"1\" || window.doNotTrack == \"1\") {\n return \"1\";\n } \n}"
+                    }
+                ],
+                "fingerprint": "1689869296923",
+                "formatValue": {}
+            },
+            {
+                "accountId": "6136126748",
+                "containerId": "135437200",
+                "variableId": "4",
+                "name": "GPC",
+                "type": "jsm",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "javascript",
+                        "value": "function () {\n if (navigator.globalPrivacyControl == \"1\" || window.globalPrivacyControl == \"1\") {\n return \"1\";\n } \n}"
+                    }
+                ],
+                "fingerprint": "1689869365862",
+                "formatValue": {}
+            },
+            {
+                "accountId": "6136126748",
+                "containerId": "135437200",
+                "variableId": "5",
+                "name": "GPC & DNT",
+                "type": "jsm",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "javascript",
+                        "value": "function () {\n if ((navigator.globalPrivacyControl == \"1\") || \n      (window.globalPrivacyControl == \"1\") || \n      (navigator.doNotTrack == \"1\") || \n      (window.doNotTrack == \"1\")) {\n return \"1\";\n } \n}"
+                    }
+                ],
+                "fingerprint": "1689869964781",
+                "formatValue": {}
+            }
+        ],
+        "builtInVariable": [
+            {
+                "accountId": "6136126748",
+                "containerId": "135437200",
+                "type": "CLICK_URL",
+                "name": "Click URL"
+            }
+        ],
+        "fingerprint": "1689870052761",
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/6136126748/containers/135437200/versions/0?apiLink=version"
+    }
+}
