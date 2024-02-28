@@ -177,3 +177,17 @@ are set up properly. Here's a bit of what that looks like:
 ![Enable Consent Settings](https://labs.tomasino.org/assets/images/enable-consent-settings.png")
 
 ![Shield Consent Settings](https://labs.tomasino.org/assets/images/shield-consent-settings.png")
+
+It's really that simple!
+
+## Summary
+
+This move by Google could be seen as consolidating a fractured area of web
+development or it could be seen as yet-another-standard fracturing it further.
+Microsoft is apparently looking to follow suit with something that's very
+similar. And now that all the big banner players are forced to adopt this,
+perhaps they'll change to be more interoperable.
+
+The biggest unknown is that shady bit about how tracking can happen even when
+permission is denied. No user data will be transferred, but there will still be
+signals sent. More on that in the future!
