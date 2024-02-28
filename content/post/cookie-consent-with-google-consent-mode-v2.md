@@ -148,12 +148,14 @@ heading of "marketing", `analytics_storage` could be "analytics", and
 This last one is worth some extra discussion. It deals with the resale of
 personal information to 3rd parties for things like remarketing. Remember, even
 sharing that user data with a 3rd party you are paying for is enough to trigger
-this "resale" clause in some places. The California laws around "Do not Sell My
-Information" come into play around this setting. As we've seen from lawsuits
+this "resale" clause in some places. The California laws around ["Do not Sell My
+Information"](https://labs.tomasino.org/ccpa-and-don-t-sell-my-information/)
+come into play around this setting. As we've seen from lawsuits
 already filed in that state, you will want to ensure your cookie banner solution
-is also checking for the Global Privacy Control signal when checking this
-setting. If the user "Agrees to all" but they have GPC set, you should be
-setting ad_personalization to "denied" regardless.
+is also checking for the [Global Privacy
+Control](https://labs.tomasino.org/respecting-gpc-and-dnt-in-gtm/) signal when
+checking this setting. If the user "Agrees to all" but they have GPC set, you
+should be setting ad_personalization to "denied" regardless.
 
 To that end, DoNotTrack has been getting dusted off recently in some legal
 discussions. You may want to check for that setting and respect it as a valid
