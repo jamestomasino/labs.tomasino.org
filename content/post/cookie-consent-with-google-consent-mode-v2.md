@@ -9,6 +9,8 @@ tags:
   - google
 ---
 
+{{< figure src="https://labs.tomasino.org/assets/images/og-consentv2.jpg" >}}
+
 Next month Google is rolling out Consent Mode V2 for Google Tags in Europe and
 applicable other markets around the globe. In brief, this is a change to how
 cookie consent and "don't sell my data" directives are handled in relation to
