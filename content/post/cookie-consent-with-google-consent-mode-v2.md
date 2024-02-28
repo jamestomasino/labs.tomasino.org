@@ -2,6 +2,7 @@
 date: 2024-02-28 10:09:07 +0000
 title: "Cookie Consent with Google Consent Mode V2"
 url: "/cookie-consent-with-google-consent-mode-v2"
+og_image: "/assets/images/og-consentv2.jpg"
 tags:
   - analytics
   - tracking
@@ -106,7 +107,7 @@ is that you don't need to change your triggers or set up special variables. The
 settings apply directly to the tags. You can optionally require extra settings
 if you want on your tags as well.
 
-![Full Consent Settings](https://labs.tomasino.org/assets/images/full-consent-settings.jpg")
+![Full Consent Settings](https://labs.tomasino.org/assets/images/full-consent-settings.jpg)
 
 ## What are these different consent and storage settings?
 
@@ -176,9 +177,9 @@ the correct consent information to GTM in no time at all.
 You're still going to need to enable Consent mode in GTM and ensure your tags
 are set up properly. Here's a bit of what that looks like:
 
-![Enable Consent Settings](https://labs.tomasino.org/assets/images/enable-consent-settings.png")
+![Enable Consent Settings](https://labs.tomasino.org/assets/images/enable-consent-settings.png)
 
-![Shield Consent Settings](https://labs.tomasino.org/assets/images/shield-consent-settings.png")
+![Shield Consent Settings](https://labs.tomasino.org/assets/images/shield-consent-settings.png)
 
 It's really that simple!
 
