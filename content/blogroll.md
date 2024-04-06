@@ -8,6 +8,7 @@ These are blogs I read regularly:
 
 * [rysiek](https://rys.io/)
 * [Smári McCarthy](https://smarimccarthy.is/)
+* [Esí Jóhannes G.](https://esi.is/blog/)
 * [Kev Quirk](https://kevquirk.com/)
 * [Maggie Appleton](https://maggieappleton.com/)
 * [Andy Bell](https://andy-bell.co.uk/blog/)
