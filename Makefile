@@ -35,7 +35,7 @@ build: ## build hugo source
 sign: $(SIG_FILES) ## gpg sign blog content
 
 public/%.html.asc: public/%.html
-	./sign.sh "$<"
+	@./sign.sh "$<"
 
 deploy: $(SIG_FILES) ## send built files to webserver
 	rsync -rvhe ssh --progress --delete ./public/ labs.tomasino.org:/var/www/labs.tomasino.org/
