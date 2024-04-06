@@ -37,7 +37,7 @@ sign: $(SIG_FILES) ## gpg sign blog content
 public/%.html.asc: public/%.html
 	@./sign.sh "$<"
 
-deploy: $(SIG_FILES) build ## send built files to webserver
+deploy: $(SIG_FILES) ## send built files to webserver
 	rsync -rvhe ssh --progress --delete ./public/ labs.tomasino.org:/var/www/labs.tomasino.org/
 
 .PHONY: new serve build deploy help sign
