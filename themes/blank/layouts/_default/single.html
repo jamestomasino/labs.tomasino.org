@@ -11,15 +11,17 @@
   <article class="h-entry">
     <h1 class="p-name">{{ .Title }}</h1>
     <span class="info">
+      {{ if .Date }}
       <time class="dt-published" datetime="{{ .Date }}">{{ .Date.Format "2006.01.02" }}</time>
+      {{ end }}
+      {{ $tags := .Params.tags }}
+      {{ if $tags }}
       <ul id="tags">
-        {{ $tags := .Params.tags }}
-        {{ if $tags }}
         {{ range sort .Params.tags }}
         <li><a class="p-category" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
         {{ end }}
-        {{ end }}
       </ul>
+      {{ end }}
     </span>
     <div class="e-content">
       {{ .Content }}
