@@ -6,6 +6,7 @@ slug: "blogroll"
 
 These are blogs I read regularly:
 
+* [Ben Harris](https://benharri.org/)
 * [rysiek](https://rys.io/)
 * [Smári McCarthy](https://smarimccarthy.is/)
 * [Esi Jóhannes G.](https://esi.is/blog/)
