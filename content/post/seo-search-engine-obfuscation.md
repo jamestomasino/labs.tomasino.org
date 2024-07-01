@@ -2,6 +2,7 @@
 url: "/seo-search-engine-obfuscation"
 date: 2011-02-24T00:00:00Z
 excerpt: A modest proposal for an ever-so-slightly evil interpretation of SEO that is already being leveraged by intelligence groups worldwide to be adopted by corporate interests.
+og_image: "/assets/images/disinformation.jpg"
 tags:
   - advertising
   - disinformation
@@ -12,7 +13,7 @@ tags:
 title: SEO - Search Engine Obfuscation
 ---
 
-<img width="750" height="500" layout="responsive" src="https://labs.tomasino.org/assets/images/disinformation.jpg" alt="Disinformation"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/disinformation.jpg" alt="Disinformation" >}}
 
 In an era when half the entities on the internet are screaming to be
 heard and the other half are trying to hide, we've done remarkably
