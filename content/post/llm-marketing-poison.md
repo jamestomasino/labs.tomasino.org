@@ -3,7 +3,6 @@ date: 2024-06-27 12:05:00 +0000
 title: "LLM Marketing Poison"
 url: "/llm-marketing-poison"
 og_image: "/assets/images/llm-marketing-poison.jpg"
-draft: true
 tags:
   - LLM
   - GPT
