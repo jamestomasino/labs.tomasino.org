@@ -5,17 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{{ .Title }}</title>
+    <meta property="og:title" content="{{ .Title }}">
     <link rel="webmention" href="https://webmention.io/tomasino.org/webmention" />
     <link rel="pingback" href="https://webmention.io/tomasino.org/xmlrpc" />
-    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+    {{ if .Summary }}
+      <meta name="description" content="{{ .Summary }}">
+      <meta property="og:description" content="{{ .Summary }}">
+    {{ else }}
+      {{ with .Site.Params.description }}
+        <meta name="description" content="{{ . }}">
+        <meta property="og:description" content="{{ . }}">
+      {{ end }}
+    {{ end }}
+    <link rel="canonical" href="{{ .Permalink }}" />
+    <meta property="og:url" content="{{ .Permalink }}">
     {{ with .Site.Params.author }}<meta name="author" rel="author" class="p-author h-card" content="{{ . }}">{{ end }}
+    {{ with .Site.Params.og_fedi }}<meta name="fediverse:creator" content="{{ . }}">{{ end }}
     {{- with .Site.GetPage "/" }}
       {{ range .AlternativeOutputFormats -}}{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}{{ end }}
     {{- end }}
     {{ if .Params.og_image }}
-      <meta property="og:image" content="https://labs.tomasino.org{{ .Params.og_image | relURL }}"/>
+      <meta property="og:image" content="https://labs.tomasino.org{{ .Params.og_image | relURL }}">
     {{ else }}
-      <meta property="og:image" content="https://labs.tomasino.org{{ .Site.Params.og_image | relURL }}"/>
+      <meta property="og:image" content="https://labs.tomasino.org{{ .Site.Params.og_image | relURL }}">
     {{ end }}
     {{ with resources.Get "style.css" | minify }}<style>{{ .Content | safeCSS }}</style>{{ end }}
     <!-- Matomo -->

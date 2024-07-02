@@ -9,5 +9,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
     author = "James Tomasino"
     description = "good ideas short on time"
     og_image = "/assets/images/labs.jpg"
+    og_fedi = "tomasino@tilde.zone"
 [author]
     name = "James Tomasino"
