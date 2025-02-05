@@ -3,7 +3,7 @@ date: 2025-02-05 09:45:19 +0000
 title: "The Role of Pharma Marketing in AI"
 draft: true
 url: "/the-role-of-pharma-marketing-in-ai"
-og_image: "/assets/images/chatgpt-common-cold.png"
+og_image: "/assets/images/pharma-marketing-in-ai-og.png"
 tags:
   - advertising
   - GPT
@@ -55,12 +55,16 @@ top results in the search and summarizing. They have very little to guide the
 model's *algorithmic reasoning* and might present untrustworthy sources just as
 much as trustworthy ones. The larger models have some guidelines baked into
 them, not at the AI model level itself, but wrapping it. Querying for health
-information online will result in specific sites being searched.
+information online will result in specific sites being searched, citing them.
 
 {{< figure src="/assets/images/chatgpt-common-cold.png" alt="ChatGPT searching for treatments to the common cold" >}}
 
-Content Generation and Curation, SEO Challenges, Ethical
-considerations
+This type of curation is fragile, though, and many searches can slip through the
+cracks if phrased in the wrong way. Just like simple search summaries, it is
+common to see information from sites like reddit make their way into your result
+data, often to comical (or dangerous) results.
+
+SEO Challenges, Ethical considerations
 
 > In summary, AI is transforming search engines from simple tools for retrieving
 information into sophisticated systems that understand user intent, personalize
