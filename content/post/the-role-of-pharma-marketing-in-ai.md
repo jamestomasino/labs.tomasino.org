@@ -79,11 +79,11 @@ of pharma is to find new and novel treatments to improve the lives of people.
 Even for those entities in the business purely for profit maximization, lying
 about health is a long term losing strategy.
 
-In marketing our websites and ads must adhere to rigorous guidelines to ensure
+In marketing, our websites and ads must adhere to rigorous guidelines to ensure
 they are accurate and balanced. Companies have internal medical, regulatory, and
 legal teams with the mission of ensuring this compliance. The FDA watches the
 line, ready to issue warnings where companies overstep, or to enter into
-Corporate Integrity Agreement if they're especially naughty.
+Corporate Integrity Agreements if they're especially naughty.
 
 And for these reasons many companies are scared to touch AI. There isn't
 complete control over the output of the content. What if something is
