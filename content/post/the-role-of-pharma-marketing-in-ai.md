@@ -1,7 +1,6 @@
 ---
 date: 2025-02-05 09:45:19 +0000
 title: "The Role of Pharma Marketing in AI"
-draft: true
 url: "/the-role-of-pharma-marketing-in-ai"
 og_image: "/assets/images/pharma-marketing-in-ai-og.png"
 tags:
@@ -64,12 +63,55 @@ cracks if phrased in the wrong way. Just like simple search summaries, it is
 common to see information from sites like reddit make their way into your result
 data, often to comical (or dangerous) results.
 
-SEO Challenges, Ethical considerations
+Regardless of the specifics of the AI mechanism the experience for the end user
+has taken a dramatic shift. To stay relevant to the user's web experience the
+engines are changing, and they're leaving behind the page rankings, paid search,
+and SEO optimization rules. What this means for marketing will be the subject of
+many articles and experiments, and is likely to change as companies like Google
+scramble to ensure their revenue model can adjust.
 
-> In summary, AI is transforming search engines from simple tools for retrieving
-information into sophisticated systems that understand user intent, personalize
-experiences, and adapt to new forms of interaction. This evolution is making the
-web experience more intuitive and efficient, but it also requires ongoing
-attention to ethical considerations and user privacy<sup>1</sup>.
+What's more important in the short term are the ethical considerations. In the
+healthcare sector we have a duty to provide accurate medical information. It's
+baked into policy and regulation, but it's also at the heart of the businesses
+themselves. With [some notable
+exceptions](https://pmc.ncbi.nlm.nih.gov/articles/PMC9339402/) the driving goal
+of pharma is to find new and novel treatments to improve the lives of people.
+Even for those entities in the business purely for profit maximization, lying
+about health is a long term losing strategy.
+
+In marketing our websites and ads must adhere to rigorous guidelines to ensure
+they are accurate and balanced. Companies have internal medical, regulatory, and
+legal teams with the mission of ensuring this compliance. The FDA watches the
+line, ready to issue warnings where companies overstep, or to enter into
+Corporate Integrity Agreement if they're especially naughty.
+
+And for these reasons many companies are scared to touch AI. There isn't
+complete control over the output of the content. What if something is
+miscommunicated, or only a claim is presented without fair balance? What type of
+liability does that create? When will the FDA provide guidance?
+
+In the meantime, misinformation proliferates. In the absence of scientifically
+accurate information published by a credible source, the vacuum of search will
+be filled with the loudest voices. That might be the CDC or Mayo Clinic if
+you're lucky. It might be reddit if you aren't.
+
+Pharma has a duty to public health to engage in these channels. The more
+medically accurate information we can push into the world, the more likely these
+LLMs will train answers upon it. That could mean lives saved, injuries
+prevented, and a growing culture of misinformation brought back on track in some
+small way.
+
+Marketing considerations aside--and there **will** be plenty of those as
+well--we cannot wait to engage in these spaces, whether through structured data,
+or content optimized for AI (bulleted lists, clear hierarchy, FAQs).
+
+In summary, AI is making a big change in how search engines work, moving away
+from traditional keyword searches to smart systems that understand what users
+really mean, personalize results, and adapt to new ways of searching. This shift
+makes the web experience easier and more efficient, but it also comes with
+responsibilities. In areas like healthcare and pharmaceuticals, there is an
+ethical duty to ensure that AI and large language models receive accurate,
+trustworthy information, so users can make safe and informed decisions.
+
 
 <!--  vim: set shiftwidth=4 tabstop=4 tw=80 expandtab: -->
