@@ -1,14 +1,25 @@
+@font-face {
+    font-family: "AtkinsonHyperlegibleNextVF-Variable";
+    src: url('/fonts/AtkinsonHyperlegibleNextVF-Variable.woff2');
+}
+@font-face {
+    font-family: "AtkinsonHyperlegibleMonoVF-Variable";
+    src: url('/fonts/AtkinsonHyperlegibleMonoVF-Variable.woff2');
+}
+
 body {
-	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-family: "AtkinsonHyperlegibleNextVF-Variable", Arial, "Helvetica Neue", Helvetica, sans-serif;
 	line-height: 28px;
 	font-weight: 500;
+  font-variation-settings:"wght" 500;
 	overflow-x: hidden;
 }
 
 h1 {
 	font-size: 32px;
 	line-height: 1.5em;
-	font-weight: bold;
+	font-weight: 600;
+  font-variation-settings:"wght" 600;
 	margin-bottom: 0;
 	color: #000;
 }
@@ -31,12 +42,15 @@ h2 {
 main h2 {
 	font-size: 32px;
 	font-style: italic;
+  font-variation-settings:"ital" 1;
+  font-synthesis:none;
 	padding-top: 1rem;
 }
 
 h3 {
 	font-size: 26px;
-	font-weight: bold;
+	font-weight: 600;
+  font-variation-settings:"wght" 600;
 	padding-top: 1rem;
 }
 
@@ -44,6 +58,8 @@ h3 {
 #index h1 {
 	font-size: 40px;
 	font-style: italic;
+  font-variation-settings:"ital" 1;
+  font-synthesis:none;
 	line-height: 1.5em;
 }
 
@@ -76,6 +92,7 @@ p, li {
 	font-size: 22px;
 	line-height: 1.5em;
 	font-weight: 400;
+  font-variation-settings:"wght" 400;
 }
 
 .p-category {
@@ -83,6 +100,8 @@ p, li {
 	color: #333;
 	box-shadow: none;
 	font-style: italic;
+  font-variation-settings:"ital" 1;
+  font-synthesis:none;
 }
 
 .p-category:hover {
@@ -96,17 +115,22 @@ img {
 blockquote {
 	font-size: 22px;
 	font-weight: 400;
+  font-variation-settings:"wght" 400;
 	font-style: italic;
+  font-variation-settings:"ital" 1;
+  font-synthesis:none;
 }
 
 pre {
 	font-size: 18px;
 	font-weight: 400;
+  font-variation-settings:"wght" 400;
 }
 
 a {
 	color: #59006b;
 	font-weight: 600;
+  font-variation-settings:"wght" 600;
 	text-decoration: none;
 	text-shadow: 1px 1px 0 #fff, -1px 1px 0 #fff, 2px 0 0 #fff, -2px 0 0 #fff;
 	box-shadow: inset 0 2px 0 0 #fff, inset 0 -2px 0 0 #debdde;
@@ -212,7 +236,7 @@ footer {
 
 .highlight pre {
 	padding: 10px;
-	font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+	font-family: "AtkinsonHyperlegibleMonoVF-Variable", Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
 	font-size: 18px;
 	line-height: 1.2em;
 	overflow-x: scroll;
@@ -272,6 +296,7 @@ figure {
 		background: #303030;
 		color: #ddd;
 		font-weight: 400;
+    font-variation-settings:"wght" 400;
 	}
 	h1 {
 		color: #fff;
