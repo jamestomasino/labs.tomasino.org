@@ -8,7 +8,7 @@ tags:
 title: Introducing vim
 ---
 
-<img width="570" height="354" layout="responsive" src="https://labs.tomasino.org/assets/images/vim-code.gif" alt="vim Example"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/vim-code.gif" alt="vim Example">}}
 
 So you want to learn the way of vim? What have you heard? The learning curve is high; you'll need to type obscure commands just to quit? There is learning ahead, true, but it's not like that at all. Frankly, you can learn to use vim in 20 minutes with a tutor you already have on your system.
 
@@ -38,7 +38,7 @@ There are other modes in vim too, like `Visual Mode`, `Visual-Block Mode`, `Sele
 
 Normal mode allows you to move quickly across your document, skipping around by paragraphs, code blocks, jumping to function definitions, visually to the middle or bottom of the screen, and pretty much anywhere else you want to go in a matter of a few keystrokes. No, seriously, I'm not exaggerating here. [Here's a great diagram](https://inside.github.io/vim-presentation/images/vim-move-shortcuts.png) covering the movement keys available to you in vim without any special plugins or configuration.
 
-<img width="570" height="356" layout="responsive" src="https://labs.tomasino.org/assets/images/vim-movement.png" alt="vim Movement Commands"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/vim-movement.png" alt="vim Movement Commands">}}
 
 Most commands in vim, whether they be actions or movement, have a mnemonic device to help you remember. A number of these are listed in the graphic above.
 
@@ -64,7 +64,7 @@ All of those fancy movement keys you learned earlier aren't just for jumping aro
 
 If we want to delete a word we add the delete command with the movement command for a single word: `d` and `w` -> `dw`. If you want to yank everything to the bottom of the current paragraph, following the same pattern you would get: `y}`.
 
-<img width="570" height="354" layout="responsive" src="https://labs.tomasino.org/assets/images/vim-composition.gif" alt="vim Composition"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/vim-composition.gif" alt="vim Composition">}}
 
 In vim you can see the keystrokes being entered in the lower right corner of the screen. This is related to something called *Operator Pending Mode*, but for our purposes it means you can get a sense of the commands I'm entering to accomplish the text manipulations seen here.
 

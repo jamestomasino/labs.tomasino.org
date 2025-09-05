@@ -10,7 +10,7 @@ tags:
 title: Obscure Text
 ---
 
-<img width="493" height="72" layout="responsive" src="https://labs.tomasino.org/assets/images/obscuretext.jpg" alt="Obscure Text"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/obscuretext.jpg" alt="Obscure Text">}}
 
 I love instant messaging. I love it for keeping up with personal
 contacts and as a work tool. I keep in touch with old coworkers and

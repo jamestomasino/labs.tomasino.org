@@ -14,7 +14,7 @@ tags:
 title: AS3 KeyCode Reader
 ---
 
-<img width="600" height="804" layout="responsive" src="https://labs.tomasino.org/assets/images/keycode.jpg" alt="up up down down left right left right b a start"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/keycode.jpg" alt="up up down down left right left right b a start">}}
 
 [Up Up Down Down Left Right Left Right B A Start][]
 

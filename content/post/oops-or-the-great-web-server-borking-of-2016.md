@@ -48,9 +48,7 @@ sudo reboot
 
 Sadly, that would be the last command ever issued to my lovely little VM.
 
-<img width="599" height="480" layout="responsive"
-src="https://labs.tomasino.org/assets/images/system-failure.gif" alt="System
-Failure"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/system-failure.gif" alt="System Failure">}}
 
 The box didn't come back up cleanly. The ssh daemon wasn't running so
 getting a peek at what went wrong was especially difficult. I ran through
@@ -93,8 +91,7 @@ originally started four hosting companies ago and had been upgraded and
 ported through a hodgepodge of stacks and countries. Maybe starting anew
 could be a good thing?
 
-<img width="580" height="300" layout="responsive"
-src="https://labs.tomasino.org/assets/images/aws.png" alt="AWS"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/aws.png" alt="AWS">}}
 
 ## The Rebuild
 

@@ -8,7 +8,7 @@ tags:
   - as3
 ---
 
-<img width="700" height="336" layout="responsive" src="https://labs.tomasino.org/assets/images/slicetransition.jpg" alt="Slice Transition"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/slicetransition.jpg" alt="Slice Transition">}}
 
 While working at [Empathy Lab][] I had the opportunity to help redesign
 the company website. I guess that's a pretty common task, but it was

@@ -11,7 +11,7 @@ tags:
 title: Air Tools (Fools)
 ---
 
-<img width="575" height="410" layout="responsive" src="https://labs.tomasino.org/assets/images/airtools.png" alt="Air Fools"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/airtools.png" alt="Air Fools">}}
 
 This was a quick logo design for a friend. I'm sure there's a story
 behind it, but I'll be damned if I remember it. I really wanted to play

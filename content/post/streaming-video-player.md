@@ -10,7 +10,7 @@ tags:
 title: Streaming Video Player
 ---
 
-<img width="750" height="486" layout="responsive" src="https://labs.tomasino.org/assets/images/flash-video-player.jpg" alt="Flash Video Player"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/flash-video-player.jpg" alt="Flash Video Player">}}
 
 Well, as promised, it's time to reveal the video player I've built on
 top of [SimpleNetStream][]. I don't care for components in Flash; I

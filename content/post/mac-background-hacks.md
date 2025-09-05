@@ -23,4 +23,4 @@ background becomes a crazy monkey for 5 seconds!
 
 Ok, so that was probably a waste of time.
 
-<img width="750" height="503" layout="responsive" src="https://labs.tomasino.org/assets/images/crazy-monkey.jpg" alt="Crazy Monkey"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/crazy-monkey.jpg" alt="Crazy Monkey">}}

@@ -10,7 +10,7 @@ tags:
 title: Interfaces
 ---
 
-<img width="427" height="345" layout="responsive" src="https://labs.tomasino.org/assets/images/interfaces.jpg" alt="Interfaces"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/interfaces.jpg" alt="Interfaces">}}
 
 A lot of AS3 Developers aren't from a traditional computer science
 background. As a result, things like complex data structures and design

@@ -11,7 +11,7 @@ tags:
 title: Depth of Field
 ---
 
-<img width="700" height="264" layout="responsive" src="https://labs.tomasino.org/assets/images/depthoffield.jpg" alt="Depth of Field"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/depthoffield.jpg" alt="Depth of Field">}}
 
 Why doesn't anyone play with depth of field in flash games? Parallax
 movement is all over the place, so why not changing depth of field?

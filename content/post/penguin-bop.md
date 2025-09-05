@@ -12,7 +12,7 @@ tags:
 title: Penguin Bop
 ---
 
-<img width="598" height="449" layout="responsive" src="https://labs.tomasino.org/assets/images/penguinbop.jpg" alt="Penguin Bop"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/penguinbop.jpg" alt="Penguin Bop">}}
 
 This AS2 project was part of an application to [Moxie Interactive][]
 back in 2007. There was talk back then of designing Wii games in Flash,

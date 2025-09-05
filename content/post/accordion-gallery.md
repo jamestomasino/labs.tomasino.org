@@ -10,7 +10,7 @@ tags:
 title: Accordion Gallery
 ---
 
-<img width="600" height="222" layout="responsive" src="https://labs.tomasino.org/assets/images/accgallery.jpg" alt="Accordion Gallery"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/accgallery.jpg" alt="Accordion Gallery">}}
 
 A freebie freelance website needed a very particular type of image
 gallery built that worked like an accordion and could be configured with

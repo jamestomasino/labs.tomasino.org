@@ -7,7 +7,7 @@ tags:
   - cli
 ---
 
-<img width="446" height="421" layout="responsive" src="https://labs.tomasino.org/assets/images/timemanagement.jpg" alt="Time Management"></img>
+{{< figure src="https://labs.tomasino.org/assets/images/timemanagement.jpg" alt="Time Management">}}
 
 While at [Empathy Lab][], I was used as a resource on a lot of different
 projects per week. Sometimes my project managers didn't realize how much
