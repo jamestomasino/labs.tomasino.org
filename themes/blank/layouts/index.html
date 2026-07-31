@@ -9,7 +9,7 @@
 <h1>{{ .Site.Title }}</h1>
 <h2>{{ .Site.Params.description }}</h2>
 <nav>
-  <a href="https://tomasino.org">About</a> <a href="https://blog.tomasino.org">Personal Blog</a> <a href="/blogroll/">Blogroll</a>
+  <a href="https://tomasino.org">About</a> <a href="/blogroll/">Blogroll</a> <a href="https://blog.tomasino.org">Personal Blog</a> <a href="https://blog.tomasino.org/blogroll/">Personal Blogroll</a> 
 </nav>
 {{ range (where .Site.RegularPages "Type" "post") }}
 {{ partial "summary.html" . }}
